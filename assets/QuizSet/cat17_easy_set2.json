@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science &amp; Nature",
+      "question": "Which type of rock is created by intense heat AND pressure?",
+      "correct_answer": "Metamorphic",
+      "incorrect_answers": [
+        "Sedimentary",
+        "Igneous",
+        "Diamond"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science &amp; Nature",
+      "question": "What is the thin, outermost layer of the Earth?",
+      "correct_answer": "Crust",
+      "incorrect_answers": [
+        "Exosphere",
+        "Mantle",
+        "Outer Core"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science &amp; Nature",
+      "question": "What is the atomic mass of Carbon?",
+      "correct_answer": "12",
+      "incorrect_answers": [
+        "14",
+        "16",
+        "10"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science &amp; Nature",
+      "question": "What did Gregory Mendel use to test genetic crossovers?",
+      "correct_answer": "Peas",
+      "incorrect_answers": [
+        "Cats",
+        "Flowers",
+        "Parrots"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science &amp; Nature",
+      "question": "What name is given to all baby marsupials?",
+      "correct_answer": "Joey",
+      "incorrect_answers": [
+        "Calf",
+        "Pup",
+        "Cub"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science &amp; Nature",
+      "question": "Which noble gas has the lowest atomic number?",
+      "correct_answer": "Helium",
+      "incorrect_answers": [
+        "Neon",
+        "Argon",
+        "Krypton"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science &amp; Nature",
+      "question": "What is the common name of the chemical compound &quot;dihydrogen monoxide&quot;?",
+      "correct_answer": "Water",
+      "incorrect_answers": [
+        "Methane",
+        "Ammonia ",
+        "Laughing Gas"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science &amp; Nature",
+      "question": "Rhinoplasty is a surgical procedure on what part of the human body?",
+      "correct_answer": "Nose",
+      "incorrect_answers": [
+        "Ears",
+        "Chin",
+        "Neck"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science &amp; Nature",
+      "question": "How many bones are in the human body?",
+      "correct_answer": "206",
+      "incorrect_answers": [
+        "203",
+        "209",
+        "200"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science &amp; Nature",
+      "question": "Which Apollo mission was the first one to land on the Moon?",
+      "correct_answer": "Apollo 11",
+      "incorrect_answers": [
+        "Apollo 10",
+        "Apollo 9",
+        "Apollo 13"
+      ]
+    }
+  ]
+}

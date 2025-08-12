@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science: Computers",
+      "question": "What type of sound chip does the Super Nintendo Entertainment System (SNES) have?",
+      "correct_answer": "ADPCM Sampler",
+      "incorrect_answers": [
+        "FM Synthesizer",
+        "Programmable Sound Generator (PSG)",
+        "PCM Sampler"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science: Computers",
+      "question": "What does the International System of Quantities refer 1024 bytes as?",
+      "correct_answer": "Kibibyte",
+      "incorrect_answers": [
+        "Kylobyte",
+        "Kilobyte",
+        "Kelobyte"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science: Computers",
+      "question": "What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?",
+      "correct_answer": "Coffee Lake",
+      "incorrect_answers": [
+        "Sandy Bridge",
+        "Skylake",
+        "Broadwell"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science: Computers",
+      "question": "Which of these is not a layer in the OSI model for data communications?",
+      "correct_answer": "Connection Layer",
+      "incorrect_answers": [
+        "Application Layer",
+        "Transport Layer",
+        "Physical Layer"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science: Computers",
+      "question": "Lenovo acquired IBM&#039;s personal computer division, including the ThinkPad line of laptops and tablets, in what year?",
+      "correct_answer": "2005",
+      "incorrect_answers": [
+        "1999",
+        "2002",
+        "2008"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science: Computers",
+      "question": "Who is the founder of Palantir?",
+      "correct_answer": "Peter Thiel",
+      "incorrect_answers": [
+        "Mark Zuckerberg",
+        "Marc Benioff",
+        "Jack Dorsey"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science: Computers",
+      "question": "Australia, Japan, and Southeast Asia are in which ITU Region?",
+      "correct_answer": "Region 3",
+      "incorrect_answers": [
+        "Region 1",
+        "Region 2",
+        "Region 4"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science: Computers",
+      "question": "Which of the following is the oldest of these computers by release date?",
+      "correct_answer": "TRS-80",
+      "incorrect_answers": [
+        "Commodore 64",
+        "ZX Spectrum",
+        "Apple 3"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science: Computers",
+      "question": "What port does HTTP run on?",
+      "correct_answer": "80",
+      "incorrect_answers": [
+        "53",
+        "443",
+        "23"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science: Computers",
+      "question": "Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?",
+      "correct_answer": "Cheetah",
+      "incorrect_answers": [
+        "Puma",
+        "Tiger",
+        "Leopard"
+      ]
+    }
+  ]
+}

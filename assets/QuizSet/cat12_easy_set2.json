@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Music",
+      "question": "Who is the lead singer of the band Coldplay?",
+      "correct_answer": "Chris Martin",
+      "incorrect_answers": [
+        "Chris Isaak",
+        "Chris Wallace",
+        "Chris Connelly"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Music",
+      "question": "Who performed &quot;I Took A Pill In Ibiza&quot;?",
+      "correct_answer": "Mike Posner",
+      "incorrect_answers": [
+        "Avicii",
+        "Robbie Williams",
+        "Harry Styles"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Music",
+      "question": "Which of the following is not a studio album by the band Pink Floyd?",
+      "correct_answer": "Moving Pictures",
+      "incorrect_answers": [
+        "The Dark Side of the Moon",
+        "Wish You Were Here",
+        "Animals"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Music",
+      "question": "Which brass instrument has the lowest pitch in an orchestra?",
+      "correct_answer": "Tuba",
+      "incorrect_answers": [
+        "Trumpet",
+        "Saxophone",
+        "Trombone"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Music",
+      "question": "The &quot;K&quot; in &quot;K-Pop&quot; stands for which word?",
+      "correct_answer": "Korean",
+      "incorrect_answers": [
+        "Kenyan",
+        "Kazakhstan",
+        "Kuwaiti"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Music",
+      "question": "In the words of his 1973 song, Bob Dylan is &quot;knock, knock, knockin&quot; on which door?",
+      "correct_answer": "Heaven&#039;s",
+      "incorrect_answers": [
+        "Opportunity&#039;s",
+        "Angie&#039;s",
+        "Eileen&#039;s"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Music",
+      "question": "Which music publication is often abbreviated to NME?",
+      "correct_answer": "New Musical Express",
+      "incorrect_answers": [
+        "New Metro Entertainment",
+        "Next Musical Enterprise",
+        "North Manchester Express"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Music",
+      "question": "What was Rage Against the Machine&#039;s debut album?",
+      "correct_answer": "Rage Against the Machine",
+      "incorrect_answers": [
+        "Evil Empire",
+        "Bombtrack",
+        "The Battle Of Los Angeles"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Music",
+      "question": "Which of the following songs was not originally released by Sir Elton John? ",
+      "correct_answer": "You&#039;ll Be In My Heart",
+      "incorrect_answers": [
+        "Crocodile Rock",
+        "Candle in the Wind",
+        "I Don&#039;t Wanna Go On With You Like That"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Music",
+      "question": "&quot;Doctor Jones&quot;, &quot;Turn Back Time&quot; and &quot;Barbie Girl&quot; were UK number ones for which Eurodance group?",
+      "correct_answer": "Aqua",
+      "incorrect_answers": [
+        "Vengaboys",
+        "Eiffel 65",
+        "Sash!"
+      ]
+    }
+  ]
+}

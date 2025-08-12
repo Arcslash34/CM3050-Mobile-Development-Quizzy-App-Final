@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Music",
+      "question": "Which of these is the name of a song by Tears for Fears?",
+      "correct_answer": "Shout",
+      "incorrect_answers": [
+        "Scream",
+        "Yell",
+        "Shriek"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Music",
+      "question": "Which of these songs by Skrillex features Fatman Scoop as a side artist?",
+      "correct_answer": "Recess",
+      "incorrect_answers": [
+        "All is Fair in Love and Brostep",
+        "Rock N Roll (Will Take You to the Mountain)",
+        "Scary Monsters and Nice Sprites"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Music",
+      "question": "Which former boy-band star released hit solo single &quot;Angels&quot; in 1997?",
+      "correct_answer": "Robbie Williams",
+      "incorrect_answers": [
+        "Justin Timberlake",
+        "Harry Styles",
+        "Gary Barlow"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Music",
+      "question": "The Red Hot Chili Pepper song &quot;Give It Away&quot; is from what album?",
+      "correct_answer": "Blood Sugar Sex Magik",
+      "incorrect_answers": [
+        "One Hot Minute",
+        "By the Way",
+        "Stadium Arcadium"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Music",
+      "question": "What collaborative album was released by Kanye West and Jay-Z in 2011?",
+      "correct_answer": "Watch the Throne",
+      "incorrect_answers": [
+        "Distant Relatives",
+        "What a Time to be Alive",
+        "Unfinished Business"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Music",
+      "question": "Which term best describes the connection of two sections of a musical piece through a transitional passage?",
+      "correct_answer": "Bridge",
+      "incorrect_answers": [
+        "Coda",
+        "Capo",
+        "Binary Form"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Music",
+      "question": "&quot;Some people call me the space cowboy&quot; is the first line from what song?",
+      "correct_answer": "The Joker",
+      "incorrect_answers": [
+        "Fandango",
+        "Take The Money and Run",
+        "Fly Like an Eagle"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Music",
+      "question": "Which Canadian reggae musician had a 1993 hit with the song &#039;Informer&#039;?",
+      "correct_answer": "Snow",
+      "incorrect_answers": [
+        "Rain",
+        "Hail",
+        "Sleet"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Music",
+      "question": "Ringo Starr of The Beatles mainly played what instrument?",
+      "correct_answer": "Drums",
+      "incorrect_answers": [
+        "Bass",
+        "Guitar",
+        "Piano"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Music",
+      "question": "What is the stage name of English female rapper Mathangi Arulpragasam, who is known for the song &quot;Paper Planes&quot;?",
+      "correct_answer": "M.I.A.",
+      "incorrect_answers": [
+        "K.I.A.",
+        "C.I.A.",
+        "A.I.A."
+      ]
+    }
+  ]
+}

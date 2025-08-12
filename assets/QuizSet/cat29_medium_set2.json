@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Comics",
+      "question": "Which Batman sidekick is the son of Talia al Ghul?",
+      "correct_answer": "Damian Wayne",
+      "incorrect_answers": [
+        "Dick Grayson",
+        "Tim Drake",
+        "Jason Todd"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Comics",
+      "question": "Who is the second person to take up the mantle of Night Owl in the Watchmen graphic novel?",
+      "correct_answer": "Daniel Dreiberg",
+      "incorrect_answers": [
+        "Nelson Gardner",
+        "Hollis Mason",
+        "Adrian Veidt"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Comics",
+      "question": "In the DC Comics 2016 reboot, Rebirth, which speedster escaped from the Speed Force after he had been erased from existance?",
+      "correct_answer": "Wally West",
+      "incorrect_answers": [
+        "Johnny Quick",
+        "Jay Garrick",
+        "Eobard Thawne"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Comics",
+      "question": "In Pre-Super Genesis universe of &quot;Sonic the Hedgehog&quot; comic, what was the name of  Sally Acorn&#039;s brother?",
+      "correct_answer": "Elias Acorn",
+      "incorrect_answers": [
+        "Maximillian Acorn",
+        "Alexis Acorn",
+        "Frederick Acorn"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Comics",
+      "question": "Who was the first American Vampire (Scott Snyder&#039;s American Vampire)?",
+      "correct_answer": "Skinner Sweet",
+      "incorrect_answers": [
+        "Hattie Hargrove",
+        "Pearl Jones",
+        "James &quot;Jim&quot; Book"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Comics",
+      "question": "Which of these game-based comics were published in 2011 by DC Comics?",
+      "correct_answer": "Infamous",
+      "incorrect_answers": [
+        "Left 4 Dead: The Sacrifice",
+        "Prototype",
+        "Kane &amp; Lynch"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Comics",
+      "question": "In Marvel comics, which of the following is not one of the infinity stones?",
+      "correct_answer": "Energy",
+      "incorrect_answers": [
+        "Time",
+        "Power",
+        "Soul"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Comics",
+      "question": "In Calvin and Hobbes, what is the name of the babysitter&#039;s boyfriend?",
+      "correct_answer": "Charlie",
+      "incorrect_answers": [
+        "Dave",
+        "Charles",
+        "Nathaniel"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Comics",
+      "question": "Which of the following superheros did Wonder Woman NOT have a love interest in?",
+      "correct_answer": "Green Arrow",
+      "incorrect_answers": [
+        "Superman",
+        "Batman",
+        "Steve Trevor"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Comics",
+      "question": "In the Hellboy universe, who founded the BPRD?",
+      "correct_answer": "Trevor Bruttenholm",
+      "incorrect_answers": [
+        "Kate Corrigan",
+        "Johann Kraus",
+        "Benjamin Daimio"
+      ]
+    }
+  ]
+}

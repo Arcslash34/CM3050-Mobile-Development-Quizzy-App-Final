@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Japanese Anime &amp; Manga",
+      "question": "What sport is being played in the Anime Eyeshield 21?",
+      "correct_answer": "American Football",
+      "incorrect_answers": [
+        "Baseball",
+        "Football",
+        "Basketball"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Japanese Anime &amp; Manga",
+      "question": "What studio animated Fullmetal Alchemist?",
+      "correct_answer": "Bones",
+      "incorrect_answers": [
+        "Trigger",
+        "Pierrot",
+        "xebec"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Japanese Anime &amp; Manga",
+      "question": "In the series JoJo&#039;s Bizarre Adventure, which main character makes the greatest number of recurring appearances?",
+      "correct_answer": "Jotaro Kujo",
+      "incorrect_answers": [
+        "Giorno Giovanna",
+        "Joseph Joestar",
+        "Josuke Higashikata"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Japanese Anime &amp; Manga",
+      "question": "The main protagonist of the fourth part of JoJo&#039;s Bizarre Adventure is which of the following?",
+      "correct_answer": "Josuke Higashikata",
+      "incorrect_answers": [
+        "Yoshikage kira",
+        "Koichi Hirose",
+        "Joey JoJo"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Japanese Anime &amp; Manga",
+      "question": "In &quot;A Certain Magical Index,&quot; what is Accelerator able to control?",
+      "correct_answer": "Vectors",
+      "incorrect_answers": [
+        "Velocity",
+        "Quantums",
+        "Wormholes"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Japanese Anime &amp; Manga",
+      "question": "In &quot;Little Witch Academia&quot;, what is Shiny Chariot&#039;s alias at Luna Nova Academy?",
+      "correct_answer": "Ursula Callistis",
+      "incorrect_answers": [
+        "Croix Meridies",
+        "Miranda Holbrook",
+        "Anne Finnelan"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Japanese Anime &amp; Manga",
+      "question": "In the &quot;To Love-Ru&quot; series, how many Trans-weapons were created?",
+      "correct_answer": "3",
+      "incorrect_answers": [
+        "1",
+        "2",
+        "4"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Japanese Anime &amp; Manga",
+      "question": "Which studio animated Soul Eater?",
+      "correct_answer": "Bones",
+      "incorrect_answers": [
+        "Kyoto Animation",
+        "xebec",
+        "Production I.G"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Japanese Anime &amp; Manga",
+      "question": "What is the name of the protagonist of the 2017 anime &quot;Land of the Lustrous&quot;?",
+      "correct_answer": "Phosphophyllite",
+      "incorrect_answers": [
+        "Watermelon Tourmaline",
+        "Cinnabar",
+        "Padparadscha"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Japanese Anime &amp; Manga",
+      "question": "In the &quot;Re:Zero&quot; manga series, which of the following Sin Archbishops eats Rem&#039;s existence?",
+      "correct_answer": "Ley Batenkaitos",
+      "incorrect_answers": [
+        "Roy Alphard",
+        "Petelgeuse Romanee-Conti",
+        "Louis Arneb"
+      ]
+    }
+  ]
+}

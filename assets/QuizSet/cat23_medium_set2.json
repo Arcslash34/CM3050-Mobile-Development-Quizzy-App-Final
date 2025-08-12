@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "History",
+      "question": "Adolf Hitler was born on which date?",
+      "correct_answer": "April 20, 1889",
+      "incorrect_answers": [
+        "June 12, 1889",
+        "February 6, 1889",
+        "April 16, 1889"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "History",
+      "question": "What year did the Boxing Day earthquake &amp; tsunami occur in the Indian Ocean?",
+      "correct_answer": "2004",
+      "incorrect_answers": [
+        "2006",
+        "2008",
+        "2002"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "History",
+      "question": "What year were the Marian Reforms instituted in the Roman Republic?",
+      "correct_answer": "107 BCE",
+      "incorrect_answers": [
+        "42 BCE",
+        "264 BCE",
+        "102 CE"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "History",
+      "question": "Which of the following is NOT classified as a Semetic language?",
+      "correct_answer": "Sumerian",
+      "incorrect_answers": [
+        "Maltese",
+        "Akkadian",
+        "Mandaic"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "History",
+      "question": "What historical event was Tchaikovsky&#039;s 1812 Overture referencing?",
+      "correct_answer": "The Napoleonic Wars",
+      "incorrect_answers": [
+        "The American War of 1812",
+        "The Russian Revolution",
+        "The Charge of the Light Brigade (Crimean War)"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "History",
+      "question": "Which dictator killed the most people?",
+      "correct_answer": "Mao Zedong",
+      "incorrect_answers": [
+        "Joseph Stalin",
+        "Adolf Hitler",
+        "Kim Il Sung"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "History",
+      "question": "When did the Battle of the Bulge end?",
+      "correct_answer": "January 25, 1945",
+      "incorrect_answers": [
+        "August 6, 1945",
+        "December 7, 1941",
+        "December 16, 1944"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "History",
+      "question": "The United States Army Air Corps became the United States Air Force on what date?",
+      "correct_answer": "September 18, 1947",
+      "incorrect_answers": [
+        "December 14, 1946",
+        "October 27, 1945",
+        "November 08, 1944"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "History",
+      "question": "In what year did the First World War end?",
+      "correct_answer": "1918",
+      "incorrect_answers": [
+        "1914",
+        "1916",
+        "1912"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "History",
+      "question": "When did Vesuvius destroy the city of Pompeii? ",
+      "correct_answer": "79 AD",
+      "incorrect_answers": [
+        "62 AD",
+        "31 BC",
+        "54 BC"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Mythology",
+      "question": "The Maori hold that which island nation was founded by Kupe, who discovered it under a long white cloud?",
+      "correct_answer": "New Zealand",
+      "incorrect_answers": [
+        "Vanuatu",
+        "Fiji",
+        "Hawaii"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Mythology",
+      "question": "Which of these Roman gods doesn&#039;t have a counterpart in Greek mythology?",
+      "correct_answer": "Janus",
+      "incorrect_answers": [
+        "Vulcan",
+        "Juno",
+        "Mars"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Mythology",
+      "question": "Which greek god/goddess tossed a golden apple with the words &quot;for the fairest&quot; into the middle of the feast of the gods?",
+      "correct_answer": "Eris",
+      "incorrect_answers": [
+        "Hades",
+        "Ares",
+        "Artemis"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Mythology",
+      "question": "In Norse Mythology, Baldr was killed by Loki with a magical spear made from what plant?",
+      "correct_answer": "Mistletoe",
+      "incorrect_answers": [
+        "Wolf&#039;s Bane",
+        "Buckthorn",
+        "Hemlock"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Mythology",
+      "question": "Neptune&#039;s greek name was...",
+      "correct_answer": "Poseidon",
+      "incorrect_answers": [
+        "Ares",
+        "Zeus",
+        "Apollo"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Mythology",
+      "question": "According to Japanese folklore, what is the favorite food of the Kappa.",
+      "correct_answer": "Cucumbers",
+      "incorrect_answers": [
+        "Kabocha",
+        "Nasu",
+        "Soba"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Mythology",
+      "question": "Hera is god of...",
+      "correct_answer": "Marriage",
+      "incorrect_answers": [
+        "Agriculture",
+        "Sea",
+        "War"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Mythology",
+      "question": "What is the name of the first human being in Norse mythology?",
+      "correct_answer": "Ask",
+      "incorrect_answers": [
+        "Asmund",
+        "Ake",
+        "Asger"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Mythology",
+      "question": "In Greek Mythology, who killed Achilles?",
+      "correct_answer": "Paris",
+      "incorrect_answers": [
+        "Hector",
+        "Helen",
+        "Pericles"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Mythology",
+      "question": "Who is the God Loki&#039;s son? ",
+      "correct_answer": "Fenrir ",
+      "incorrect_answers": [
+        "Odin",
+        "Hel",
+        "Sigyn"
+      ]
+    }
+  ]
+}

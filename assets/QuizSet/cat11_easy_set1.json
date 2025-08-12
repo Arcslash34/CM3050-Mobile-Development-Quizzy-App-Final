@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Film",
+      "question": "What historical time period was the center of the Assassin&rsquo;s Creed movie (2016)?",
+      "correct_answer": "Spanish Inquisition",
+      "incorrect_answers": [
+        "Victorian England",
+        "French Revolution",
+        "Colonial America"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Film",
+      "question": "Who directed the Kill Bill movies?",
+      "correct_answer": "Quentin Tarantino",
+      "incorrect_answers": [
+        "Arnold Schwarzenegger",
+        "David Lean",
+        "Stanley Kubrick"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Film",
+      "question": "Daniel Radcliffe became a global star in the film industry due to his performance in which film franchise?",
+      "correct_answer": "Harry Potter",
+      "incorrect_answers": [
+        "Ted",
+        "Spy Kids",
+        "Pirates of the Caribbean "
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Film",
+      "question": "Who directed the movies &quot;Pulp Fiction&quot;, &quot;Reservoir Dogs&quot; and &quot;Django Unchained&quot;?",
+      "correct_answer": "Quentin Tarantino",
+      "incorrect_answers": [
+        "Martin Scorcese",
+        "Steven Spielberg",
+        "James Cameron"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Film",
+      "question": "In which film does Humphrey Bogart say the famous line, &quot;Here&#039;s looking at you, kid&quot;?",
+      "correct_answer": "Casablanca",
+      "incorrect_answers": [
+        "The Maltese Falcon",
+        "The Treasure of the Sierra Madre",
+        "Citizen Kane"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Film",
+      "question": "Who starred as Bruce Wayne and Batman in Tim Burton&#039;s 1989 movie &quot;Batman&quot;?",
+      "correct_answer": "Michael Keaton",
+      "incorrect_answers": [
+        "George Clooney",
+        "Val Kilmer",
+        "Adam West"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Film",
+      "question": "Who played the female lead in the 1933 film &quot;King Kong&quot;?",
+      "correct_answer": "Fay Wray",
+      "incorrect_answers": [
+        "Jean Harlow",
+        "Vivien Leigh",
+        "Mae West"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Film",
+      "question": "This movie contains the quote, &quot;Nobody puts Baby in a corner.&quot;",
+      "correct_answer": "Dirty Dancing",
+      "incorrect_answers": [
+        "Three Men and a Baby",
+        "Ferris Bueller&#039;s Day Off",
+        "Pretty in Pink"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Film",
+      "question": "The 1996 film &#039;Fargo&#039; is primarily set in which US state?",
+      "correct_answer": "Minnesota",
+      "incorrect_answers": [
+        "North Dakota",
+        "South Dakota",
+        "Wisconsin"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Film",
+      "question": "Who directed the 2015 movie &quot;The Revenant&quot;?",
+      "correct_answer": "Alejandro G. I&ntilde;&aacute;rritu",
+      "incorrect_answers": [
+        "Christopher Nolan",
+        "David Fincher",
+        "Wes Anderson"
+      ]
+    }
+  ]
+}

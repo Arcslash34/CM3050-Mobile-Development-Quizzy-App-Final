@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Japanese Anime &amp; Manga",
+      "question": "In &quot;Fairy Tail&quot;, what is the nickname of Natsu Dragneel?",
+      "correct_answer": "The Salamander",
+      "incorrect_answers": [
+        "The Dragon Slayer",
+        "The Dragon",
+        "The Demon"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Japanese Anime &amp; Manga",
+      "question": "Which of the following originated as a manga?",
+      "correct_answer": "Akira",
+      "incorrect_answers": [
+        "Cowboy Bebop",
+        "High School DxD",
+        "Gurren Lagann"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Japanese Anime &amp; Manga",
+      "question": "What year did &quot;Attack on Titan&quot; first air?",
+      "correct_answer": "2013",
+      "incorrect_answers": [
+        "2014",
+        "2012",
+        "2015"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Japanese Anime &amp; Manga",
+      "question": "Who is the author of the manga series &quot;Astro Boy&quot;?",
+      "correct_answer": "Osamu Tezuka",
+      "incorrect_answers": [
+        "Mitsuteri Yokoyama",
+        "Takao Saito",
+        "Yoshihiro Tatsumi"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Japanese Anime &amp; Manga",
+      "question": "What is the last name of Edward and Alphonse in the Fullmetal Alchemist series.",
+      "correct_answer": "Elric",
+      "incorrect_answers": [
+        "Ellis",
+        "Eliek",
+        "Elwood"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Japanese Anime &amp; Manga",
+      "question": "In &quot;Future Diary&quot;, what is the name of Yuno Gasai&#039;s Phone Diary?",
+      "correct_answer": "Yukiteru Diary",
+      "incorrect_answers": [
+        "Murder Diary",
+        "Escape Diary ",
+        "Justice Diary "
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Japanese Anime &amp; Manga",
+      "question": "In &quot;A Certain Scientific Railgun&quot;, how many &quot;sisters&quot; did Accelerator have to kill to achieve the rumored level 6?",
+      "correct_answer": "20,000",
+      "incorrect_answers": [
+        "128",
+        "10,000",
+        "5,000"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Japanese Anime &amp; Manga",
+      "question": "Who is the colossal titan in &quot;Attack On Titan&quot;?",
+      "correct_answer": "Bertolt Hoover",
+      "incorrect_answers": [
+        "Reiner",
+        "Eren",
+        "Sasha"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Japanese Anime &amp; Manga",
+      "question": "What is the name of the corgi in Cowboy Bebop?",
+      "correct_answer": "Einstein",
+      "incorrect_answers": [
+        "Edward",
+        "Rocket",
+        "Joel"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Japanese Anime &amp; Manga",
+      "question": "Who is the armored titan in &quot;Attack On Titan&quot;?",
+      "correct_answer": "Reiner Braun",
+      "incorrect_answers": [
+        "Armin Arlelt",
+        "Mikasa Ackermann",
+        "Eren Jaeger"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Music",
+      "question": "Which of these is the name of an American psychedelic rock band formed in 2002 by Benjamin Goldwasser and Andrew VanWyngarden?",
+      "correct_answer": "MGMT",
+      "incorrect_answers": [
+        "MSTRKRFT",
+        "STRFKR",
+        "SBTRKT"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Music",
+      "question": "Who released the 1991 album &quot;Out of Time&quot;?",
+      "correct_answer": "R.E.M.",
+      "incorrect_answers": [
+        "U2",
+        "Coldplay",
+        "The Rolling Stones"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Music",
+      "question": "What country did Shirley Bassey originate from?",
+      "correct_answer": "Wales",
+      "incorrect_answers": [
+        "America",
+        "England",
+        "Canada"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Music",
+      "question": "Which country does the power metal band &quot;Sabaton&quot; originate from?",
+      "correct_answer": "Sweden",
+      "incorrect_answers": [
+        "Germany",
+        "United States",
+        "Finland"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Music",
+      "question": "Which European capital city gives its name to a 1981 song by Ultravox?",
+      "correct_answer": "Vienna",
+      "incorrect_answers": [
+        "Berlin",
+        "Paris",
+        "Brussels"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Music",
+      "question": "What is Brian May&#039;s guitar called?",
+      "correct_answer": "Red Special",
+      "incorrect_answers": [
+        "Blue Special",
+        "Green Special",
+        "Yellow Special"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Music",
+      "question": "Which of these songs is not on the &quot;untitled&quot; album by Led Zeppelin?",
+      "correct_answer": "Celebration Day",
+      "incorrect_answers": [
+        "Stairway to Heaven",
+        "Black Dog",
+        "Rock and Roll"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Music",
+      "question": "Irish musician Hozier released a music track in 2013 titled, &quot;Take Me to ______&quot;",
+      "correct_answer": "Church",
+      "incorrect_answers": [
+        "Mosque",
+        "Synagogue",
+        "Temple"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Music",
+      "question": "What genre of EDM is the Dutch DJ, musician, and remixer Armin van Buuren most well-known for?",
+      "correct_answer": "Trance",
+      "incorrect_answers": [
+        "House",
+        "Drum and Bass",
+        "Dubstep"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Music",
+      "question": "Which artist collaborated with American DJ Dillon Francis to release the song 2016 &quot;Need You&quot;?",
+      "correct_answer": "NGHTMRE",
+      "incorrect_answers": [
+        "LOUDPVCK",
+        "KRNE",
+        "DVBBS"
+      ]
+    }
+  ]
+}

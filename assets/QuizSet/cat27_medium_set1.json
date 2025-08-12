@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Animals",
+      "question": "What is the name for a male bee that comes from an unfertilized egg?",
+      "correct_answer": "Drone",
+      "incorrect_answers": [
+        "Soldier",
+        "Worker",
+        "Male"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Animals",
+      "question": "What color/colour is a polar bear&#039;s skin?",
+      "correct_answer": "Black",
+      "incorrect_answers": [
+        "White",
+        "Pink",
+        "Green"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Animals",
+      "question": "The dish Fugu, is made from what family of fish?",
+      "correct_answer": "Pufferfish",
+      "incorrect_answers": [
+        "Bass",
+        "Salmon",
+        "Mackerel"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Animals",
+      "question": "What is the collective noun for bears?",
+      "correct_answer": "Sloth",
+      "incorrect_answers": [
+        "Drove",
+        "Tribe",
+        "Husk"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Animals",
+      "question": "Which of these species is not extinct?",
+      "correct_answer": "Komodo dragon",
+      "incorrect_answers": [
+        "Japanese sea lion",
+        "Tasmanian tiger",
+        "Saudi gazelle"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Animals",
+      "question": "Cashmere is the wool from which kind of animal?",
+      "correct_answer": "Goat",
+      "incorrect_answers": [
+        "Sheep",
+        "Camel",
+        "Llama"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Animals",
+      "question": "Which animal was part of an Russian domestication experiment in 1959?",
+      "correct_answer": "Foxes",
+      "incorrect_answers": [
+        "Pigeons",
+        "Bears",
+        "Alligators"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Animals",
+      "question": "What is the fastest animal?",
+      "correct_answer": "Peregrine Falcon",
+      "incorrect_answers": [
+        "Golden Eagle",
+        "Cheetah",
+        "Horsefly"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Animals",
+      "question": "What is the name of the family that the domestic cat is a member of?",
+      "correct_answer": "Felidae",
+      "incorrect_answers": [
+        "Felinae",
+        "Felis",
+        "Cat"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Animals",
+      "question": "What type of animal is a natterjack?",
+      "correct_answer": "Toad",
+      "incorrect_answers": [
+        "Bird",
+        "Fish",
+        "Insect"
+      ]
+    }
+  ]
+}

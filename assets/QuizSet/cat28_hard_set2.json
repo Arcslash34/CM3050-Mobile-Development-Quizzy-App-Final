@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Vehicles",
+      "question": "What kind of train was Stepney, a train on the Bluebell Railway notable for his appearance in &quot;The Railway Series&quot;?",
+      "correct_answer": "LB&amp;SCR A1X",
+      "incorrect_answers": [
+        "LB&amp;SCR E2",
+        "LB&amp;SCR J1",
+        "LB&amp;SCR D1"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Vehicles",
+      "question": "What model was the sports car gifted to Yuri Gagarin by the French government in 1965?",
+      "correct_answer": "Matra Djet",
+      "incorrect_answers": [
+        "Porsche 911",
+        "Alpine A110",
+        "AC Cobra"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Vehicles",
+      "question": "Which car is the first mass-produced hybrid vehicle?",
+      "correct_answer": "Toyota Prius",
+      "incorrect_answers": [
+        "Chevrolet Volt",
+        "Honda Fit",
+        "Peugeot 308 R HYbrid"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Vehicles",
+      "question": "Which one of these chassis codes are used by BMW 3-series?",
+      "correct_answer": "E46",
+      "incorrect_answers": [
+        "E39",
+        "E85",
+        "F10"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Vehicles",
+      "question": "Which Variable Valve Timing technology is used by BMW?",
+      "correct_answer": "VANOS",
+      "incorrect_answers": [
+        "VVT-iw",
+        "VVEL",
+        "MultiAir"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Vehicles",
+      "question": "In 2014, over 6 million General Motors vehicles were recalled due to what critical flaw?",
+      "correct_answer": "Faulty ignition switch",
+      "incorrect_answers": [
+        "Malfunctioning gas pedal",
+        "Breaking fuel lines",
+        "Faulty brake pads"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Vehicles",
+      "question": "What engine is in the Lexus SC400?",
+      "correct_answer": "1UZ-FE",
+      "incorrect_answers": [
+        "2JZ-GTE",
+        "7M-GTE",
+        "5M-GE"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Vehicles",
+      "question": "What was the name of the first front-wheel-drive car produced by Datsun (now Nissan)?",
+      "correct_answer": "Cherry",
+      "incorrect_answers": [
+        "Sunny",
+        "Bluebird",
+        "Skyline"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Vehicles",
+      "question": "What car manufacturer gave away their patent for the seat-belt in the interest of saving lives?",
+      "correct_answer": "Volvo",
+      "incorrect_answers": [
+        "Ferrari",
+        "Ford",
+        "Renault"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Vehicles",
+      "question": "Which of the following FIA Rally cars was approved for use in the Group B class first? ",
+      "correct_answer": "Porsche 911 Turbo",
+      "incorrect_answers": [
+        "Audi Quattro A2",
+        "BMW M1",
+        "Lancia Rally 037"
+      ]
+    }
+  ]
+}

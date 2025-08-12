@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Music",
+      "question": "Who was the first Jazz Musician to win the Pulitzer Prize for Music",
+      "correct_answer": "Wynton Marsalis",
+      "incorrect_answers": [
+        "Michael Brecker",
+        "Herbie Hancock",
+        "Joe Henderson"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Music",
+      "question": "Which iconic album cover features the pulsar waves of CP 1919 placed in the center of the cover?",
+      "correct_answer": "Unknown Pleasures",
+      "incorrect_answers": [
+        "The Dark Side of the Moon",
+        "London Calling",
+        "The Velvet Underground &amp; Nico"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Music",
+      "question": "What was the name of the hip hop group Kanye West was a member of in the late 90s?",
+      "correct_answer": "The Go-Getters",
+      "incorrect_answers": [
+        "The Jumpers",
+        "The Kickstarters",
+        "The Beat-Busters"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Music",
+      "question": "What was the name of the rock band that Nobuo Uematsu formed that played songs from various Final Fantasy games?",
+      "correct_answer": "The Black Mages",
+      "incorrect_answers": [
+        "The Final Fantasies",
+        "The Espers",
+        "The Rock Summoners"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Music",
+      "question": "Who was the original drummer for The Beatles?",
+      "correct_answer": "Tommy Moore",
+      "incorrect_answers": [
+        "Ringo Starr",
+        "Stuart Sutcliffe",
+        "Pete Best"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Music",
+      "question": "Who sings the rap song &quot;Secret Wars Part 1&quot;?",
+      "correct_answer": "The Last Emperor",
+      "incorrect_answers": [
+        "MC Frontalot",
+        "Busdriver",
+        "Masta Killa"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Music",
+      "question": "What is the name of the song by Beyonc&eacute; and Alejandro Fern&aacute;ndez released in 2007?",
+      "correct_answer": "Amor Gitano",
+      "incorrect_answers": [
+        "La ultima vez",
+        "Rocket",
+        "Hasta Dondes Estes"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Music",
+      "question": "Who wrote the song &quot;You Know You Like It&quot;?",
+      "correct_answer": "AlunaGeorge",
+      "incorrect_answers": [
+        "DJ Snake",
+        "Steve Aoki",
+        "Major Lazer"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Music",
+      "question": "Which artists&#039; version of the song &quot;The Tide is High&quot; came first?",
+      "correct_answer": "The Paragons",
+      "incorrect_answers": [
+        "Blondie",
+        "Kardinal Offishall",
+        "Atomic Kitten"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Music",
+      "question": "Artis Leon Ivey Jr. is better known as which rap artist?",
+      "correct_answer": "Coolio",
+      "incorrect_answers": [
+        "Dr Dre",
+        "Snoop Dogg",
+        "Ice T"
+      ]
+    }
+  ]
+}

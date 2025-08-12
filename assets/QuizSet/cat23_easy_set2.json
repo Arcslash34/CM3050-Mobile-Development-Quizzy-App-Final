@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "History",
+      "question": "Which famous military commander marched an army, which included war elephants, over the Alps during the Second Punic War?",
+      "correct_answer": "Hannibal",
+      "incorrect_answers": [
+        "Garmanicus",
+        "Alexander the Great",
+        "Tiberius"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "History",
+      "question": "Which of the following African countries was most successful in resisting colonization?",
+      "correct_answer": "Ethiopia",
+      "incorrect_answers": [
+        "C&ocirc;te d&rsquo;Ivoire",
+        "Congo",
+        "Namibia"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "History",
+      "question": "When did the Byzantine Empire collapse?",
+      "correct_answer": "1453",
+      "incorrect_answers": [
+        "1299",
+        "1353",
+        "1498"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "History",
+      "question": "In which year did the Invasion of Kuwait by Iraq occur?",
+      "correct_answer": "1990",
+      "incorrect_answers": [
+        "1992",
+        "1988",
+        "1986"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "History",
+      "question": "In what year did the nuclear power plant in Chernobyl melt down?",
+      "correct_answer": "1986",
+      "incorrect_answers": [
+        "1991",
+        "1975",
+        "1998"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "History",
+      "question": "What year did World War I begin?",
+      "correct_answer": "1914",
+      "incorrect_answers": [
+        "1905",
+        "1919",
+        "1925"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "History",
+      "question": "When was Google founded?",
+      "correct_answer": "September 4, 1998",
+      "incorrect_answers": [
+        "October 9, 1997",
+        "December 12, 1989",
+        "Feburary 7th, 2000"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "History",
+      "question": "The Ottoman Empire was dissolved after their loss in which war?",
+      "correct_answer": "World War I",
+      "incorrect_answers": [
+        "Crimean War",
+        "Serbian Revolution",
+        "Second Balkan War"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "History",
+      "question": "The idea of Socialism was articulated and advanced by whom?",
+      "correct_answer": "Karl Marx",
+      "incorrect_answers": [
+        "Vladimir Lenin",
+        "Joseph Stalin",
+        "Vladimir Putin"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "History",
+      "question": "When did the Battle of the Somme begin?",
+      "correct_answer": "July 1st, 1916",
+      "incorrect_answers": [
+        "August 1st, 1916",
+        "July 2nd, 1916",
+        "June 30th, 1916"
+      ]
+    }
+  ]
+}

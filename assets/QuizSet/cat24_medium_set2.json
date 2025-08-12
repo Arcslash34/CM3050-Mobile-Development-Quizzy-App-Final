@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Politics",
+      "question": "Who was the only president to not be in office in Washington D.C?",
+      "correct_answer": "George Washington",
+      "incorrect_answers": [
+        "Abraham Lincoln",
+        "Richard Nixon",
+        "Thomas Jefferson"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Politics",
+      "question": "Who succeeded Joseph Stalin as General Secretary of the Communist Party of the Soviet Union?",
+      "correct_answer": "Nikita Khrushchev",
+      "incorrect_answers": [
+        "Leonid Brezhnev",
+        "Mikhail Gorbachev",
+        "Boris Yeltsin"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Politics",
+      "question": "What is the primary purpose of the Fourth Amendment to the US Constitution?",
+      "correct_answer": "Preventing unreasonable searches and seizures",
+      "incorrect_answers": [
+        "Preventing cruel and unusual punishments",
+        "Protecting against imprisonment without due process of law",
+        "Protecting the right to keep and bear arms"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Politics",
+      "question": "Which of these is NOT one of Donald Trump&#039;s children?",
+      "correct_answer": "Julius",
+      "incorrect_answers": [
+        "Donald Jr.",
+        "Ivanka",
+        "Eric"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Politics",
+      "question": "What was the personal nickname of the 40th Governor of the US State Louisiana, Huey Long?",
+      "correct_answer": "The Kingfish",
+      "incorrect_answers": [
+        "The Champ",
+        "The Hoot Owl",
+        "The Oracle"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Politics",
+      "question": "Due to the Nagoya Resolution, China agreed to allow Taiwan to compete separately in international sporting events under what name?",
+      "correct_answer": "Chinese Taipei",
+      "incorrect_answers": [
+        "Chinese Taiwan",
+        "Republic of Taiwan",
+        "Republic of Taipei "
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Politics",
+      "question": "Between 1973 to 1990, what country was ruled by dictator Augusto Pinochet?",
+      "correct_answer": "Chile",
+      "incorrect_answers": [
+        "Ethiopia",
+        "Indonesia",
+        "Nicaragua"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Politics",
+      "question": "Before 2011, &quot;True Capitalist Radio&quot; was known by a different name. What was that name?",
+      "correct_answer": "True Conservative Radio",
+      "incorrect_answers": [
+        "True Republican Radio",
+        "Texan Capitalist Radio",
+        "United Capitalists"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Politics",
+      "question": "Which former US president used &quot;Let&#039;s Make America Great Again&quot; as his campaign slogan before Donald Trump&#039;s campaign?",
+      "correct_answer": "Ronald Reagan",
+      "incorrect_answers": [
+        "Jimmy Carter",
+        "Gerald Ford",
+        "Richard Nixon"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Politics",
+      "question": "Who was the British Prime Minister at the outbreak of the Second World War?",
+      "correct_answer": "Neville Chamberlain",
+      "incorrect_answers": [
+        "Clement Attlee",
+        "Winston Churchill",
+        "Stanley Baldwin"
+      ]
+    }
+  ]
+}

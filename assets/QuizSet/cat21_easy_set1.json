@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Sports",
+      "question": "Which country hosted the 2020 Summer Olympics?",
+      "correct_answer": "Japan",
+      "incorrect_answers": [
+        "China",
+        "Australia",
+        "Germany"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Sports",
+      "question": "Which country hosted the 2022 FIFA World Cup?",
+      "correct_answer": "Qatar",
+      "incorrect_answers": [
+        "USA",
+        "Japan",
+        "Switzerland"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Sports",
+      "question": "In bowling, what is the term used for getting three consecutive strikes?",
+      "correct_answer": "Turkey",
+      "incorrect_answers": [
+        "Flamingo",
+        "Birdie",
+        "Eagle"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Sports",
+      "question": "This Canadian television sportscaster is known for his &quot;Hockey Night in Canada&quot; role, a commentary show during hockey games.",
+      "correct_answer": "Don Cherry",
+      "incorrect_answers": [
+        "Don McKellar",
+        "Don Taylor ",
+        "Donald Sutherland"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Sports",
+      "question": "Which country hosted the 2018 FIFA World Cup?",
+      "correct_answer": "Russia",
+      "incorrect_answers": [
+        "Germany",
+        "United States",
+        "Saudi Arabia"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Sports",
+      "question": "Which African American is in part responsible for integrating  Major League baseball?",
+      "correct_answer": "Jackie Robinson",
+      "incorrect_answers": [
+        "Curt Flood",
+        "Roy Campanella",
+        "Satchell Paige"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Sports",
+      "question": "What team did England beat to win in the 1966 World Cup final?",
+      "correct_answer": "West Germany",
+      "incorrect_answers": [
+        "Soviet Union",
+        "Portugal",
+        "Brazil"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Sports",
+      "question": "Which team won the 2015-16 English Premier League?",
+      "correct_answer": "Leicester City",
+      "incorrect_answers": [
+        "Liverpool",
+        "Cheslea",
+        "Manchester United"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Sports",
+      "question": "Which year did Jenson Button won his first ever Formula One World Drivers&#039; Championship?",
+      "correct_answer": "2009",
+      "incorrect_answers": [
+        "2010",
+        "2007",
+        "2006"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Sports",
+      "question": "The Los Angeles Dodgers were originally from what U.S. city?",
+      "correct_answer": "Brooklyn",
+      "incorrect_answers": [
+        "Las Vegas",
+        "Boston",
+        "Seattle"
+      ]
+    }
+  ]
+}

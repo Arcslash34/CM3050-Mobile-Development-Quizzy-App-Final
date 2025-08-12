@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Comics",
+      "question": "In the Hellboy universe, what was Abe Sapien&#039;s birth name?",
+      "correct_answer": "Langdon Everett Caul",
+      "incorrect_answers": [
+        "Lord Baltimore",
+        "Sir Edward Grey",
+        "Landis Pope"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Comics",
+      "question": "When Batman trolls the online chat rooms, what alias does he use?",
+      "correct_answer": "JonDoe297",
+      "incorrect_answers": [
+        "iAmBatman",
+        "BWayne13",
+        "BW1129"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Comics",
+      "question": "In 1978, Superman teamed up with what celebrity, to defeat an alien invasion?",
+      "correct_answer": "Muhammad Ali",
+      "incorrect_answers": [
+        "Mike Tyson",
+        "Sylvester Stallone",
+        "Arnold Schwarzenegger"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Comics",
+      "question": "What are the names of the two &quot;Canon fan trolls&quot; in &quot;Homestuck&quot;?",
+      "correct_answer": "Mierfa Durgas and Nektan Whelan",
+      "incorrect_answers": [
+        "The Wrycrown and Voksea Olkido",
+        "Aikter Frekik and Xagrai Ollomu",
+        "Grekei Ceknux and Riya Camacho"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Comics",
+      "question": "Better known by his nickname Logan, what is Wolverine&#039;s birth name?",
+      "correct_answer": "James Howlett",
+      "incorrect_answers": [
+        "Logan Wolf",
+        "Thomas Wilde",
+        "John Savage"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Comics",
+      "question": "What is the real hair colour of the mainstream comic book version (Earth-616) of Daredevil?",
+      "correct_answer": "Blonde",
+      "incorrect_answers": [
+        "Auburn",
+        "Brown",
+        "Black"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Comics",
+      "question": "Which of the following rings from the DC Comics&#039; &quot;Lantern Corps&quot; are classified as Parasitic?",
+      "correct_answer": "Indigo (Compassion)",
+      "incorrect_answers": [
+        "Green (Willpower)",
+        "White (Life)",
+        "Yellow (Fear)"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Comics",
+      "question": "Which pulp hero made appearances in Hellboy and BPRD comics before getting his own spin-off?",
+      "correct_answer": "Lobster Johnson",
+      "incorrect_answers": [
+        "Roger the Homunculus",
+        "The Spider",
+        "The Wendigo"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Comics",
+      "question": "In the &quot;Archie&quot; comics, who was Jughead&#039;s first girlfriend?",
+      "correct_answer": "Joani",
+      "incorrect_answers": [
+        "Ethel",
+        "Debbi",
+        "Margret"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Comics",
+      "question": "In the webcomic &quot;Ava&#039;s Demon&quot;, what sin is &quot;Nevy Nervine&quot; based off of? ",
+      "correct_answer": "Envy ",
+      "incorrect_answers": [
+        "Sloth",
+        "Wrath ",
+        "Lust"
+      ]
+    }
+  ]
+}

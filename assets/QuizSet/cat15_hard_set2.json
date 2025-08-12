@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Video Games",
+      "question": "In the video game &quot;Metal Gear Solid&quot;, what did Revolver Ocelot consider the greatest handgun ever made?",
+      "correct_answer": "Colt Single Action Army",
+      "incorrect_answers": [
+        "Colt Python",
+        "Colt M1892",
+        "Colt 1851 Navy Revolver"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Video Games",
+      "question": "What is the plane of existence in MicroProse&#039;s 1997 &quot;Magic the Gathering&quot;?",
+      "correct_answer": "Shandalar",
+      "incorrect_answers": [
+        "Theros",
+        "Ravnica",
+        "Amonkhet"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Video Games",
+      "question": "In 2004, which person(s) created &quot;Roblox&quot;?",
+      "correct_answer": "David Baszucki and Erik Cassel",
+      "incorrect_answers": [
+        "Erik Cassel",
+        "Jonas Alto and Sarah Smith",
+        "James Kolein"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Video Games",
+      "question": "Prior to his appearance in Super Smash Bros. Ultimate, What was King K. Rool&#039;s last appearance in any game?",
+      "correct_answer": "Mario Super Sluggers",
+      "incorrect_answers": [
+        "Donkey Kong 64",
+        "Donkey Kong Country 3",
+        "Donkey Kong: King Of Swing"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Video Games",
+      "question": "What is the 4th boss in the 1997 video game &quot;Crash Bandicoot 2: Cortex Strikes Back&quot;?",
+      "correct_answer": "Dr. N. Gin",
+      "incorrect_answers": [
+        "Dr. Neo Cortex",
+        "Komodo Brothers",
+        "Tiny Tiger"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Video Games",
+      "question": "What do the video games No Man&rsquo;s Sky and Mighty No. 9 have in common?",
+      "correct_answer": "Both were announced in 2013.",
+      "incorrect_answers": [
+        "Both were crowdfunded.",
+        "Both were developed by indie studios.",
+        "Both were released for the PlayStation 3."
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Video Games",
+      "question": "In &quot;Call Of Duty: Zombies&quot;, which weapon does NOT deal any damage?",
+      "correct_answer": "31-79 JGb215",
+      "incorrect_answers": [
+        "Sliquifier",
+        "V-R11",
+        "Wunderwaffe DG-2"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Video Games",
+      "question": "Which was the first M-rated video game developed by Squaresoft/Square Enix?",
+      "correct_answer": "Parasite Eve",
+      "incorrect_answers": [
+        "Final Fantasy VIII",
+        "Front Mission",
+        "Vagrant Story"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Video Games",
+      "question": "What was the world&#039;s first video game?",
+      "correct_answer": "Tennis for Two",
+      "incorrect_answers": [
+        "Spacewar!",
+        "Pong",
+        "Space Travel"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Video Games",
+      "question": "The map featured in Arma 3 named &quot;Altis&quot; is based off of what Greek island?",
+      "correct_answer": "Lemnos",
+      "incorrect_answers": [
+        "Ithaca",
+        "Naxos",
+        "Anafi"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Geography",
+      "question": "What is the name of the peninsula containing Spain and Portugal?",
+      "correct_answer": "Iberian Peninsula",
+      "incorrect_answers": [
+        "European Peninsula",
+        "Peloponnesian Peninsula",
+        "Scandinavian Peninsula"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Geography",
+      "question": "The Alps are a mountain range on which continent?",
+      "correct_answer": "Europe",
+      "incorrect_answers": [
+        "North America",
+        "Asia",
+        "Africa"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Geography",
+      "question": "What is the capital of India?",
+      "correct_answer": "New Delhi",
+      "incorrect_answers": [
+        "Beijing",
+        "Montreal",
+        "Tithi"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Geography",
+      "question": "What colour is the circle on the Japanese flag?",
+      "correct_answer": "Red",
+      "incorrect_answers": [
+        "White",
+        "Yellow",
+        "Black"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Geography",
+      "question": "How many federal states does Germany have?",
+      "correct_answer": "16",
+      "incorrect_answers": [
+        "13",
+        "32",
+        "25"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Geography",
+      "question": "What is the capital of Denmark?",
+      "correct_answer": "Copenhagen",
+      "incorrect_answers": [
+        "Aarhus",
+        "Odense",
+        "Aalborg"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Geography",
+      "question": "What is the largest country in the world?",
+      "correct_answer": "Russia",
+      "incorrect_answers": [
+        "Canada",
+        "China",
+        "United States"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Geography",
+      "question": "What is the capital of South Korea?",
+      "correct_answer": "Seoul",
+      "incorrect_answers": [
+        "Pyongyang",
+        "Taegu",
+        "Kitakyushu"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Geography",
+      "question": "Where would you find the &quot;Spanish Steps&quot;?",
+      "correct_answer": "Rome, Italy",
+      "incorrect_answers": [
+        "Barcelona, Spain",
+        "Berlin, Germany",
+        "London, England"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Geography",
+      "question": "What is the capital of Jamaica?",
+      "correct_answer": "Kingston",
+      "incorrect_answers": [
+        "San Juan",
+        "Port-au-Prince",
+        "Bridgetown"
+      ]
+    }
+  ]
+}

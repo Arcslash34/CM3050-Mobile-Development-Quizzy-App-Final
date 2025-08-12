@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Music",
+      "question": "Which lyric is about Red Hot Chili Peppers frontman Anthony Kiedis?",
+      "correct_answer": "&quot;A rainy Lithuanian / Is dancing as an Indian&quot;",
+      "incorrect_answers": [
+        "&quot;Fly away on, my zephyr / I feel it more than ever&quot;",
+        "&quot;And I liked the dimple in your chin / Your pale blue eyes&quot;",
+        "&quot;You used to be so warm and affectionate...but now you&#039;re quick to get into your regret&quot;"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Music",
+      "question": "Which of these is NOT a song featured on the Lockjaw EP released in 2013 by Flume &amp; Chet Faker?",
+      "correct_answer": "Left Alone",
+      "incorrect_answers": [
+        "What About Us",
+        "This Song Is Not About A Girl",
+        "Drop The Game"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Music",
+      "question": "Who was the first Jazz Musician to win the Pulitzer Prize for Music",
+      "correct_answer": "Wynton Marsalis",
+      "incorrect_answers": [
+        "Michael Brecker",
+        "Herbie Hancock",
+        "Joe Henderson"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Music",
+      "question": "What was the name of the hip hop group Kanye West was a member of in the late 90s?",
+      "correct_answer": "The Go-Getters",
+      "incorrect_answers": [
+        "The Jumpers",
+        "The Kickstarters",
+        "The Beat-Busters"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Music",
+      "question": "Which year was the album &quot;Floral Shoppe&quot; by Macintosh Plus released?",
+      "correct_answer": "2011",
+      "incorrect_answers": [
+        "2014",
+        "2013",
+        "2012"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Music",
+      "question": "What was the name of the cold-war singer who has a song in Grand Theft Auto IV, and a wall landmark in Moscow for his memorial?",
+      "correct_answer": "Viktor Tsoi",
+      "incorrect_answers": [
+        "Jimi Hendrix",
+        "Brian Jones",
+        "Vladimir Vysotsky"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Music",
+      "question": "What is the name of the song by Beyonc&eacute; and Alejandro Fern&aacute;ndez released in 2007?",
+      "correct_answer": "Amor Gitano",
+      "incorrect_answers": [
+        "La ultima vez",
+        "Rocket",
+        "Hasta Dondes Estes"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Music",
+      "question": "Which member of the Wu-Tang Clan had only one verse in their debut album Enter the Wu-Tang (36 Chambers)?",
+      "correct_answer": "Masta Killa",
+      "incorrect_answers": [
+        "Method Man",
+        "Inspectah Deck",
+        "GZA"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Music",
+      "question": "What is the British term for a 64th note?",
+      "correct_answer": "Hemidemisemiquaver",
+      "incorrect_answers": [
+        "Semihemidemisemiquaver",
+        "Semiquaver",
+        "Demisemiquaver"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Music",
+      "question": "Which of the following is NOT a real song from the band Thousand Foot Krutch?",
+      "correct_answer": "Limitless Fury",
+      "incorrect_answers": [
+        "Let The Sparks Fly",
+        "Down",
+        "Give Up The Ghost"
+      ]
+    }
+  ]
+}

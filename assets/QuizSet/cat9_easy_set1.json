@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "What organ of the body produces bile?",
+      "correct_answer": "Liver",
+      "incorrect_answers": [
+        "Gallbladder",
+        "Pancreas",
+        "Stomach"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "What element has the chemical symbol Kr?",
+      "correct_answer": "Krypton",
+      "incorrect_answers": [
+        "Kerosine",
+        "Kineticium",
+        "Curium"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "In DC comics where does the Green Arrow (Oliver Queen) live?",
+      "correct_answer": "Star City",
+      "incorrect_answers": [
+        "Central City",
+        "Gotham City",
+        "Metropolis"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "In which fast food chain can you order a Jamocha Shake?",
+      "correct_answer": "Arby&#039;s",
+      "incorrect_answers": [
+        "McDonald&#039;s",
+        "Burger King",
+        "Wendy&#039;s"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "A criminal who has &ldquo;cooked the books&rdquo; has engaged in what kind of illegal behavior?",
+      "correct_answer": "Accounting Fraud",
+      "incorrect_answers": [
+        "Money Laundering",
+        "Extortion",
+        "Blackmail"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "What is on display in the Madame Tussaud&#039;s museum in London?",
+      "correct_answer": "Wax sculptures",
+      "incorrect_answers": [
+        "Designer clothing",
+        "Unreleased film reels",
+        "Vintage cars"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "What style of beer will typically have a higher than average hop content?",
+      "correct_answer": "India Pale Ale",
+      "incorrect_answers": [
+        "Stout",
+        "Extra Special Bitter",
+        "Scotch Ale"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "What is the closest planet to our solar system&#039;s sun?",
+      "correct_answer": "Mercury",
+      "incorrect_answers": [
+        "Mars",
+        "Jupiter",
+        "Earth"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "Which one of these is not a typical European sword design?",
+      "correct_answer": "Scimitar",
+      "incorrect_answers": [
+        "Falchion",
+        "Ulfberht",
+        "Flamberge"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "What is the famous Papa John&#039;s last name?",
+      "correct_answer": "Schnatter",
+      "incorrect_answers": [
+        "Chowder",
+        "Williams",
+        "ANDERSON"
+      ]
+    }
+  ]
+}

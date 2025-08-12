@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Cartoon &amp; Animations",
+      "question": "What is Everest&#039;s favorite food in the Nickelodeon/Nick Jr. series &quot;PAW Patrol&quot;?",
+      "correct_answer": "Liver",
+      "incorrect_answers": [
+        "Chicken",
+        "Steak",
+        "Caribou"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Cartoon &amp; Animations",
+      "question": "In the 1993 Disney animated series &quot;Bonkers&quot;, what is the name of Bonker&#039;s second partner?",
+      "correct_answer": "Miranda Wright",
+      "incorrect_answers": [
+        "Dick Tracy",
+        "Eddie Valiant",
+        "Dr. Ludwig von Drake"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Cartoon &amp; Animations",
+      "question": "Which of the following did not feature in the cartoon &#039;Wacky Races&#039;?",
+      "correct_answer": "The Dragon Wagon",
+      "incorrect_answers": [
+        "The Bouldermobile",
+        "The Crimson Haybailer",
+        "The Compact Pussycat"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Cartoon &amp; Animations",
+      "question": "What is the relationship between Rick and Morty in the show &quot;Rick and Morty&quot;?",
+      "correct_answer": "Grandfather and Grandson",
+      "incorrect_answers": [
+        "Father and Son",
+        "Best Friends",
+        "Crimefighting Partners"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Cartoon &amp; Animations",
+      "question": "What was the first Disney movie to use CGI?",
+      "correct_answer": "The Black Cauldron",
+      "incorrect_answers": [
+        "Tron",
+        "Toy Story",
+        "Fantasia"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Cartoon &amp; Animations",
+      "question": "Who created the Cartoon Network series &quot;Regular Show&quot;?",
+      "correct_answer": "J. G. Quintel",
+      "incorrect_answers": [
+        "Ben Bocquelet",
+        "Pendleton Ward",
+        "Rebecca Sugar"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Cartoon &amp; Animations",
+      "question": "In the show &quot;Steven Universe&quot;, who are the main two employees of The Big Donut?",
+      "correct_answer": "Sadie and Lars",
+      "incorrect_answers": [
+        "Steven and James",
+        "Erik and Julie",
+        "Bob and May"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Cartoon &amp; Animations",
+      "question": "In South Park, what is Stan&#039;s surname?",
+      "correct_answer": "Marsh",
+      "incorrect_answers": [
+        "Stotch",
+        "Broflovski",
+        "Tweak"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Cartoon &amp; Animations",
+      "question": "In &quot;Avatar: The Last Airbender&quot;, which element does Aang begin to learn after being defrosted?",
+      "correct_answer": "Water",
+      "incorrect_answers": [
+        "Air",
+        "Earth",
+        "Fire"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Cartoon &amp; Animations",
+      "question": "Which of these is NOT a Disney cartoon character?",
+      "correct_answer": "Daffy Duck",
+      "incorrect_answers": [
+        "Donald Duck",
+        "Daisy Duck",
+        "Scrooge McDuck"
+      ]
+    }
+  ]
+}

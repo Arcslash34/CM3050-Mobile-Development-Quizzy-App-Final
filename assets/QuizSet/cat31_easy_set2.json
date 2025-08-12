@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Japanese Anime &amp; Manga",
+      "question": "What is the name of JoJo&#039;s Bizarre Adventure Part 5?",
+      "correct_answer": "Vento Aureo",
+      "incorrect_answers": [
+        "Vento Oreo",
+        "Vanto Aureo",
+        "Vento Eureo"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Japanese Anime &amp; Manga",
+      "question": "What name is the main character Chihiro given in the 2001 movie &quot;Spirited Away&quot;?",
+      "correct_answer": "Sen (Thousand)",
+      "incorrect_answers": [
+        "Hyaku (Hundred)",
+        "Ichiman (Ten thousand)",
+        "Juu (Ten)"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Japanese Anime &amp; Manga",
+      "question": "Which part from the JoJo&#039;s Bizarre Adventure manga is about a horse race across America?",
+      "correct_answer": "Part 7: Steel Ball Run",
+      "incorrect_answers": [
+        "Part 6: Stone Ocean",
+        "Part 3: Stardust Crusaders",
+        "Part 5: Golden Wind"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Japanese Anime &amp; Manga",
+      "question": "In the anime &quot;My Hero Academia&quot;, which character is shown with the ability to manipulate gravity?",
+      "correct_answer": "Uraraka",
+      "incorrect_answers": [
+        "Bakugo",
+        "Deku",
+        "Asui "
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Japanese Anime &amp; Manga",
+      "question": "What caused the titular mascot of Yo-Kai Watch, Jibanyan, to become a yokai?",
+      "correct_answer": "Being run over by a truck",
+      "incorrect_answers": [
+        "Ate one too many chocobars",
+        "Through a magical ritual",
+        "When he put on the harmaki"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Japanese Anime &amp; Manga",
+      "question": "Satella in &quot;Re:Zero&quot; is the witch of what?",
+      "correct_answer": "Envy",
+      "incorrect_answers": [
+        "Pride",
+        "Sloth",
+        "Wrath"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Japanese Anime &amp; Manga",
+      "question": "In Ms. Kobayashi&#039;s Dragon Maid, who is Kobayashi&#039;s maid?",
+      "correct_answer": "Tohru",
+      "incorrect_answers": [
+        "Lucoa",
+        "Kanna",
+        "Elma"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Japanese Anime &amp; Manga",
+      "question": "In the anime Black Butler, who is betrothed to be married to Ciel Phantomhive?",
+      "correct_answer": "Elizabeth Midford",
+      "incorrect_answers": [
+        "Rachel Phantomhive",
+        "Alexis Leon Midford",
+        "Angelina Dalles"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Japanese Anime &amp; Manga",
+      "question": "What color is Ryūko Matoi&#039;s half of the Scissor Blade in the anime Kill la KIll?",
+      "correct_answer": "Red",
+      "incorrect_answers": [
+        "Green",
+        "Blue",
+        "Purple"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Japanese Anime &amp; Manga",
+      "question": "In &quot;Fairy Tail&quot;, what is the nickname of Natsu Dragneel?",
+      "correct_answer": "The Salamander",
+      "incorrect_answers": [
+        "The Dragon Slayer",
+        "The Dragon",
+        "The Demon"
+      ]
+    }
+  ]
+}

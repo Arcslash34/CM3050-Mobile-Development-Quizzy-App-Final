@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Television",
+      "question": "Which of following is rude and dishonorable by Klingon standards?",
+      "correct_answer": "Taking his D&#039;k tahg",
+      "incorrect_answers": [
+        "Insulting and laughing at him at the dinner table",
+        "Reaching over and taking his meal",
+        "Punching him and taking his ship station position"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Television",
+      "question": "Which of the following Autobot names in Michael Bay&#039;s movies was NOT a name for a Transformer in the original 1980&#039;s cartoon?",
+      "correct_answer": "Mudflap",
+      "incorrect_answers": [
+        "Skids",
+        "Sideswipe",
+        "Ratchet"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Television",
+      "question": "What is Meg&#039;s full name in &quot;Family Guy&quot;?",
+      "correct_answer": "Megatron Griffin",
+      "incorrect_answers": [
+        "Who-Cares Griffin",
+        "Neil Griffin",
+        "Megan Griffin"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Television",
+      "question": "The fictional movie &#039;Rochelle, Rochelle&#039; features in which sitcom?",
+      "correct_answer": "Seinfeld",
+      "incorrect_answers": [
+        "Frasier",
+        "Cheers",
+        "Friends"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Television",
+      "question": "Which movie served as the KTMA pilot episode for the show &quot;Mystery Science Theater 3000&quot;?",
+      "correct_answer": "The Green Slime",
+      "incorrect_answers": [
+        "The Robot Vs. The Aztec Mummy",
+        "The Crawling Eye",
+        "Plan 9 From Outer Space"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Television",
+      "question": "In &quot;Spongebob Squarepants,&quot; what is Mr. Krabs&#039; full name?",
+      "correct_answer": "Eugene H. Krabs",
+      "incorrect_answers": [
+        "Eugene G. Krabs",
+        "Eugene J. Krabs",
+        "Eugene D. Krabs"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Television",
+      "question": "Which boxing personality was one of the presenters in the 1999 revival of It&#039;s a Knockout?",
+      "correct_answer": "Frank Bruno",
+      "incorrect_answers": [
+        "Henry Cooper",
+        "Muhammad Ali",
+        "Joe Fraiser"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Television",
+      "question": "Which actor was not a major character in TV Show Freaks and Geeks?",
+      "correct_answer": "Jonah Hill",
+      "incorrect_answers": [
+        "Jason Segel",
+        "Seth Rogen",
+        "James Franco"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Television",
+      "question": "Which WWF wrestler had the nickname &quot;The Ayatollah of Rock &#039;N&#039; Rolla&quot;?",
+      "correct_answer": "Chris Jericho",
+      "incorrect_answers": [
+        "Marty Jannetty",
+        "Scott Hall",
+        "Shawn Michaels"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Television",
+      "question": "Who composed the theme song for The Simpsons?",
+      "correct_answer": "Danny Elfman",
+      "incorrect_answers": [
+        "John Williams",
+        "Hans Zimmer",
+        "Ennio Morricone"
+      ]
+    }
+  ]
+}

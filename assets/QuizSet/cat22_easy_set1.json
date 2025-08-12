@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Geography",
+      "question": "What country is the second largest in the world by area?",
+      "correct_answer": "Canada",
+      "incorrect_answers": [
+        "Russia",
+        "China",
+        "United States of America"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Geography",
+      "question": "How many stars are featured on New Zealand&#039;s flag?",
+      "correct_answer": "4",
+      "incorrect_answers": [
+        "5",
+        "2",
+        "0"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Geography",
+      "question": "How many time zones does China have?",
+      "correct_answer": "1",
+      "incorrect_answers": [
+        "3",
+        "4",
+        "2"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Geography",
+      "question": "What is the official language of Costa Rica?",
+      "correct_answer": "Spanish",
+      "incorrect_answers": [
+        "English",
+        "Portuguese",
+        "Creole"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Geography",
+      "question": "What is Laos?",
+      "correct_answer": "Country",
+      "incorrect_answers": [
+        "Region",
+        "River",
+        "City"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Geography",
+      "question": "Which UK country features a dragon on their flag?",
+      "correct_answer": "Wales",
+      "incorrect_answers": [
+        "England",
+        "North Ireland",
+        "Scotland"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Geography",
+      "question": "What is the capital of Spain?",
+      "correct_answer": "Madrid",
+      "incorrect_answers": [
+        "Barcelona",
+        "Sevilla",
+        "Toledo"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Geography",
+      "question": "In which country is the city of Rio de Janeiro?",
+      "correct_answer": "Brazil",
+      "incorrect_answers": [
+        "Peru",
+        "Chile",
+        "Venezuela"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Geography",
+      "question": "What is the largest country in the world ?",
+      "correct_answer": "Russian Federation",
+      "incorrect_answers": [
+        "China",
+        "Canada",
+        "Brazil"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Geography",
+      "question": "What is the name of the peninsula containing Spain and Portugal?",
+      "correct_answer": "Iberian Peninsula",
+      "incorrect_answers": [
+        "European Peninsula",
+        "Peloponnesian Peninsula",
+        "Scandinavian Peninsula"
+      ]
+    }
+  ]
+}

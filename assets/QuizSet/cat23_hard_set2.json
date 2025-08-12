@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "History",
+      "question": "When did the French Revolution begin?",
+      "correct_answer": "May 05 1789",
+      "incorrect_answers": [
+        "April 12 1789",
+        "April 05 1789",
+        "May 06 1799"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "History",
+      "question": "How many sonatas did Ludwig van Beethoven write?",
+      "correct_answer": "32",
+      "incorrect_answers": [
+        "50",
+        "31",
+        "21"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "History",
+      "question": "During the Spanish Civil War (1936), Francisco Franco fought for which political faction?",
+      "correct_answer": "Nationalist Spain",
+      "incorrect_answers": [
+        "Republican Spain",
+        "Popular Front",
+        "Papal State"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "History",
+      "question": "Who was the President of the United States during the signing of the Gadsden Purchase?",
+      "correct_answer": "Franklin Pierce",
+      "incorrect_answers": [
+        "Andrew Johnson",
+        "Abraham Lincoln",
+        "James Polk"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "History",
+      "question": "When was the city of Rome, Italy founded?",
+      "correct_answer": "753 BCE",
+      "incorrect_answers": [
+        "902 BCE",
+        "524 BCE",
+        "697 BCE"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "History",
+      "question": "Which countries participated in the Lobster War?",
+      "correct_answer": "France and Brazil",
+      "incorrect_answers": [
+        "Canada and Norway",
+        "Australia and New Zealand",
+        "United States and England"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "History",
+      "question": "Before the American colonies switched to the Gregorian calendar in 1752, on what date did their new year start?",
+      "correct_answer": "March 25th",
+      "incorrect_answers": [
+        "June 1st",
+        "September 25th",
+        "December 1st"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "History",
+      "question": "Pianist Fr&eacute;d&eacute;ric Chopin was a composer of which musical era?",
+      "correct_answer": "Romantic",
+      "incorrect_answers": [
+        "Classic",
+        "Baroque",
+        "Renaissance"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "History",
+      "question": "What was the aim of the &quot;Umbrella Revolution&quot; in Hong Kong in 2014?",
+      "correct_answer": "Genuine universal suffrage",
+      "incorrect_answers": [
+        "Gaining Independence",
+        "Go back under British Rule",
+        "Lower taxes"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "History",
+      "question": "Which is the hull NO. of the Fletcher class destroyer Fletcher?",
+      "correct_answer": "DD-445",
+      "incorrect_answers": [
+        "DD-992",
+        "DD-444",
+        "DD-446"
+      ]
+    }
+  ]
+}

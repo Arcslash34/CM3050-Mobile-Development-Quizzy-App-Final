@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Video Games",
+      "question": "In the video game Overwatch, which playable character is infamous for saying &quot;It&#039;s high noon.&quot;?",
+      "correct_answer": "McCree",
+      "incorrect_answers": [
+        "Hanzo",
+        "Pharah",
+        "Soldier: 76"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Video Games",
+      "question": "Who created the 2011 Video Game &quot;Minecraft&quot;?",
+      "correct_answer": "Markus Persson",
+      "incorrect_answers": [
+        "Jens Bergensten",
+        "Daniel Rosenfeld",
+        "Carl Manneh"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Video Games",
+      "question": "In &quot;Mario &amp; Sonic at the Olympic Games&quot;, characters are split into how many types?",
+      "correct_answer": "4",
+      "incorrect_answers": [
+        "6",
+        "5",
+        "3"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Video Games",
+      "question": "In &quot;Overwatch&quot;, what is the name of the company that made D.Va&#039;s mech?",
+      "correct_answer": "MEKA",
+      "incorrect_answers": [
+        "MI8",
+        "KPAMC",
+        "JSAMB"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Video Games",
+      "question": "Who is the main character in Metal Gear Rising: Revengeance?",
+      "correct_answer": "Raiden",
+      "incorrect_answers": [
+        "Solid Snake",
+        "Otacon",
+        "Revolver Ocelot"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Video Games",
+      "question": "In Final Fantasy XIV, what is the name of the Deep Dungeon that was introduced in the expansion pack, Heavensward?",
+      "correct_answer": "Palace of the Dead",
+      "incorrect_answers": [
+        "Heaven on High",
+        "Aetherochemical Research Facility",
+        "Sunken Temple of Qarn"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Video Games",
+      "question": "Who is the creator of Touhou project?",
+      "correct_answer": "Zun",
+      "incorrect_answers": [
+        "Jun",
+        "Twilight Frontier",
+        "Tasofro"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Video Games",
+      "question": "How many differently shaped Tetris pieces are there?",
+      "correct_answer": "7",
+      "incorrect_answers": [
+        "5",
+        "6",
+        "8"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Video Games",
+      "question": "In what year was the first &quot;Mass Effect&quot; game released?",
+      "correct_answer": "2007",
+      "incorrect_answers": [
+        "2008",
+        "2009",
+        "2010"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Video Games",
+      "question": "In CoD: Black Ops III, what is the name of the rogue A.I. antagonist?",
+      "correct_answer": "Corvus",
+      "incorrect_answers": [
+        "Cabal",
+        "Legion",
+        "Icarus"
+      ]
+    }
+  ]
+}

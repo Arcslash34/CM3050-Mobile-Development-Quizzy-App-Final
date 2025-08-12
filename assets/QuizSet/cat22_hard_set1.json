@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Geography",
+      "question": "What North American tourist attraction is served by the &quot;Maid of the Mist&quot; tour company?",
+      "correct_answer": "Niagara Falls",
+      "incorrect_answers": [
+        "Whistler, British Columbia",
+        "Disney World",
+        "Yosemite National Park"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Geography",
+      "question": "What is the capital city of Bermuda?",
+      "correct_answer": "Hamilton",
+      "incorrect_answers": [
+        "Santo Dominigo",
+        "San Juan",
+        "Havana"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Geography",
+      "question": "Which is the largest freshwater lake in the world?",
+      "correct_answer": "Lake Superior ",
+      "incorrect_answers": [
+        "Caspian Sea",
+        "Lake Michigan",
+        "Lake Huron"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Geography",
+      "question": "Which is not a country in Africa?",
+      "correct_answer": "Guyana",
+      "incorrect_answers": [
+        "Senegal",
+        "Liberia",
+        "Somalia"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Geography",
+      "question": "How many countries border Kyrgyzstan?",
+      "correct_answer": "4",
+      "incorrect_answers": [
+        "3",
+        "1",
+        "6"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Geography",
+      "question": "In which country is Tallinn located?",
+      "correct_answer": "Estonia",
+      "incorrect_answers": [
+        "Finland",
+        "Sweden",
+        "Poland"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Geography",
+      "question": "What is the area of Vatican City?",
+      "correct_answer": "0.44km^2",
+      "incorrect_answers": [
+        "0.10km^2",
+        "0.86km^2",
+        "12.00km^2"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Geography",
+      "question": "What is the largest city and commercial capital of Sri Lanka?",
+      "correct_answer": "Colombo",
+      "incorrect_answers": [
+        "Moratuwa",
+        "Negombo",
+        "Kandy"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Geography",
+      "question": "Which of these cities is NOT in England?",
+      "correct_answer": "Edinburgh",
+      "incorrect_answers": [
+        "Oxford",
+        "Manchester",
+        "Southampton"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Geography",
+      "question": "What year is on the flag of the US state Wisconsin?",
+      "correct_answer": "1848",
+      "incorrect_answers": [
+        "1634",
+        "1783",
+        "1901"
+      ]
+    }
+  ]
+}

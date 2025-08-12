@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science &amp; Nature",
+      "question": "Which of the following spacecraft never touched the moon?",
+      "correct_answer": "Mariner 4",
+      "incorrect_answers": [
+        "Apollo 11",
+        "Luna 2",
+        "SMART-1"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science &amp; Nature",
+      "question": "In human biology, a circadium rhythm relates to a period of roughly how many hours?",
+      "correct_answer": "24",
+      "incorrect_answers": [
+        "8",
+        "16",
+        "32"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science &amp; Nature",
+      "question": "The &quot;Tibia&quot; is found in which part of the body?",
+      "correct_answer": "Leg",
+      "incorrect_answers": [
+        "Arm",
+        "Hand",
+        "Head"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science &amp; Nature",
+      "question": "Which one of these scientists conducted the Gold Foil Experiment which concluded that atoms are mostly made of empty space?",
+      "correct_answer": "Ernest Rutherford",
+      "incorrect_answers": [
+        "Joseph John Thomson",
+        "Archimedes",
+        "Niels Henrik David Bohr"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science &amp; Nature",
+      "question": "What is the unit of electrical capacitance?",
+      "correct_answer": "Farad",
+      "incorrect_answers": [
+        "Gauss",
+        "Henry",
+        "Watt"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science &amp; Nature",
+      "question": "What is the lowest layer of the Earth&#039;s atmosphere named?",
+      "correct_answer": "Troposphere",
+      "incorrect_answers": [
+        "Stratosphere",
+        "Mesosphere",
+        "Thermosphere"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science &amp; Nature",
+      "question": "Gannymede is the largest moon of which planet?",
+      "correct_answer": "Jupiter",
+      "incorrect_answers": [
+        "Uranus",
+        "Neptune",
+        "Mars"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science &amp; Nature",
+      "question": "Au on the Periodic Table refers to which element?",
+      "correct_answer": "Gold",
+      "incorrect_answers": [
+        "Silver",
+        "Oxygen",
+        "Nickel"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science &amp; Nature",
+      "question": "Who made the discovery of X-rays?",
+      "correct_answer": "Wilhelm Conrad R&ouml;ntgen",
+      "incorrect_answers": [
+        "Thomas Alva Edison",
+        "James Watt",
+        "Albert Einstein"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science &amp; Nature",
+      "question": "Which of the following is NOT a passive electrical component?",
+      "correct_answer": "Transistor",
+      "incorrect_answers": [
+        "Resistor",
+        "Capacitor",
+        "Inductor"
+      ]
+    }
+  ]
+}

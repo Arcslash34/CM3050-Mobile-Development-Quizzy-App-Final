@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Cartoon &amp; Animations",
+      "question": "The character White Diamond from Steven Universe, is voiced by who?",
+      "correct_answer": "Christine Ebersole",
+      "incorrect_answers": [
+        "Ellen McLain",
+        "Aly Michalka",
+        "Rihanna"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Cartoon &amp; Animations",
+      "question": "How many episodes were in season five of Samurai Jack?",
+      "correct_answer": "10",
+      "incorrect_answers": [
+        "12",
+        "11",
+        "13"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Cartoon &amp; Animations",
+      "question": "When did the last episode of &quot;Futurama&quot; air before returning in 2023?",
+      "correct_answer": "September 4, 2013",
+      "incorrect_answers": [
+        "December 25, 2010",
+        "March 28, 1999",
+        "November 4, 2021"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Cartoon &amp; Animations",
+      "question": "In &quot;The Simpsons&quot;, where did Homer and Marge first meet?",
+      "correct_answer": "At Summer Camp",
+      "incorrect_answers": [
+        "At High School",
+        "At Church",
+        "At 742 Evergreen Terrace"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Cartoon &amp; Animations",
+      "question": "Which &quot;Toy Story&quot; character was voiced by Don Rickles?",
+      "correct_answer": "Mr. Potato Head",
+      "incorrect_answers": [
+        "Slinky Dog",
+        "Hamm",
+        "Rex"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Cartoon &amp; Animations",
+      "question": "In &quot;The Amazing World of Gumball&quot;, who is the principal of Elmore Junior High?",
+      "correct_answer": "Principal Brown",
+      "incorrect_answers": [
+        "Principal Small",
+        "Principal Brawn",
+        "Principal Simeon"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Cartoon &amp; Animations",
+      "question": "What is the cartoon character, Andy Capp, known as in Germany?",
+      "correct_answer": "Willi Wakker",
+      "incorrect_answers": [
+        "Dick Tingeler",
+        "Helmut Schmacker",
+        "Rod Tapper"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Cartoon &amp; Animations",
+      "question": "Which episode from The Amazing World Of Gumball won the Childrens Choice Award at the British Animation Awards in 2016?",
+      "correct_answer": "The Shell",
+      "incorrect_answers": [
+        "The Limit",
+        "The Kids",
+        "The Gripes"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Cartoon &amp; Animations",
+      "question": "Which Sanrio character was introduced in 1996?",
+      "correct_answer": "Pompompurin",
+      "incorrect_answers": [
+        "My Melody",
+        "Badtz-Maru",
+        "Kerropi"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Cartoon &amp; Animations",
+      "question": "Who voiced Finn in Adventure Time?",
+      "correct_answer": "Jeremy Shada",
+      "incorrect_answers": [
+        "Nolan North",
+        "John DiMaggio",
+        "Tom Kenny"
+      ]
+    }
+  ]
+}

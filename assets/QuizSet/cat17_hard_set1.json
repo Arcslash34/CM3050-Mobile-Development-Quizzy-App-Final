@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science &amp; Nature",
+      "question": "The word &quot;science&quot; stems from the word &quot;scire&quot; meaning what?",
+      "correct_answer": "To know",
+      "incorrect_answers": [
+        "To measure",
+        "To live",
+        "To count"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science &amp; Nature",
+      "question": "How many types of quarks are there in the standard model of physics?",
+      "correct_answer": "6",
+      "incorrect_answers": [
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science &amp; Nature",
+      "question": "All of the following human genetic haplogroup names are shared between Y-chromosome and mitochondrial DNA haplogroups EXCEPT:",
+      "correct_answer": "Haplogroup U",
+      "incorrect_answers": [
+        "Haplogroup L",
+        "Haplogroup T",
+        "Haplogroup J"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science &amp; Nature",
+      "question": "What is isobutylphenylpropanoic acid more commonly known as?",
+      "correct_answer": "Ibuprofen",
+      "incorrect_answers": [
+        "Morphine",
+        "Ketamine",
+        "Aspirin"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science &amp; Nature",
+      "question": "Coulrophobia is the irrational fear of what?",
+      "correct_answer": "Clowns",
+      "incorrect_answers": [
+        "Cemeteries",
+        "Needles",
+        "Tunnels"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science &amp; Nature",
+      "question": "An organic compound is considered an alcohol if it has what functional group?",
+      "correct_answer": "Hydroxyl",
+      "incorrect_answers": [
+        "Carbonyl",
+        "Alkyl",
+        "Aldehyde"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science &amp; Nature",
+      "question": "What genetic disease is caused by having an extra Y chromosome (XYY)?",
+      "correct_answer": "Jacob&#039;s Syndrome",
+      "incorrect_answers": [
+        "Klinefelter&#039;s Syndrome",
+        "Turner&#039;s Syndrome",
+        "Down Syndrome"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science &amp; Nature",
+      "question": "What is the name for the auditory illusion of a note that seems to be rising infinitely?",
+      "correct_answer": "Shepard Tone",
+      "incorrect_answers": [
+        "Glissandro Illusion",
+        "Fransen Effect",
+        "McGurck Effect"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science &amp; Nature",
+      "question": "Folic acid is the synthetic form of which vitamin?",
+      "correct_answer": "Vitamin B",
+      "incorrect_answers": [
+        "Vitamin A",
+        "Vitamin C",
+        "Vitamin D"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science &amp; Nature",
+      "question": "A comet&#039;s gaseous envelope (which creates the tail) is called what?",
+      "correct_answer": "The coma",
+      "incorrect_answers": [
+        "The wake",
+        "The backwash",
+        "The ablative"
+      ]
+    }
+  ]
+}

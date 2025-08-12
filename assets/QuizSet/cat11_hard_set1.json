@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Film",
+      "question": "Which singer is portrayed by Bruce Campbell in the 2002 film &#039;Bubba Ho-Tep&#039;?",
+      "correct_answer": "Elvis Presley",
+      "incorrect_answers": [
+        "Johnny Cash",
+        "Hank Williams, Sr.",
+        "Buddy Holly"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Film",
+      "question": "What was the name of the planet in &quot;Aliens&quot;?",
+      "correct_answer": "LV-426",
+      "incorrect_answers": [
+        "Weyland Yutani Corporation Base",
+        "FR-838",
+        "DI-621"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Film",
+      "question": "In the film &quot;Harry Potter and the Order of The Phoenix&quot;, why was Harry Potter&#039;s scream, after Sirius Black died, muted?",
+      "correct_answer": "Too Agonizing",
+      "incorrect_answers": [
+        "Too Loud",
+        "Too Harsh",
+        "Too Violent"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Film",
+      "question": "In 2012, which movie won every category in the 32nd &quot;Golden Raspberry Awards&quot;?",
+      "correct_answer": "Jack and Jill",
+      "incorrect_answers": [
+        "The Girl with the Dragon Tattoo",
+        "Thor",
+        "The King&#039;s Speech"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Film",
+      "question": "Which movie did NOT feature the late actor John Candy?",
+      "correct_answer": "Ghostbusters",
+      "incorrect_answers": [
+        "Little Shop Of Horrors",
+        "Home Alone",
+        "Planes Trains and Automobiles"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Film",
+      "question": "In what year was the first Indian movie submitted for an Oscar?",
+      "correct_answer": "1957",
+      "incorrect_answers": [
+        "1962",
+        "1938",
+        "1954"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Film",
+      "question": "The film Mad Max: Fury Road features the Dies Irae  from which composer&#039;s requiem?",
+      "correct_answer": "Verdi",
+      "incorrect_answers": [
+        "Mozart",
+        "Berlioz",
+        "Brahms"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Film",
+      "question": "Which was the first of Alfred Hitchcock&#039;s movies to be filmed in colour?",
+      "correct_answer": "Rope",
+      "incorrect_answers": [
+        "Psycho",
+        "Vertigo",
+        "Rebecca"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Film",
+      "question": "In what year did Clint Eastwood star as Inspector Harry Callahan in the film &quot;Dirty Harry&quot;?",
+      "correct_answer": "1971",
+      "incorrect_answers": [
+        "1975",
+        "1983",
+        "1969"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Film",
+      "question": "What was the name of the actor who played Leatherface in the 1974 horror film, The Texas Chainsaw Massacre?",
+      "correct_answer": "Gunnar Hansen",
+      "incorrect_answers": [
+        "Edwin Neal",
+        "John Dugan",
+        "Joe Bill Hogan"
+      ]
+    }
+  ]
+}

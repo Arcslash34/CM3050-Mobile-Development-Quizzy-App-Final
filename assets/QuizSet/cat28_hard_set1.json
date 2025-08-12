@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Vehicles",
+      "question": "What car manufacturer gave away their patent for the seat-belt in the interest of saving lives?",
+      "correct_answer": "Volvo",
+      "incorrect_answers": [
+        "Ferrari",
+        "Ford",
+        "Renault"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Vehicles",
+      "question": "Which Variable Valve Timing technology is used by BMW?",
+      "correct_answer": "VANOS",
+      "incorrect_answers": [
+        "VVT-iw",
+        "VVEL",
+        "MultiAir"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Vehicles",
+      "question": "What year did the Chevrolet LUV mini truck make its debut?",
+      "correct_answer": "1972",
+      "incorrect_answers": [
+        "1982",
+        "1975",
+        "1973"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Vehicles",
+      "question": "What engine is in the Lexus SC400?",
+      "correct_answer": "1UZ-FE",
+      "incorrect_answers": [
+        "2JZ-GTE",
+        "7M-GTE",
+        "5M-GE"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Vehicles",
+      "question": "Which of these is NOT a car model produced by Malaysian car manufacturer Proton?",
+      "correct_answer": "Kelisa",
+      "incorrect_answers": [
+        "Saga",
+        "Perdana",
+        "Inspira"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Vehicles",
+      "question": "The difference between the lengths of a Boeing 777-300ER and an Airbus A350-1000 is closest to:",
+      "correct_answer": "0.1m",
+      "incorrect_answers": [
+        "1m",
+        "10m ",
+        "100m"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Vehicles",
+      "question": "In 2014, over 6 million General Motors vehicles were recalled due to what critical flaw?",
+      "correct_answer": "Faulty ignition switch",
+      "incorrect_answers": [
+        "Malfunctioning gas pedal",
+        "Breaking fuel lines",
+        "Faulty brake pads"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Vehicles",
+      "question": "Which car is the first mass-produced hybrid vehicle?",
+      "correct_answer": "Toyota Prius",
+      "incorrect_answers": [
+        "Chevrolet Volt",
+        "Honda Fit",
+        "Peugeot 308 R HYbrid"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Vehicles",
+      "question": "Which one of the following is NOT a sub-company of the Volkswagen Group?",
+      "correct_answer": "Opel",
+      "incorrect_answers": [
+        "Porsche",
+        "Bugatti",
+        "Bentley"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Vehicles",
+      "question": "What model was the sports car gifted to Yuri Gagarin by the French government in 1965?",
+      "correct_answer": "Matra Djet",
+      "incorrect_answers": [
+        "Porsche 911",
+        "Alpine A110",
+        "AC Cobra"
+      ]
+    }
+  ]
+}

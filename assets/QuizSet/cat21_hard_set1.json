@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Sports",
+      "question": "How many times did Martina Navratilova win the Wimbledon Singles Championship?",
+      "correct_answer": "Nine",
+      "incorrect_answers": [
+        "Ten",
+        "Seven",
+        "Eight"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Sports",
+      "question": "What tool lends it&#039;s name to a last-stone advantage in an end in Curling?",
+      "correct_answer": "Hammer",
+      "incorrect_answers": [
+        "Wrench",
+        "Drill",
+        "Screwdriver"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Sports",
+      "question": "Who scored the injury time winning goal in the 1999 UEFA Champions League final between Manchester United and Bayern Munich?",
+      "correct_answer": "Ole Gunnar Solskj&aelig;r",
+      "incorrect_answers": [
+        "Dwight Yorke",
+        "Andy Cole",
+        "David Beckham"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Sports",
+      "question": "Where was the Games of the XXII Olympiad held?",
+      "correct_answer": "Moscow",
+      "incorrect_answers": [
+        "Barcelona",
+        "Tokyo",
+        "Los Angeles"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Sports",
+      "question": "The AHL affiliate team of the Boston Bruins is named what?",
+      "correct_answer": "Providence Bruins",
+      "incorrect_answers": [
+        "New Haven Bruins",
+        "Cambridge Bruins",
+        "Hartford Bruins"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Sports",
+      "question": "With which doubles partner did John McEnroe have most success?",
+      "correct_answer": "Peter Fleming",
+      "incorrect_answers": [
+        "Mark Woodforde",
+        "Michael Stich",
+        "Mary Carillo"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Sports",
+      "question": "Which city features all of their professional sports teams&#039; jersey&#039;s with the same color scheme?",
+      "correct_answer": "Pittsburgh",
+      "incorrect_answers": [
+        "New York",
+        "Seattle",
+        "Tampa Bay"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Sports",
+      "question": "Prior to 2018, which car company is the only Japanese company which won the 24 Hours of Le Mans?",
+      "correct_answer": "Mazda",
+      "incorrect_answers": [
+        "Toyota",
+        "Subaru",
+        "Nissan"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Sports",
+      "question": "Etihad Stadium is the home stadium for which team?",
+      "correct_answer": "Manchester City",
+      "incorrect_answers": [
+        "Manchester United",
+        "Arsenal",
+        "Blackpool"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Sports",
+      "question": "Who won the 1998 Daytona 500?",
+      "correct_answer": "Dale Earnhardt",
+      "incorrect_answers": [
+        "John Anderson",
+        "Jeff Gordon",
+        "Michael Walltrip"
+      ]
+    }
+  ]
+}

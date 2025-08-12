@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Mythology",
+      "question": "In Greek mythology, who is the god of wine?",
+      "correct_answer": "Dionysus",
+      "incorrect_answers": [
+        "Hephaestus",
+        "Demeter",
+        "Apollo"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Mythology",
+      "question": "What mythology did the god &quot;Apollo&quot; come from?",
+      "correct_answer": "Greek and Roman",
+      "incorrect_answers": [
+        "Roman and Spanish",
+        "Greek and Chinese",
+        "Greek, Roman and Norse"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Mythology",
+      "question": "The greek god Poseidon was the god of what?",
+      "correct_answer": "The Sea",
+      "incorrect_answers": [
+        "War",
+        "Sun",
+        "Fire"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Mythology",
+      "question": "The Nike apparel and footwear brand takes it&#039;s name from the Greek goddess of what?",
+      "correct_answer": "Victory",
+      "incorrect_answers": [
+        "Courage",
+        "Strength",
+        "Honor"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Mythology",
+      "question": "How many heads does Cerberus have?",
+      "correct_answer": "3",
+      "incorrect_answers": [
+        "2",
+        "1",
+        "5"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Mythology",
+      "question": "Which Greek &amp; Roman god was known as the god of music, truth and prophecy, healing, the sun and light, plague, poetry, and more?",
+      "correct_answer": "Apollo",
+      "incorrect_answers": [
+        "Aphrodite",
+        "Artemis",
+        "Athena"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Mythology",
+      "question": "This Greek goddess&#039;s name was chosen for the dwarf planet responsible for discord on Pluto&#039;s classification amongst astronomers.",
+      "correct_answer": "Eris",
+      "incorrect_answers": [
+        "Charon",
+        "Ceres",
+        "Dysnomia"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Mythology",
+      "question": "Who was the only god from Greece who did not get a name change in Rome?",
+      "correct_answer": "Apollo",
+      "incorrect_answers": [
+        "Demeter",
+        "Zeus",
+        "Athena"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Mythology",
+      "question": "Who was the King of Gods in Ancient Greek mythology?",
+      "correct_answer": "Zeus",
+      "incorrect_answers": [
+        "Apollo",
+        "Hermes",
+        "Poseidon"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Mythology",
+      "question": "In most traditions, who was the wife of Zeus?",
+      "correct_answer": "Hera",
+      "incorrect_answers": [
+        "Aphrodite",
+        "Athena",
+        "Hestia"
+      ]
+    }
+  ]
+}

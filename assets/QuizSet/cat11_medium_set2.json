@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Film",
+      "question": "Which of the following is NOT a quote from the 1942 film Casablanca? ",
+      "correct_answer": "&quot;Frankly, my dear, I don&#039;t give a damn.&quot;",
+      "incorrect_answers": [
+        "&quot;Here&#039;s lookin&#039; at you, kid.&quot;",
+        "&ldquo;Of all the gin joints, in all the towns, in all the world, she walks into mine&hellip;&rdquo;",
+        "&quot;Round up the usual suspects.&quot;"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Film",
+      "question": "Which 90&#039;s comedy cult classic features cameos appearances from Meat Loaf, Alice Cooper and Chris Farley?",
+      "correct_answer": "Wayne&#039;s World",
+      "incorrect_answers": [
+        "Bill &amp; Ted&#039;s Excellent Adventure",
+        "Dumb and Dumber",
+        "Austin Powers: International Man of Mystery"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Film",
+      "question": "What is the correct phrase for the Latin saying &quot;Romanes Eunt Domus&quot; in Monty Python&#039;s Life of Brian?",
+      "correct_answer": "Romani Ite Domum",
+      "incorrect_answers": [
+        "Romans Go Home",
+        "Roxani Ite Domum",
+        "Tomate Ite Domum"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Film",
+      "question": "What film did James Cameron&#039;s Avatar dethrone as the highest-grossing film ever?",
+      "correct_answer": "Titanic",
+      "incorrect_answers": [
+        "Star Wars",
+        "Gone with the Wind",
+        "Jaws"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Film",
+      "question": "What is the correct spelling of the protagonist of the book in The NeverEnding Story (1984)?",
+      "correct_answer": "Atreyu",
+      "incorrect_answers": [
+        "Atrayu",
+        "Atraiyu",
+        "Atraeyu"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Film",
+      "question": "What was Marilyn Monroe`s character&#039;s first name in the film &quot;Some Like It Hot&quot;?",
+      "correct_answer": "Sugar",
+      "incorrect_answers": [
+        "Honey",
+        "Caramel",
+        "Candy"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Film",
+      "question": "Who plays &quot;Bruce Wayne&quot; in the 2008 movie &quot;The Dark Knight&quot;?",
+      "correct_answer": "Christian Bale",
+      "incorrect_answers": [
+        "Michael Caine",
+        "Ron Dean",
+        "Heath Ledger"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Film",
+      "question": "What is the name of the villian in the 2015 Russian-American Sci-Fi Movie &quot;Hardcore Henry&quot;?",
+      "correct_answer": "Akan",
+      "incorrect_answers": [
+        "Estelle",
+        "Jimmy",
+        "Henry"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Film",
+      "question": "Which famous singer was portrayed by actor Kevin Spacey in the 2004 biographical film &quot;Beyond the Sea&quot;?",
+      "correct_answer": "Bobby Darin",
+      "incorrect_answers": [
+        "Louis Armstrong",
+        "Frank Sinatra",
+        "Dean Martin"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Film",
+      "question": "In which 1955 film does Frank Sinatra play Nathan Detroit?",
+      "correct_answer": "Guys and Dolls",
+      "incorrect_answers": [
+        "Anchors Aweigh",
+        "From Here to Eternity",
+        "High Society"
+      ]
+    }
+  ]
+}

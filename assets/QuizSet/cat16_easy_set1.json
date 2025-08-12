@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Board Games",
+      "question": "In board games, an additional or ammended rule that applies to a certain group or place is informally known as a &quot;what&quot; rule?",
+      "correct_answer": "House",
+      "incorrect_answers": [
+        "Custom",
+        "Extra",
+        "Change"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Board Games",
+      "question": "In which year was the pen and paper RPG &quot;Deadlands&quot; released?",
+      "correct_answer": "1996",
+      "incorrect_answers": [
+        "2003",
+        "1999",
+        "1993"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Board Games",
+      "question": "How many pieces are there on the board at the start of a game of chess?",
+      "correct_answer": "32",
+      "incorrect_answers": [
+        "16",
+        "20",
+        "36"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Board Games",
+      "question": "Which of the following is NOT a class in Dungeons and Dragons 5e?",
+      "correct_answer": "Engineer ",
+      "incorrect_answers": [
+        "Fighter ",
+        "Paladin ",
+        "Bard"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Board Games",
+      "question": "In Dungeons and Dragons (5th edition), what stat do you normally add onto your initiative die roll?",
+      "correct_answer": "Dexterity",
+      "incorrect_answers": [
+        "Speed",
+        "Strength",
+        "Wisdom"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Board Games",
+      "question": "How many dice are used in the game of Yahtzee?",
+      "correct_answer": "Five",
+      "incorrect_answers": [
+        "Four",
+        "Six",
+        "Eight"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Board Games",
+      "question": "The board game Monopoly takes its street names from which real American city?",
+      "correct_answer": "Atlantic City, New Jersey",
+      "incorrect_answers": [
+        "Las Vegas, Nevada",
+        "Duluth, Minnesota",
+        "Charleston, South Carolina"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Board Games",
+      "question": "How many spaces are there on a standard Monopoly board?",
+      "correct_answer": "40",
+      "incorrect_answers": [
+        "28",
+        "55",
+        "36"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Board Games",
+      "question": "In chess, which is a characteristic of the King&#039;s Gambit?",
+      "correct_answer": "Sacrificing a pawn",
+      "incorrect_answers": [
+        "Sacrificing the king for a queen",
+        "Castling kingside",
+        "Moving the king on the 2nd move"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Board Games",
+      "question": "How many dots are on a single die?",
+      "correct_answer": "21",
+      "incorrect_answers": [
+        "24",
+        "15",
+        "18"
+      ]
+    }
+  ]
+}

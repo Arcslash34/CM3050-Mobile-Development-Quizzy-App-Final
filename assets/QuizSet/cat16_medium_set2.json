@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Board Games",
+      "question": "Who was world chess champion between 1894 and 1921",
+      "correct_answer": "Emanuel Lasker",
+      "incorrect_answers": [
+        "Jos&eacute; Ra&uacute;l Capablanca",
+        "Wilhelm Steinitz",
+        "Bobby Fischer"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Board Games",
+      "question": "Which of the following is not a color of mana in Magic: The Gathering?",
+      "correct_answer": "Yellow",
+      "incorrect_answers": [
+        "White",
+        "Green",
+        "Blue"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Board Games",
+      "question": "What letter is used to refer to blue mana in the card game Magic The Gathering?",
+      "correct_answer": "U",
+      "incorrect_answers": [
+        "B",
+        "L",
+        "E"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Board Games",
+      "question": "Who was the first official world chess champion?",
+      "correct_answer": "Wilhelm Steinitz",
+      "incorrect_answers": [
+        "Jos&eacute; Ra&uacute;l Capablanca",
+        "Emanuel Lasker",
+        "Bobby Fischer"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Board Games",
+      "question": "Who is the main character in the VHS tape included in the board game Nightmare?",
+      "correct_answer": "The Gatekeeper",
+      "incorrect_answers": [
+        "The Kryptkeeper",
+        "The Monster",
+        "The Nightmare"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Board Games",
+      "question": "At the start of a standard game of the Monopoly, if you throw a double six, which square would you land on?",
+      "correct_answer": "Electric Company",
+      "incorrect_answers": [
+        "Water Works",
+        "Chance",
+        "Community Chest"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Board Games",
+      "question": "In Chess, the Queen has the combined movement of which two pieces?",
+      "correct_answer": "Bishop and Rook",
+      "incorrect_answers": [
+        "Rook and King",
+        "Knight and Bishop",
+        "King and Knight"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Board Games",
+      "question": "In Yu-Gi-Oh, how does a player perform an Xyz Summon?",
+      "correct_answer": "Overlay at least 2 Monsters of the Same Level",
+      "incorrect_answers": [
+        "Activate a Spell and Send Monsters to the Graveyard",
+        "Add the Monsters&#039; Levels Together to Match the Xyz Monster",
+        "Banish A Number of Monsters From Your Hand And Deck"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Board Games",
+      "question": "Europa Universalis is a strategy video game based on which French board game?",
+      "correct_answer": "Europa Universalis",
+      "incorrect_answers": [
+        "Europe and the Universe",
+        "Europa!",
+        "Power in Europe"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Board Games",
+      "question": "About how many Slinkys were sold in their first 60 years (from 1945 to 2005)?",
+      "correct_answer": "300 Million",
+      "incorrect_answers": [
+        "100 Million",
+        "450 Million",
+        "1 Billion"
+      ]
+    }
+  ]
+}

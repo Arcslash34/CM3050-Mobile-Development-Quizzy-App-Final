@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "Who is the founder of &quot;The Lego Group&quot;?",
+      "correct_answer": "Ole Kirk Christiansen",
+      "incorrect_answers": [
+        " Jens Niels Christiansen",
+        "Kirstine Christiansen",
+        " Gerhardt Kirk Christiansen"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "Which of the following carbonated soft drinks were introduced first?",
+      "correct_answer": "Dr. Pepper",
+      "incorrect_answers": [
+        "Coca-Cola",
+        "Sprite",
+        "Mountain Dew"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "When did the website &quot;Facebook&quot; launch?",
+      "correct_answer": "2004",
+      "incorrect_answers": [
+        "2005",
+        "2003",
+        "2006"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "The lesser-known continuation of the saying &quot;Curiosity killed the cat...&quot; is:",
+      "correct_answer": "&quot;...but satisfaction brought it back.&quot;",
+      "incorrect_answers": [
+        "&quot;...and the silent mouse remained thereat.&quot;",
+        "&quot;...which taught it not to do that.&quot;",
+        "&quot;...but death by the truth is better than ignorance.&quot;"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "What alcoholic drink is mainly made from juniper berries?",
+      "correct_answer": "Gin",
+      "incorrect_answers": [
+        "Vodka",
+        "Rum",
+        "Tequila"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "Which American manufactured submachine gun was informally known by the American soldiers that used it as &quot;Grease Gun&quot;?",
+      "correct_answer": "M3",
+      "incorrect_answers": [
+        "Colt 9mm",
+        "Thompson",
+        "MAC-10"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "In the Morse code, which letter is indicated by 3 dots? ",
+      "correct_answer": "S",
+      "incorrect_answers": [
+        "O",
+        "A",
+        "C"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "What is the defining characteristic of someone who is described as hirsute?",
+      "correct_answer": "Hairy",
+      "incorrect_answers": [
+        "Rude",
+        "Funny",
+        "Tall"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "When was WhatsApp founded?",
+      "correct_answer": "2009",
+      "incorrect_answers": [
+        "2007",
+        "2012",
+        "2010"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "What is the Swedish word for &quot;window&quot;?",
+      "correct_answer": "F&ouml;nster",
+      "incorrect_answers": [
+        "H&aring;l",
+        "Sk&auml;rm",
+        "Ruta"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "History",
+      "question": "Who was the first president born in the independent United States?",
+      "correct_answer": "Martin Van Buren",
+      "incorrect_answers": [
+        "John Adams",
+        "George Washington",
+        "James Monroe "
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "History",
+      "question": "Who is attributed credit for recording the epic poem The Odyssey?",
+      "correct_answer": "Homer",
+      "incorrect_answers": [
+        "Aristotle",
+        "Odysseus",
+        "Socrates"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "History",
+      "question": "Which of these countries was NOT a part of the Soviet Union?",
+      "correct_answer": "Afghanistan",
+      "incorrect_answers": [
+        "Turkmenistan",
+        "Kazakhstan",
+        "Uzbekistan"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "History",
+      "question": "In what year did the First World War end?",
+      "correct_answer": "1918",
+      "incorrect_answers": [
+        "1914",
+        "1916",
+        "1912"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "History",
+      "question": "Which of the following countries was the first to send an object into space?",
+      "correct_answer": "Germany",
+      "incorrect_answers": [
+        "USA",
+        "Russia",
+        "China"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "History",
+      "question": "What was the bloodiest single-day battle during the American Civil War?",
+      "correct_answer": "The Battle of Antietam",
+      "incorrect_answers": [
+        "The Siege of Vicksburg",
+        "The Battle of Gettysburg",
+        "The Battles of Chancellorsville"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "History",
+      "question": "What is the name of the US Navy spy ship which was attacked and captured by North Korean forces in 1968?",
+      "correct_answer": "USS Pueblo",
+      "incorrect_answers": [
+        "USS North Carolina",
+        "USS Constitution",
+        "USS Indianapolis"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "History",
+      "question": "What was Genghis Khan&#039;s real name?",
+      "correct_answer": "Tem&uuml;jin",
+      "incorrect_answers": [
+        "M&ouml;ngke",
+        "&Ouml;gedei",
+        "Tem&uuml;r"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "History",
+      "question": "The Tsar Bomba, the most powerful nuclear bomb ever tested, had a yield of 50 megatons but theoretically had a maximum yield of how much?",
+      "correct_answer": "100 Megatons",
+      "incorrect_answers": [
+        "200 Megatons",
+        "75 Megatons",
+        "150 Megatons"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "History",
+      "question": "The Thirty Years War ended with which treaty?",
+      "correct_answer": "Peace of Westphalia",
+      "incorrect_answers": [
+        "Treaty of Versailles",
+        "Treaty of Paris",
+        "Peace of Prague"
+      ]
+    }
+  ]
+}

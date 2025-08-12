@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Sports",
+      "question": "This Canadian television sportscaster is known for his &quot;Hockey Night in Canada&quot; role, a commentary show during hockey games.",
+      "correct_answer": "Don Cherry",
+      "incorrect_answers": [
+        "Don McKellar",
+        "Don Taylor ",
+        "Donald Sutherland"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Sports",
+      "question": "In golf, what name is given to a hole score of two under par?",
+      "correct_answer": "Eagle",
+      "incorrect_answers": [
+        "Birdie",
+        "Bogey",
+        "Albatross"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Sports",
+      "question": "Who won the 2017 Formula One World Drivers&#039; Championship?",
+      "correct_answer": "Lewis Hamilton",
+      "incorrect_answers": [
+        "Sebastian Vettel",
+        "Nico Rosberg",
+        "Max Verstappen"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Sports",
+      "question": "Which country hosted the 2018 FIFA World Cup?",
+      "correct_answer": "Russia",
+      "incorrect_answers": [
+        "Germany",
+        "United States",
+        "Saudi Arabia"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Sports",
+      "question": "What team won the 2016 MLS Cup?",
+      "correct_answer": "Seattle Sounders",
+      "incorrect_answers": [
+        "Colorado Rapids",
+        "Toronto FC",
+        "Montreal Impact"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Sports",
+      "question": "Which boxer was banned for taking a bite out of Evander Holyfield&#039;s ear in 1997?",
+      "correct_answer": "Mike Tyson",
+      "incorrect_answers": [
+        "Roy Jones Jr.",
+        "Evander Holyfield",
+        "Lennox Lewis"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Sports",
+      "question": "In the 2014 FIFA World Cup, what was the final score in the match Brazil - Germany?",
+      "correct_answer": "1-7",
+      "incorrect_answers": [
+        "1-5",
+        "1-6",
+        "2-6"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Sports",
+      "question": "How many soccer players should be on the field at the same time?",
+      "correct_answer": "22",
+      "incorrect_answers": [
+        "20",
+        "24",
+        "26"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Sports",
+      "question": "Who won the UEFA Champions League in 2017?",
+      "correct_answer": "Real Madrid C.F.",
+      "incorrect_answers": [
+        "Atletico Madrid",
+        "AS Monaco FC",
+        "Juventus F.C."
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Sports",
+      "question": "Which team won 2014 FIFA World Cup in Brazil?",
+      "correct_answer": "Germany",
+      "incorrect_answers": [
+        "Argentina",
+        "Brazil",
+        "Netherlands"
+      ]
+    }
+  ]
+}

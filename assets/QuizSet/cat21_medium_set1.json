@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Sports",
+      "question": "Who won the 2018 Monaco Grand Prix?",
+      "correct_answer": "Daniel Ricciardo",
+      "incorrect_answers": [
+        "Sebastian Vettel",
+        "Kimi Raikkonen",
+        "Lewis Hamilton"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Sports",
+      "question": "What is the name of the AHL affiliate of the Toronto Maple Leafs?",
+      "correct_answer": "Toronto Marlies",
+      "incorrect_answers": [
+        "Toronto Rock",
+        "Toronto Argonauts",
+        "Toronto Wolfpack"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Sports",
+      "question": "With which team did Michael Schumacher make his Formula One debut at the 1991 Belgian Grand Prix?",
+      "correct_answer": "Jordan",
+      "incorrect_answers": [
+        "Benetton",
+        "Ferrari",
+        "Mercedes"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Sports",
+      "question": "Which of these countries&#039; national teams qualified for the 2018 FIFA World Cup in Russia?",
+      "correct_answer": "Tunisia",
+      "incorrect_answers": [
+        "United States of America",
+        "Italy",
+        "Netherlands"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Sports",
+      "question": "Which Formula One driver was nicknamed &#039;The Professor&#039;?",
+      "correct_answer": "Alain Prost",
+      "incorrect_answers": [
+        "Ayrton Senna",
+        "Niki Lauda",
+        "Emerson Fittipaldi"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Sports",
+      "question": "Which of the following Grand Slam tennis tournaments occurs LAST?",
+      "correct_answer": "US Open",
+      "incorrect_answers": [
+        "French Open",
+        "Wimbledon",
+        "Australian Open"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Sports",
+      "question": "Which basketball team has attended the most NBA grand finals?",
+      "correct_answer": "Los Angeles Lakers",
+      "incorrect_answers": [
+        "Boston Celtics",
+        "Philadelphia 76ers",
+        "Golden State Warriors"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Sports",
+      "question": "How many premier league trophies did Sir Alex Ferguson win during his time at Manchester United?",
+      "correct_answer": "13",
+      "incorrect_answers": [
+        "11",
+        "20",
+        "22"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Sports",
+      "question": "In Formula 1, the Virtual Safety Car was introduced following the fatal crash of which driver?",
+      "correct_answer": "Jules Bianchi",
+      "incorrect_answers": [
+        "Ayrton Senna",
+        "Ronald Ratzenberger",
+        "Gilles Villeneuve"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Sports",
+      "question": "Which nation hosted the FIFA World Cup in 2006?",
+      "correct_answer": "Germany",
+      "incorrect_answers": [
+        "United Kingdom",
+        "Brazil",
+        "South Africa"
+      ]
+    }
+  ]
+}

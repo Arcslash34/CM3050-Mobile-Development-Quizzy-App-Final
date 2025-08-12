@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Video Games",
+      "question": "In Divinity: Original Sin II, what is the name of the skeletal origin character?",
+      "correct_answer": "Fane",
+      "incorrect_answers": [
+        "Lohse",
+        "The Red Prince",
+        "There are no skeletal origin characters"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Video Games",
+      "question": "Who is the main antagonist of Ori and the Blind Forest?",
+      "correct_answer": "Kuro",
+      "incorrect_answers": [
+        "Nibel",
+        "Gumo",
+        "King Rammer XII"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Video Games",
+      "question": "Which Mario spin-off game did Waluigi make his debut?",
+      "correct_answer": "Mario Tennis",
+      "incorrect_answers": [
+        "Mario Party 3",
+        "Mario Kart: Double Dash!!",
+        "Mario Golf: Toadstool Tour"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Video Games",
+      "question": "Who created the digital distribution platform Steam?",
+      "correct_answer": "Valve",
+      "incorrect_answers": [
+        "Pixeltail Games",
+        "Ubisoft",
+        "Electronic Arts"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Video Games",
+      "question": "The Khajiit are a race of cat-like creatures from which epic series of role-playing games, set across the land of Tamriel?",
+      "correct_answer": "The Elder Scrolls",
+      "incorrect_answers": [
+        "Lord of the Rings",
+        "The Witcher",
+        "Neverwinter Nights"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Video Games",
+      "question": "Which of the following Zelda games did not feature Ganon as a final boss?",
+      "correct_answer": "Majora&#039;s Mask",
+      "incorrect_answers": [
+        "Ocarina of Time",
+        "Skyward Sword",
+        "Breath of the Wild"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Video Games",
+      "question": "Who&#039;s the voice actor for Thrall in the Warcraft game series?",
+      "correct_answer": "Chris Metzen",
+      "incorrect_answers": [
+        "Ben Affleck",
+        "Jason Derulo",
+        "Jim Carrey"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Video Games",
+      "question": "Which of these levels does NOT appear in the console/PC versions of the game &quot;Sonic Generations&quot;?",
+      "correct_answer": "Mushroom Hill",
+      "incorrect_answers": [
+        "City Escape",
+        "Planet Wisp",
+        "Sky Sanctuary"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Video Games",
+      "question": "In the game Half-Life, which enemy is showcased as the final boss?",
+      "correct_answer": "The Nihilanth",
+      "incorrect_answers": [
+        "Dr. Wallace Breen",
+        "G-Man",
+        "The Gonarch"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Video Games",
+      "question": "The games Cry of Fear, Natural Selection and Counter-Strike were originally mods for what video game?",
+      "correct_answer": "Half-Life",
+      "incorrect_answers": [
+        "Warcraft III",
+        "Arma 2",
+        "Doom"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Comics",
+      "question": "Who created Ultron of Earth-616?",
+      "correct_answer": "Henry Pym",
+      "incorrect_answers": [
+        "Amadeus Cho",
+        "Tony Stark",
+        "Reed Richards"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Comics",
+      "question": "Who is the second person to take up the mantle of Night Owl in the Watchmen graphic novel?",
+      "correct_answer": "Daniel Dreiberg",
+      "incorrect_answers": [
+        "Nelson Gardner",
+        "Hollis Mason",
+        "Adrian Veidt"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Comics",
+      "question": "In &quot;Sonic the Hedgehog&quot; comic, who was the creator of Roboticizer? ",
+      "correct_answer": "Professor Charles the Hedgehog",
+      "incorrect_answers": [
+        "Julian Robotnik",
+        "Ivo Robotnik",
+        "Snively Robotnik"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Comics",
+      "question": "What is the designation given to the Marvel Cinematic Universe?",
+      "correct_answer": "Earth-199999",
+      "incorrect_answers": [
+        "Earth-616",
+        "Earth-10005",
+        "Earth-2008"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Comics",
+      "question": "In Calvin and Hobbes, what is the name of the principal at Calvin&#039;s school?",
+      "correct_answer": "Mr. Spittle",
+      "incorrect_answers": [
+        "Mr. Boreman",
+        "Mr. Spitling",
+        "Mr. Moe"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Comics",
+      "question": "In Calvin and Hobbes, what is the name of the babysitter&#039;s boyfriend?",
+      "correct_answer": "Charlie",
+      "incorrect_answers": [
+        "Dave",
+        "Charles",
+        "Nathaniel"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Comics",
+      "question": "Found in the Marvel Comics fictional universe, what is the name of the nearly indestructible metal that coats Wolverine&#039;s bones and claws?",
+      "correct_answer": "Adamantium",
+      "incorrect_answers": [
+        "Titanium",
+        "Vibranium",
+        "Carbonadium"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Comics",
+      "question": "What is the name of the comic about a young boy, and a tiger who is actually a stuffed animal?",
+      "correct_answer": "Calvin and Hobbes",
+      "incorrect_answers": [
+        "Winnie the Pooh",
+        "Albert and Pogo",
+        "Peanuts"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Comics",
+      "question": "In Marvel Comics, Taurus is the founder and leader of which criminal organization?",
+      "correct_answer": "Zodiac",
+      "incorrect_answers": [
+        "Scorpio",
+        "Tiger Mafia",
+        "The Union"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Comics",
+      "question": "The stuffed tiger in Calvin and Hobbes is named after what philosopher?",
+      "correct_answer": "Thomas Hobbes",
+      "incorrect_answers": [
+        "David Hobbes",
+        "John Hobbes",
+        "Nathaniel Hobbes"
+      ]
+    }
+  ]
+}

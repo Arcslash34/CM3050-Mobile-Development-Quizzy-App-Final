@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Television",
+      "question": "What NBC sitcom once saw two of its characters try to pitch NBC on a sitcom about nothing?",
+      "correct_answer": "Seinfeld",
+      "incorrect_answers": [
+        "Frasier",
+        "Becker",
+        "Friends"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Television",
+      "question": "What was the name of the teenage witch played by Melisa Joan Hart who lives with her witch aunts Hilda and Zelda?",
+      "correct_answer": "Sabrina",
+      "incorrect_answers": [
+        "Hermione",
+        "Dorothy",
+        "Dahlia"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Television",
+      "question": "In season one of the Netflix political drama &quot;House of Cards&quot;, what government position does Frank Underwood hold?",
+      "correct_answer": "House Majority Whip",
+      "incorrect_answers": [
+        "Attorney General",
+        "President",
+        "Chief of Staff"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Television",
+      "question": "Which of these characters in &quot;Stranger Things&quot; has the power of Telekinesis?",
+      "correct_answer": "Eleven",
+      "incorrect_answers": [
+        "Mike",
+        "Lucas",
+        "Karen"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Television",
+      "question": "What is the name of Chris&#039;s brother in &quot;Everybody Hates Chris&quot;?",
+      "correct_answer": "Drew",
+      "incorrect_answers": [
+        "Jerome",
+        "Greg",
+        "Joe"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Television",
+      "question": "In the television show Breaking Bad, what is the street name of Walter and Jesse&#039;s notorious product?",
+      "correct_answer": "Blue Sky",
+      "incorrect_answers": [
+        "Baby Blue",
+        "Rock Candy",
+        "Pure Glass"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Television",
+      "question": "The &quot;Psycho&quot; series of videos on YouTube was created by which of the following?",
+      "correct_answer": "RiDGiD STUDiOS",
+      "incorrect_answers": [
+        "Dan Bell",
+        "Billy Familia",
+        "VeganGainz"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Television",
+      "question": "Who played Agent Fox Mulder in the TV sci-fi drama &quot;The X-Files&quot;?",
+      "correct_answer": "David Duchovny",
+      "incorrect_answers": [
+        "Gillian Anderson",
+        "Robert Patrick",
+        "Mitch Pileggi"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Television",
+      "question": "In the show &quot;Dragonball Z&quot;, what is the name of Cell&#039;s most powerful attack?",
+      "correct_answer": "Solar Kamehameha",
+      "incorrect_answers": [
+        "Super Kamehameha",
+        "Cell Kamehameha",
+        "Android Kamehameha"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Television",
+      "question": "In Star Trek: The Next Generation, what is the name of Data&#039;s cat?",
+      "correct_answer": "Spot",
+      "incorrect_answers": [
+        "Mittens",
+        "Tom",
+        "Kitty"
+      ]
+    }
+  ]
+}

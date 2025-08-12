@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Film",
+      "question": "In the 1984 movie &quot;The Terminator&quot;, what model number is the Terminator portrayed by Arnold Schwarzenegger?",
+      "correct_answer": "T-800",
+      "incorrect_answers": [
+        "I-950",
+        "T-888",
+        "T-1000"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Film",
+      "question": "Which actor plays the character &quot;Tommy Jarvis&quot; in &quot;Friday the 13th: The Final Chapter&quot; (1984)?",
+      "correct_answer": "Corey Feldman",
+      "incorrect_answers": [
+        "Macaulay Culkin",
+        "Mel Gibson",
+        "Mark Hamill"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Film",
+      "question": "In the movie &ldquo;The Iron Giant,&rdquo; this character is the protagonist.",
+      "correct_answer": "Hogarth Hughes",
+      "incorrect_answers": [
+        "Kent Mansley",
+        "Dean McCoppin",
+        "Annie Hughes"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Film",
+      "question": "In the 1999 movie Fight Club, which of these is not a rule of the &quot;fight club&quot;?",
+      "correct_answer": "Always wear a shirt",
+      "incorrect_answers": [
+        "You do not talk about FIGHT CLUB",
+        "Only two guys to a fight",
+        "Fights will go on as long as they have to"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Film",
+      "question": "What is the name of the queen&#039;s pet in A Bug&#039;s Life?",
+      "correct_answer": "Aphie",
+      "incorrect_answers": [
+        "Flik",
+        "Hopper",
+        "Dot"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Film",
+      "question": "Who directed the movie &quot;Alien&quot;?",
+      "correct_answer": "Ridley Scott",
+      "incorrect_answers": [
+        "Christopher Nolan",
+        "Michael Bay",
+        "James Cameron"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Film",
+      "question": "Which of the following actors does not play a role in the movie &quot;The Usual Suspects?&quot;",
+      "correct_answer": "Steve Buscemi",
+      "incorrect_answers": [
+        "Kevin Spacey",
+        "Benicio Del Toro",
+        "Gabriel Byrne"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Film",
+      "question": "About how much money did it cost for Tommy Wiseau to make his masterpiece &quot;The Room&quot; (2003)?",
+      "correct_answer": "$6 Million",
+      "incorrect_answers": [
+        "$20,000",
+        "$1 Million",
+        "$10 Million"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Film",
+      "question": "Who played Sgt. Gordon Elias in &#039;Platoon&#039; (1986)?",
+      "correct_answer": "Willem Dafoe",
+      "incorrect_answers": [
+        "Charlie Sheen",
+        "Matt Damon",
+        "Johnny Depp"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Film",
+      "question": "Which former Star Trek actor directed Three Men and a Baby (1987)?",
+      "correct_answer": "Leonard Nimoy",
+      "incorrect_answers": [
+        "William Shatner",
+        "George Takei",
+        "James Doohan"
+      ]
+    }
+  ]
+}

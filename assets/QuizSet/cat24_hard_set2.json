@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Politics",
+      "question": "In June 2017, Saudi Arabia and Egypt broke off ties with which country over its supposed support for terrorism?",
+      "correct_answer": "Qatar",
+      "incorrect_answers": [
+        "Bahrain",
+        "United States of America",
+        "Russia"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Politics",
+      "question": "Which of the following United States Presidents served the shortest term in office?",
+      "correct_answer": "William Henry Harrison",
+      "incorrect_answers": [
+        "Zachary Taylor",
+        "James A. Garfield",
+        "Warren G. Harding"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Politics",
+      "question": "Which of these was an official candidate in the 2017 British General Election?",
+      "correct_answer": "Lord Buckethead",
+      "incorrect_answers": [
+        "James Francis",
+        "Robert Wimbledon",
+        "Sir Crumpetsby"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Politics",
+      "question": "Which letter do you need to have on a European driver license in order to ride any motorbikes?",
+      "correct_answer": "A",
+      "incorrect_answers": [
+        "X",
+        "D",
+        "B"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Politics",
+      "question": "What year did the effort to deploy the Common Core State Standards (CCSS) in the US begin?",
+      "correct_answer": "2009",
+      "incorrect_answers": [
+        "2012",
+        "2006",
+        "1997"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Politics",
+      "question": "Which Native American tribe/nation requires at least one half blood quantum (equivalent to one parent) to be eligible for membership?",
+      "correct_answer": "Yomba Shoshone Tribe",
+      "incorrect_answers": [
+        "Standing Rock Sioux Tribe",
+        "Kiowa Tribe of Oklahoma",
+        "Pawnee Nation of Oklahoma"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Politics",
+      "question": "Which US state was the first to allow women to vote in 1869?",
+      "correct_answer": "Wyoming",
+      "incorrect_answers": [
+        "California",
+        "Delaware",
+        "Virginia"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Politics",
+      "question": "Starting from 2000, China banned manufacturing and sales of all video game consoles. On which year was this ban lifted?",
+      "correct_answer": "2015",
+      "incorrect_answers": [
+        "2012",
+        "2008",
+        "2017"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Politics",
+      "question": "Which of the following United States senators is known for performing a 24-hour long filibuster?",
+      "correct_answer": "Strom Thurmond",
+      "incorrect_answers": [
+        "Roy Blunt",
+        "John Barrasso",
+        "Chuck Schumer"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Politics",
+      "question": "What is centralism?",
+      "correct_answer": " Concentration of power and authority in a central organization.",
+      "incorrect_answers": [
+        "Conforming to one single common political agenda.",
+        "Remaining politically neutral.",
+        "The grey area in the spectrum of political left and right."
+      ]
+    }
+  ]
+}

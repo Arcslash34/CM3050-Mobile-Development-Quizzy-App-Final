@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Celebrities",
+      "question": "In what year did &quot;Bob Ross&quot; die?",
+      "correct_answer": "1995",
+      "incorrect_answers": [
+        "1986",
+        "1989",
+        "1997"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Celebrities",
+      "question": "What is the real name of &quot;moot&quot;, founder of the imageboard 4chan?",
+      "correct_answer": "Christopher Poole",
+      "incorrect_answers": [
+        "Mark Zuckerberg",
+        "Allison Harvard",
+        "Catie Wayne"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Celebrities",
+      "question": "What was the cause of death for Freddie Mercury?",
+      "correct_answer": "Pneumonia",
+      "incorrect_answers": [
+        "Stomach Cancer",
+        "HIV",
+        "Brain Hemorrhage"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Celebrities",
+      "question": "How old was Muhammad Ali when he died?",
+      "correct_answer": "74",
+      "incorrect_answers": [
+        "61",
+        "He&#039;s still alive",
+        "56"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Celebrities",
+      "question": "In which situation was musician John Lennon assassinated?",
+      "correct_answer": "Attempting to enter the Dakota Apartments building",
+      "incorrect_answers": [
+        "During an impromptu walk through Central Park",
+        "Signing an autograph outside the Record Plant studio",
+        "Waiting outside a music venue in Manhattan following a gig"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Celebrities",
+      "question": "Which actress&#039;s real name was Frances Ethel Gumm?",
+      "correct_answer": "Judy Garland",
+      "incorrect_answers": [
+        "Doris Day",
+        "Julie Andrews",
+        "Marilyn Monroe"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Celebrities",
+      "question": "Nikki Diamond portrayed which Gladiator in the 1992 TV show &quot;Gladiators&quot;?",
+      "correct_answer": "Scorpio",
+      "incorrect_answers": [
+        "Jet",
+        "Nightshade",
+        "Falcon"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Celebrities",
+      "question": "Which American celebrity died in 1977 playing golf in La Moraleja, Madrid?",
+      "correct_answer": "Bing Crosby",
+      "incorrect_answers": [
+        "Elvis Presley",
+        "Charlie Chaplin",
+        "Groucho Marx"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Celebrities",
+      "question": "Who is &quot;James Rolfe&quot; better known as?",
+      "correct_answer": "The Angry Video Game Nerd",
+      "incorrect_answers": [
+        "TotalBiscuit",
+        "PeanutButterGamer",
+        "PewDiePie"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Celebrities",
+      "question": "In 2014, this new top 100 rapper who featured in &quot;Computers&quot; and &quot;Body Dance&quot; was arrested in a NYPD sting for murder.",
+      "correct_answer": "Bobby Shmurda",
+      "incorrect_answers": [
+        "DJ Snake",
+        "Swae Lee",
+        "Young Thug"
+      ]
+    }
+  ]
+}

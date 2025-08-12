@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Books",
+      "question": "Which author and poet famously wrote the line, &quot;The female of the species is more deadly than the male&quot;?",
+      "correct_answer": "Rudyard Kipling",
+      "incorrect_answers": [
+        "Edgar Allan Poe",
+        "William Shakespeare",
+        "William Wordsworth"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Books",
+      "question": "Which fictional English county was the setting for Thomas Hardy&#039;s novels?",
+      "correct_answer": "Wessex",
+      "incorrect_answers": [
+        "Barsetshire",
+        "Fulchester",
+        "Ambridge"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Books",
+      "question": "What is Ron Weasley&#039;s middle name?",
+      "correct_answer": "Bilius",
+      "incorrect_answers": [
+        "Arthur",
+        "John",
+        "Dominic"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Books",
+      "question": "In the Harry Potter universe, what is Cornelius Fudge&#039;s middle name?",
+      "correct_answer": "Oswald",
+      "incorrect_answers": [
+        "James",
+        "Harold",
+        "Christopher"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Books",
+      "question": "According to Bram Stoker&#039;s novel, in which British coastal town did Dracula come ashore?",
+      "correct_answer": "Whitby",
+      "incorrect_answers": [
+        "Scarborough",
+        "Brighton",
+        "Portsmouth"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Books",
+      "question": "In the book series &quot;Odd Thomas&quot;, Danny Jessup has what genetic disease? ",
+      "correct_answer": " Osteogenesis Imperfecta",
+      "incorrect_answers": [
+        "Spinocerebellar ataxia",
+        "Adrenoleukodystrophy",
+        "Cystic Fibrosis"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Books",
+      "question": "What is the name of the town in which Lily and James Potter are buried?",
+      "correct_answer": "Godric&#039;s Hollow",
+      "incorrect_answers": [
+        "Hogsmeade",
+        "Ottery St. Catchpole",
+        "Little Hangleton"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Books",
+      "question": "In the &quot;Harry Potter&quot; series, what is Headmaster Dumbledore&#039;s full name?",
+      "correct_answer": "Albus Percival Wulfric Brian Dumbledore",
+      "incorrect_answers": [
+        "Albus Valum Jetta Mobius Dumbledore",
+        "Albus James Lunae Otto Dumbledore",
+        "Albus Valencium Horatio Kul Dumbledore"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Books",
+      "question": "Which of these does Charlie NOT read in The Perks of Being a Wallflower?",
+      "correct_answer": "The Grapes of Wrath",
+      "incorrect_answers": [
+        "Hamlet",
+        "The Great Gatsby",
+        "Peter Pan"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Books",
+      "question": "Abel Magwitch is a character from which Charles Dickens novel?",
+      "correct_answer": "Great Expectations",
+      "incorrect_answers": [
+        "The Pickwick Papers",
+        "Nicholas Nickleby",
+        "Oliver Twist"
+      ]
+    }
+  ]
+}

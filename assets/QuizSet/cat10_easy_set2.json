@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Books",
+      "question": "In what Harry Potter book was a Horcrux first encountered?",
+      "correct_answer": "The Chamber of Secrets",
+      "incorrect_answers": [
+        "The Half-Blood Prince",
+        "The Goblet of Fire",
+        "The Deathly Hallows"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Books",
+      "question": "What is the name of Sherlock Holmes&#039;s brother?",
+      "correct_answer": "Mycroft Holmes",
+      "incorrect_answers": [
+        "Mederi Holmes",
+        "Martin Holmes",
+        "Herbie Hancock Holmes"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Books",
+      "question": "Which famous spy novelist wrote the childrens&#039; story &quot;Chitty-Chitty-Bang-Bang&quot;?",
+      "correct_answer": "Ian Fleming",
+      "incorrect_answers": [
+        "Joseph Conrad",
+        "John Buchan",
+        "Graham Greene"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Books",
+      "question": "Under what pseudonym did Stephen King publish five novels between 1977 and 1984?",
+      "correct_answer": "Richard Bachman",
+      "incorrect_answers": [
+        "J. D. Robb",
+        "Mark Twain",
+        "Lewis Carroll"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Books",
+      "question": "Who wrote the young adult novel &quot;The Fault in Our Stars&quot;?",
+      "correct_answer": "John Green",
+      "incorrect_answers": [
+        "Stephenie Meyer",
+        "Suzanne Collins",
+        "Stephen Chbosky"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Books",
+      "question": "Who wrote &quot;A Tale of Two Cities&quot;?",
+      "correct_answer": "Charles Dickens",
+      "incorrect_answers": [
+        "Charles Darwin",
+        "Mark Twain",
+        "Roald Dahl"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Books",
+      "question": "What is the name of the protagonist of J.D. Salinger&#039;s novel Catcher in the Rye?",
+      "correct_answer": "Holden Caulfield",
+      "incorrect_answers": [
+        "Fletcher Christian",
+        "Jay Gatsby",
+        "Randall Flagg"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Books",
+      "question": "What was the name of Captain Nemo&#039;s submarine in &quot;20,000 Leagues Under the Sea&quot;?",
+      "correct_answer": "The Nautilus",
+      "incorrect_answers": [
+        "The Neptune",
+        "The Poseidon  ",
+        "The Atlantis"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Books",
+      "question": "What is the name of the three headed dog in Harry Potter and the Sorcerer&#039;s Stone?",
+      "correct_answer": "Fluffy",
+      "incorrect_answers": [
+        "Spike",
+        "Poofy",
+        "Spot"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Books",
+      "question": "Which classic book opens with the line &quot;Call me Ishmael&quot;?",
+      "correct_answer": "Moby Dick",
+      "incorrect_answers": [
+        "A Tale of Two Cities",
+        "Kidnapped",
+        "Wuthering Heights"
+      ]
+    }
+  ]
+}

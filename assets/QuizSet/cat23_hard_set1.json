@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "History",
+      "question": "On which day did ARPANET suffer a 4 hour long network crash?",
+      "correct_answer": "October 27, 1980",
+      "incorrect_answers": [
+        "November 21, 1969",
+        "October 29, 1969",
+        "December 9, 1991"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "History",
+      "question": "Who invented the &quot;Flying Shuttle&quot; in 1738; one of the key developments in the industrialization of weaving?",
+      "correct_answer": "John Kay",
+      "incorrect_answers": [
+        "James Hargreaves",
+        "Richard Arkwright",
+        "John Deere"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "History",
+      "question": "What was the aim of the &quot;Umbrella Revolution&quot; in Hong Kong in 2014?",
+      "correct_answer": "Genuine universal suffrage",
+      "incorrect_answers": [
+        "Gaining Independence",
+        "Go back under British Rule",
+        "Lower taxes"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "History",
+      "question": "When was the city of Rome, Italy founded?",
+      "correct_answer": "753 BCE",
+      "incorrect_answers": [
+        "902 BCE",
+        "524 BCE",
+        "697 BCE"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "History",
+      "question": "Bohdan Khmelnytsky was which of the following?",
+      "correct_answer": "Leader of the Ukrainian Cossacks",
+      "incorrect_answers": [
+        "General Secretary of the Communist Party of the USSR",
+        "Prince of Wallachia",
+        "Grand Prince of Novgorod"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "History",
+      "question": "What was the name of the spy ring that helped the United States win the Revolutionary War?",
+      "correct_answer": "Culper Ring",
+      "incorrect_answers": [
+        "New York Spy Ring",
+        "Washington&#039;s Spies",
+        "Unnamed"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "History",
+      "question": "Who was the President of the United States during the signing of the Gadsden Purchase?",
+      "correct_answer": "Franklin Pierce",
+      "incorrect_answers": [
+        "Andrew Johnson",
+        "Abraham Lincoln",
+        "James Polk"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "History",
+      "question": "During the Spanish Civil War (1936), Francisco Franco fought for which political faction?",
+      "correct_answer": "Nationalist Spain",
+      "incorrect_answers": [
+        "Republican Spain",
+        "Popular Front",
+        "Papal State"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "History",
+      "question": "The son of which pope supposedly held a lecherous f&ecirc;te involving 50 courtesans in the papal palace?",
+      "correct_answer": "Alexander VI",
+      "incorrect_answers": [
+        "Innocent V",
+        "Urban II",
+        "Pius III"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "History",
+      "question": "Which of the following Physicists aided Nazi Germany in their production of a nuclear weapon?",
+      "correct_answer": "Werner Heisenberg",
+      "incorrect_answers": [
+        "John von Neumann",
+        "Albert Einstein",
+        "Max Planck"
+      ]
+    }
+  ]
+}

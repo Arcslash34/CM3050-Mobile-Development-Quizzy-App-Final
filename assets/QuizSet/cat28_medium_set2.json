@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Vehicles",
+      "question": "Which country has the international vehicle registration letter &#039;A&#039;?",
+      "correct_answer": "Austria",
+      "incorrect_answers": [
+        "Afghanistan",
+        "Australia",
+        "Armenia"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Vehicles",
+      "question": "Which car brand does NOT belong to General Motors?",
+      "correct_answer": "Ford",
+      "incorrect_answers": [
+        "Buick",
+        "Cadillac",
+        "Chevrolet"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Vehicles",
+      "question": "Complete the following analogy: Audi is to Volkswagen as Infiniti is to ?",
+      "correct_answer": "Nissan",
+      "incorrect_answers": [
+        "Honda",
+        "Hyundai",
+        "Subaru"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Vehicles",
+      "question": "What nickname was given to Air Canada Flight 143 after it ran out of fuel and glided to safety in 1983?",
+      "correct_answer": "Gimli Glider",
+      "incorrect_answers": [
+        "Gimli Microlight",
+        "Gimli Chaser",
+        "Gimli Superb"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Vehicles",
+      "question": "Which one of the following is not made by Ford?",
+      "correct_answer": "Camry",
+      "incorrect_answers": [
+        "Fusion",
+        "Model A",
+        "F-150"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Vehicles",
+      "question": "Which car manufacturer created the &quot;Aventador&quot;?",
+      "correct_answer": "Lamborghini",
+      "incorrect_answers": [
+        "Ferrari",
+        "Pagani",
+        "Bugatti"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Vehicles",
+      "question": "Which of the following car models has been badge-engineered (rebadged) the most?",
+      "correct_answer": "Isuzu Trooper",
+      "incorrect_answers": [
+        "Holden Monaro",
+        "Suzuki Swift",
+        "Chevy Camaro"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Vehicles",
+      "question": "Which of the following countries has officially banned the civilian use of dash cams in cars?",
+      "correct_answer": "Austria",
+      "incorrect_answers": [
+        "United States",
+        "Czechia",
+        "South Korea"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Vehicles",
+      "question": "Which of these cars is NOT considered one of the 5 Modern Supercars by Ferrari?",
+      "correct_answer": "Testarossa",
+      "incorrect_answers": [
+        "Enzo Ferrari",
+        "F40",
+        "288 GTO"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Vehicles",
+      "question": "Which of these car models are produced by Lamborghini?",
+      "correct_answer": "Aventador",
+      "incorrect_answers": [
+        "Huayra",
+        "918",
+        "Chiron"
+      ]
+    }
+  ]
+}

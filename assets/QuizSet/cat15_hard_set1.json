@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Video Games",
+      "question": "In &quot;Starbound&quot;, what is the max HP of the monster &quot;Punchy&quot;?",
+      "correct_answer": "50,000 HP",
+      "incorrect_answers": [
+        "9,000,000 HP",
+        "100 HP",
+        "150,000 HP"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Video Games",
+      "question": "What is the name of the alligator in Where&#039;s My Water?",
+      "correct_answer": "Swampy",
+      "incorrect_answers": [
+        "Cranky",
+        "Crocky",
+        "Justice"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Video Games",
+      "question": "Which of these Generation 1 Pokemon did NOT have an evolution in Generation 4?",
+      "correct_answer": "Jynx",
+      "incorrect_answers": [
+        "Electabuzz",
+        "Magmar",
+        "Rhydon"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Video Games",
+      "question": "Given that all party members are maxed, who is the fastest party member in Super Mario RPG: Legend of The Seven Stars?",
+      "correct_answer": "Geno",
+      "incorrect_answers": [
+        "Mario",
+        "Bowser",
+        "Peach"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Video Games",
+      "question": "In Stardew Valley, what is the reward for completing all of the Bulletin Board bundles?",
+      "correct_answer": "Additional Friendship points",
+      "incorrect_answers": [
+        "Glittering Boulder removed",
+        "Bus is repaired",
+        "Greenhouse"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Video Games",
+      "question": "What was the nickname of the original model for Half-Life&#039;s protagonist Gordon Freeman?",
+      "correct_answer": "Ivan the Space Biker",
+      "incorrect_answers": [
+        "Gordon the Space Biker",
+        "Ivan the Alien Biker",
+        "Gordon the Alien Biker"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Video Games",
+      "question": "How many voice channels does the Super Nintendo Entertainment System support?",
+      "correct_answer": "8",
+      "incorrect_answers": [
+        "6",
+        "10",
+        "12"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Video Games",
+      "question": "What programming language does the Source Engine use?",
+      "correct_answer": "C++ ",
+      "incorrect_answers": [
+        "Python",
+        "Java",
+        "Lua"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Video Games",
+      "question": "In TF2 Lore, what are the names of the Heavy&#039;s younger sisters?",
+      "correct_answer": "Yana and Bronislava",
+      "incorrect_answers": [
+        "Gaba and Anna",
+        "Yanna and Gaba",
+        "Anna and Bronislava"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Video Games",
+      "question": "In the SHMUP series, &quot;Gradius&quot;, what is the name of the antagonist faction you fight against?",
+      "correct_answer": "Bacterion",
+      "incorrect_answers": [
+        "Bydo",
+        "Belsar",
+        "ORN Empire"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science &amp; Nature",
+      "question": "Which of the following are cells of the adaptive immune system?",
+      "correct_answer": "Cytotoxic T cells",
+      "incorrect_answers": [
+        "Dendritic cells",
+        "Natural killer cells",
+        "White blood cells"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science &amp; Nature",
+      "question": "All of the following human genetic haplogroup names are shared between Y-chromosome and mitochondrial DNA haplogroups EXCEPT:",
+      "correct_answer": "Haplogroup U",
+      "incorrect_answers": [
+        "Haplogroup L",
+        "Haplogroup T",
+        "Haplogroup J"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science &amp; Nature",
+      "question": "Which of the following is NOT a real element?",
+      "correct_answer": "Vitrainium",
+      "incorrect_answers": [
+        "Praseodymium",
+        "Hassium",
+        "Lutetium"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science &amp; Nature",
+      "question": "What is the molecular formula of Ozone?",
+      "correct_answer": "O3",
+      "incorrect_answers": [
+        "C6H2O6",
+        "N2O",
+        "SO4"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science &amp; Nature",
+      "question": "Botanically speaking, which of these fruits is NOT a berry?",
+      "correct_answer": "Strawberry",
+      "incorrect_answers": [
+        "Blueberry",
+        "Banana",
+        "Concord Grape"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science &amp; Nature",
+      "question": "The Western Lowland Gorilla is scientifically know as?",
+      "correct_answer": "Gorilla Gorilla Gorilla",
+      "incorrect_answers": [
+        "Gorilla Gorilla Diehli",
+        "Gorilla Beringei Graueri",
+        "Gorilla Beringei Beringei"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science &amp; Nature",
+      "question": "Which of the following elements is typically used in the doping of the semiconductor silicon?",
+      "correct_answer": "Boron",
+      "incorrect_answers": [
+        "Oxygen",
+        "Carbon",
+        "Iron"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science &amp; Nature",
+      "question": "Which of the following plastic is commonly used for window frames, gutters and drain pipes?",
+      "correct_answer": "Polyvinylchloride (PVC) ",
+      "incorrect_answers": [
+        "Polyethylene (PE)",
+        "Polypropylene (PP)",
+        "Polystyrene (PS)"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science &amp; Nature",
+      "question": "How many protons are in an oxygen atom?",
+      "correct_answer": "Eight",
+      "incorrect_answers": [
+        "Four",
+        "Two",
+        "Six"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science &amp; Nature",
+      "question": "What is the molecular formula of Glucose?",
+      "correct_answer": "C6H12O6",
+      "incorrect_answers": [
+        "C2H4O2",
+        "K+",
+        "CH4"
+      ]
+    }
+  ]
+}

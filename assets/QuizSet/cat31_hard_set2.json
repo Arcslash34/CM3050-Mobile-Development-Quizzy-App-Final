@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Japanese Anime &amp; Manga",
+      "question": "Which animation studio produced &quot;Log Horizon&quot;?",
+      "correct_answer": "Satelite",
+      "incorrect_answers": [
+        "Sunrise",
+        "Xebec",
+        "Production I.G"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Japanese Anime &amp; Manga",
+      "question": "Medaka Kurokami from &quot;Medaka Box&quot; has what abnormality?",
+      "correct_answer": "The End",
+      "incorrect_answers": [
+        "Perfection",
+        "Sandbox",
+        "Fairness"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Japanese Anime &amp; Manga",
+      "question": "Which animation studio produced the anime adaptation of &quot;xxxHolic&quot;?",
+      "correct_answer": "Production I.G",
+      "incorrect_answers": [
+        "Sunrise",
+        "Xebec",
+        "Kyoto Animation"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Japanese Anime &amp; Manga",
+      "question": "Who was the Author of the manga Uzumaki?",
+      "correct_answer": "Junji Ito",
+      "incorrect_answers": [
+        "\tNoboru Takahashi",
+        "Akira Toriyama",
+        "Masashi Kishimoto"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Japanese Anime &amp; Manga",
+      "question": "Which animation studio animated &quot;Psycho Pass&quot;?",
+      "correct_answer": "Production I.G",
+      "incorrect_answers": [
+        "Kyoto Animation",
+        "Shaft",
+        "Trigger"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Japanese Anime &amp; Manga",
+      "question": "In what year did the manga &quot;Ping Pong&quot; begin serialization?",
+      "correct_answer": "1996",
+      "incorrect_answers": [
+        "2014",
+        "2010",
+        "2003"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Japanese Anime &amp; Manga",
+      "question": "What year was &quot;JoJo&#039;s Bizarre Adventure: Phantom Blood&quot; first released?",
+      "correct_answer": "1987",
+      "incorrect_answers": [
+        "2013",
+        "1983",
+        "1995"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Japanese Anime &amp; Manga",
+      "question": "Akatsuki&#039;s subclass in &quot;Log Horizon&quot; is what?",
+      "correct_answer": " Tracker",
+      "incorrect_answers": [
+        "Assassin",
+        "Scribe",
+        "Apprentice"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Japanese Anime &amp; Manga",
+      "question": "Which animation studio animated &quot;To Love-Ru&quot;?",
+      "correct_answer": "Xebec",
+      "incorrect_answers": [
+        "Trigger",
+        "Sunrise",
+        "Kyoto Animation"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Japanese Anime &amp; Manga",
+      "question": "Who is One Punch Man voiced by in the Japanese version.",
+      "correct_answer": "Makoto Furukawa",
+      "incorrect_answers": [
+        "Zach Aguilar",
+        "Kaito Ishikawa",
+        "Max Mittelman "
+      ]
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Film",
+      "question": "7-Eleven stores were temporarily converted into Kwik E-marts to promote the release of what movie?",
+      "correct_answer": "The Simpsons Movie",
+      "incorrect_answers": [
+        "Spider-Man 3",
+        "Shrek the Third",
+        "Ratatouille"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Film",
+      "question": "Which movie includes a giant bunny-like spirit who has magic powers including growing trees?",
+      "correct_answer": "My Neighbor Totoro",
+      "incorrect_answers": [
+        "Hop",
+        "Rise of the Guardians",
+        "Alice in Wonderland"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Film",
+      "question": "Which of the following movies was not based on a novel by Stephen King? ",
+      "correct_answer": "The Thing",
+      "incorrect_answers": [
+        "Carrie",
+        "Misery",
+        "The Green Mile"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Film",
+      "question": "In &quot;Mean Girls&quot;, who has breasts that tell when it&#039;s raining?",
+      "correct_answer": "Karen Smith",
+      "incorrect_answers": [
+        "Gretchen Weiners",
+        "Janice Ian",
+        "Cady Heron"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Film",
+      "question": "Who plays Jack Burton in the movie &quot;Big Trouble in Little China?&quot;",
+      "correct_answer": "Kurt Russell",
+      "incorrect_answers": [
+        "Patrick Swayze",
+        "John Cusack",
+        "Harrison Ford"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Film",
+      "question": "This movie contains the quote, &quot;Nobody puts Baby in a corner.&quot;",
+      "correct_answer": "Dirty Dancing",
+      "incorrect_answers": [
+        "Three Men and a Baby",
+        "Ferris Bueller&#039;s Day Off",
+        "Pretty in Pink"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Film",
+      "question": "In the movie &quot;Spaceballs&quot;, what are the Spaceballs attempting to steal from Planet Druidia?",
+      "correct_answer": "Air",
+      "incorrect_answers": [
+        "The Schwartz",
+        "Princess Lonestar",
+        "Meatballs"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Film",
+      "question": "Who plays Alice in the Resident Evil movies?",
+      "correct_answer": "Milla Jovovich",
+      "incorrect_answers": [
+        "Madison Derpe",
+        "Milla Johnson",
+        "Kim Demp"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Film",
+      "question": "Which of these actors does NOT appear in the 1998 movie &quot;Saving Private Ryan&quot;?",
+      "correct_answer": "Ralph Fiennes",
+      "incorrect_answers": [
+        "Tom Hanks",
+        "Vin Diesel",
+        "Matt Damon"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Film",
+      "question": "Who wrote and directed the 1986 film &#039;Platoon&#039;?",
+      "correct_answer": "Oliver Stone",
+      "incorrect_answers": [
+        "Francis Ford Coppola",
+        "Stanley Kubrick",
+        "Michael Cimino"
+      ]
+    }
+  ]
+}

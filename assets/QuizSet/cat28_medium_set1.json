@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Vehicles",
+      "question": "Which of the following car models has been badge-engineered (rebadged) the most?",
+      "correct_answer": "Isuzu Trooper",
+      "incorrect_answers": [
+        "Holden Monaro",
+        "Suzuki Swift",
+        "Chevy Camaro"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Vehicles",
+      "question": "Which car manufacturer created the &quot;Aventador&quot;?",
+      "correct_answer": "Lamborghini",
+      "incorrect_answers": [
+        "Ferrari",
+        "Pagani",
+        "Bugatti"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Vehicles",
+      "question": "Which supercar company is from Sweden?",
+      "correct_answer": "Koenigsegg",
+      "incorrect_answers": [
+        "Bugatti",
+        "Lamborghini",
+        "McLaren"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Vehicles",
+      "question": "Which of the following passenger jets is the longest?",
+      "correct_answer": "Boeing 747-8",
+      "incorrect_answers": [
+        "Airbus A350-1000",
+        "Airbus A330-200",
+        "Boeing 787-10"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Vehicles",
+      "question": "Enzo Ferrari was originally an auto racer for what manufacturer before founding his own car company?",
+      "correct_answer": "Alfa Romeo",
+      "incorrect_answers": [
+        "Auto Union",
+        "Mercedes Benz",
+        "Bentley"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Vehicles",
+      "question": "What manufacturer made the car used in Back to the Future?",
+      "correct_answer": "DeLorean",
+      "incorrect_answers": [
+        "Ford",
+        "Toyota",
+        "Daihatsu"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Vehicles",
+      "question": "When was Tesla founded?",
+      "correct_answer": "2003",
+      "incorrect_answers": [
+        "2008",
+        "2005",
+        "2007"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Vehicles",
+      "question": "Complete the following analogy: Audi is to Volkswagen as Infiniti is to ?",
+      "correct_answer": "Nissan",
+      "incorrect_answers": [
+        "Honda",
+        "Hyundai",
+        "Subaru"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Vehicles",
+      "question": "Which of these cars is NOT considered one of the 5 Modern Supercars by Ferrari?",
+      "correct_answer": "Testarossa",
+      "incorrect_answers": [
+        "Enzo Ferrari",
+        "F40",
+        "288 GTO"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Vehicles",
+      "question": "The British Rail Class 700, Class 707 and the Class 717 are part of what train family?",
+      "correct_answer": "Desiro City",
+      "incorrect_answers": [
+        "Networker",
+        "Aventra",
+        "Electrostar"
+      ]
+    }
+  ]
+}

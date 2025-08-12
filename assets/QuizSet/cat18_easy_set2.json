@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science: Computers",
+      "question": "How many kilobytes in one gigabyte (in decimal)?",
+      "correct_answer": "1000000",
+      "incorrect_answers": [
+        "1024",
+        "1000",
+        "1048576"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science: Computers",
+      "question": "On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?",
+      "correct_answer": "Exclamation Mark",
+      "incorrect_answers": [
+        "Dollar Sign",
+        "Percent Sign",
+        "Asterisk"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science: Computers",
+      "question": "What is the most preferred image format used for logos in the Wikimedia database?",
+      "correct_answer": ".svg",
+      "incorrect_answers": [
+        ".png",
+        ".jpeg",
+        ".gif"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science: Computers",
+      "question": "HTML is what type of language?",
+      "correct_answer": "Markup Language",
+      "incorrect_answers": [
+        "Macro Language",
+        "Programming Language",
+        "Scripting Language"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science: Computers",
+      "question": "The C programming language was created by this American computer scientist. ",
+      "correct_answer": "Dennis Ritchie",
+      "incorrect_answers": [
+        "Tim Berners Lee",
+        "al-Khwārizmī",
+        "Willis Ware"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science: Computers",
+      "question": "Which programming language shares its name with an island in Indonesia?",
+      "correct_answer": "Java",
+      "incorrect_answers": [
+        "Python",
+        "C",
+        "Jakarta"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science: Computers",
+      "question": "On Twitter, what was the original character limit for a Tweet?",
+      "correct_answer": "140",
+      "incorrect_answers": [
+        "120",
+        "160",
+        "100"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science: Computers",
+      "question": "The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:",
+      "correct_answer": "HD Graphics 500",
+      "incorrect_answers": [
+        "HD Graphics 700 ",
+        "HD Graphics 600",
+        "HD Graphics 7000"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science: Computers",
+      "question": "What does CPU stand for?",
+      "correct_answer": "Central Processing Unit",
+      "incorrect_answers": [
+        "Central Process Unit",
+        "Computer Personal Unit",
+        "Central Processor Unit"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science: Computers",
+      "question": "What does GHz stand for?",
+      "correct_answer": "Gigahertz",
+      "incorrect_answers": [
+        "Gigahotz",
+        "Gigahetz",
+        "Gigahatz"
+      ]
+    }
+  ]
+}

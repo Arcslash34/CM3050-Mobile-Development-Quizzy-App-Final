@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Television",
+      "question": "Who composed the theme song for The Simpsons?",
+      "correct_answer": "Danny Elfman",
+      "incorrect_answers": [
+        "John Williams",
+        "Hans Zimmer",
+        "Ennio Morricone"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Television",
+      "question": "In the TV series &quot;Person of Interest&quot;, who plays the character &quot;Harold Finch&quot;?",
+      "correct_answer": "Michael Emerson",
+      "incorrect_answers": [
+        "Jim Caviezel",
+        "Taraji P. Henson",
+        "Kevin Chapman"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Television",
+      "question": "Which of following is rude and dishonorable by Klingon standards?",
+      "correct_answer": "Taking his D&#039;k tahg",
+      "incorrect_answers": [
+        "Insulting and laughing at him at the dinner table",
+        "Reaching over and taking his meal",
+        "Punching him and taking his ship station position"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Television",
+      "question": "When did Spongebob Squarepants first air?",
+      "correct_answer": "May 1, 1999",
+      "incorrect_answers": [
+        "July 20, 2000",
+        "February 6, 2003",
+        "June 27, 1997"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Television",
+      "question": "Cesar Romero played which iconic Batman villain from the 1960&#039;s TV show?",
+      "correct_answer": "The Joker",
+      "incorrect_answers": [
+        "The Penguin",
+        "The Riddler",
+        "Mr. Freeze"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Television",
+      "question": "Who was Firestorm&#039;s rival during the original run of UK Robot Wars?",
+      "correct_answer": "Panic Attack",
+      "incorrect_answers": [
+        "Razer",
+        "Chaos 2",
+        "Hypno Disc"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Television",
+      "question": "In Game of Thrones what is the name of Jon Snow&#039;s sword?",
+      "correct_answer": "Longclaw",
+      "incorrect_answers": [
+        "Oathkeeper",
+        "Widow&#039;s Wail",
+        "Needle"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Television",
+      "question": "Which of the following was not an actor/actress on the American television show &quot;Saturday Night Live&quot; in Season 42?",
+      "correct_answer": "Tina Fey",
+      "incorrect_answers": [
+        "Mikey Day",
+        "Kate McKinnon",
+        "Sasheer Zamata"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Television",
+      "question": "Which actor was not a major character in TV Show Freaks and Geeks?",
+      "correct_answer": "Jonah Hill",
+      "incorrect_answers": [
+        "Jason Segel",
+        "Seth Rogen",
+        "James Franco"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Television",
+      "question": "In &quot;Star Trek&quot;, what is the Klingon death ritual?",
+      "correct_answer": "Look into sky and yell loudly in mourning.",
+      "incorrect_answers": [
+        "Kiss the jagged forehead before burial.",
+        "Shoot into space in a torpedo casing.",
+        "Split the deceased&#039;s earnings between bloodkin."
+      ]
+    }
+  ]
+}

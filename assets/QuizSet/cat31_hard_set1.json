@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Japanese Anime &amp; Manga",
+      "question": "In &quot;One Piece&quot;, what does &quot;the Pirate King&quot; mean to the captain of the Straw Hat Pirates?",
+      "correct_answer": "Freedom",
+      "incorrect_answers": [
+        "Promise",
+        "Adventure",
+        "Friendship"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Japanese Anime &amp; Manga",
+      "question": "Which animation studio produced &quot;Log Horizon&quot;?",
+      "correct_answer": "Satelite",
+      "incorrect_answers": [
+        "Sunrise",
+        "Xebec",
+        "Production I.G"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Japanese Anime &amp; Manga",
+      "question": "In the anime Initial D, how does Takumi Fujiwara describe a drift?",
+      "correct_answer": "&#039;. . . the front tires slide so the car won&#039;t face the inside&#039;",
+      "incorrect_answers": [
+        "&#039;. . . the wheels lose traction, making the car slide sideways&#039;",
+        "&#039;. . . the car oversteers through a curve, causing it to turn faster&#039;",
+        "&#039;. . . you turn a lot&#039;"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Japanese Anime &amp; Manga",
+      "question": "Which song was the callsign for Stefan Verdemann&#039;s KWFM radio station in Urasawa Naoki&#039;s &quot;Monster&quot;?",
+      "correct_answer": "Over the Rainbow",
+      "incorrect_answers": [
+        "What a Wonderful World",
+        "When You Wish Upon A Star",
+        "Singing In The Rain"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Japanese Anime &amp; Manga",
+      "question": "Which one of these characters is from &quot;Legendz : Tale of the Dragon Kings&quot;?",
+      "correct_answer": "Shiron",
+      "incorrect_answers": [
+        "Jack",
+        "Axia",
+        "Drum"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Japanese Anime &amp; Manga",
+      "question": "In the anime, Full Metal Panic!, who is Kaname&#039;s best friend?",
+      "correct_answer": "Kyoko Tokiwa",
+      "incorrect_answers": [
+        "Melissa Mao",
+        "Ren Mikihara",
+        "Teletha &quot;Tessa&quot; Testarossa"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Japanese Anime &amp; Manga",
+      "question": "In &quot;One Piece&quot;, who confirms the existence of the legendary treasure, One Piece?",
+      "correct_answer": "Edward &quot;Whitebeard&quot; Newgate",
+      "incorrect_answers": [
+        "Former Marine Fleet Admiral Sengoku",
+        "Pirate King Gol D Roger",
+        "Silvers Rayleigh"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Japanese Anime &amp; Manga",
+      "question": "Which person from &quot;JoJo&#039;s Bizarre Adventure&quot; does NOT house a reference to a band, artist, or song earlier than 1980?",
+      "correct_answer": "Giorno Giovanna",
+      "incorrect_answers": [
+        "Josuke Higashikata",
+        "Jolyne Cujoh",
+        "Johnny Joestar"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Japanese Anime &amp; Manga",
+      "question": "Which animation studio animated &quot;Hidamari Sketch&quot;?",
+      "correct_answer": "Shaft",
+      "incorrect_answers": [
+        "Trigger",
+        "Kyoto Animation",
+        "Production I.G"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Japanese Anime &amp; Manga",
+      "question": "In which manga did the &quot;404 Girl&quot; from 4chan originate from?",
+      "correct_answer": "Yotsuba&amp;!",
+      "incorrect_answers": [
+        "Azumanga Daioh",
+        "Lucky Star",
+        "Clover"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Animals",
+      "question": "What was the name of the Ethiopian Wolf before they knew it was related to wolves?",
+      "correct_answer": "Simien Jackel",
+      "incorrect_answers": [
+        "Ethiopian Coyote",
+        "Amharic Fox",
+        "Canis Simiensis"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Animals",
+      "question": "What scientific family does the Aardwolf belong to?",
+      "correct_answer": "Hyaenidae",
+      "incorrect_answers": [
+        "Canidae",
+        "Felidae",
+        "Eupleridae"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Animals",
+      "question": "Which of the following is another name for the &quot;Poecilotheria Metallica Tarantula&quot;?",
+      "correct_answer": "Gooty",
+      "incorrect_answers": [
+        "Hopper",
+        "Silver Stripe",
+        "Woebegone"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Animals",
+      "question": "Which of these is a colony of polyps and not a jellyfish?",
+      "correct_answer": "Portuguese Man-of-War",
+      "incorrect_answers": [
+        "Sea Wasp",
+        "Irukandji",
+        "Sea Nettle"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Animals",
+      "question": "What type of creature is a Bonobo?",
+      "correct_answer": "Ape",
+      "incorrect_answers": [
+        "Lion",
+        "Parrot",
+        "Wildcat"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Animals",
+      "question": "Which species of Brown Bear is not extinct?",
+      "correct_answer": "Syrian Brown Bear",
+      "incorrect_answers": [
+        "California Grizzly Bear",
+        "Atlas Bear",
+        "Mexican Grizzly Bear"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Animals",
+      "question": "What is the collective noun for vultures?",
+      "correct_answer": "Wake",
+      "incorrect_answers": [
+        "Ambush",
+        "Building",
+        "Gaze"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Animals",
+      "question": "What is the scientific name of the Budgerigar?",
+      "correct_answer": "Melopsittacus undulatus",
+      "incorrect_answers": [
+        "Nymphicus hollandicus",
+        "Pyrrhura molinae",
+        "Ara macao"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Animals",
+      "question": "What is the Gray Wolf&#039;s scientific name?",
+      "correct_answer": "Canis Lupus",
+      "incorrect_answers": [
+        "Canis Aureus",
+        "Canis Latrans",
+        "Canis Lupus Lycaon"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Animals",
+      "question": "To which biological phylum do all mammals, birds and reptiles belong?",
+      "correct_answer": "Chordata",
+      "incorrect_answers": [
+        "Echinodermata",
+        "Annelida",
+        "Placazoa"
+      ]
+    }
+  ]
+}

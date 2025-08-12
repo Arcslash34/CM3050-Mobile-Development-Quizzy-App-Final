@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Geography",
+      "question": "What event led to Liechenstein adding a crown to its flag?",
+      "correct_answer": "The 1936 Olympics",
+      "incorrect_answers": [
+        "Coronation of Prince Johann I Joseph in 1805",
+        "Charles VI&#039;s decree in 1719",
+        "Signing of the 1862 Constitution of Liechtenstein"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Geography",
+      "question": "How many countries are larger than Australia?",
+      "correct_answer": "5",
+      "incorrect_answers": [
+        "4",
+        "3",
+        "6"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Geography",
+      "question": "What is the largest Muslim country in the world?",
+      "correct_answer": "Indonesia",
+      "incorrect_answers": [
+        "Pakistan",
+        "Saudi Arabia",
+        "Iran"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Geography",
+      "question": "What is the capital of Senegal?",
+      "correct_answer": "Dakar",
+      "incorrect_answers": [
+        "Nouakchott",
+        "Conakry",
+        "Monrovia"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Geography",
+      "question": "What is the capital of the US state Nevada?",
+      "correct_answer": "Carson City",
+      "incorrect_answers": [
+        "Las Vegas",
+        "Henderson",
+        "Reno"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Geography",
+      "question": "What mountain range lines the border between Spain and France?",
+      "correct_answer": "Pyrenees",
+      "incorrect_answers": [
+        "Alps",
+        "Carpathians",
+        "Urals"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Geography",
+      "question": "Which country claims ownership of the disputed state Kosovo?",
+      "correct_answer": "Serbia",
+      "incorrect_answers": [
+        "Croatia",
+        "Albania",
+        "Macedonia"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Geography",
+      "question": "Montreal is in which Canadian province?",
+      "correct_answer": "Quebec",
+      "incorrect_answers": [
+        "Ontario",
+        "Nova Scotia",
+        "Alberta"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Geography",
+      "question": "What is the highest mountain in the world?",
+      "correct_answer": "Mt. Everest",
+      "incorrect_answers": [
+        "Mount Godwin Austen",
+        "Kangchenjunga",
+        "Annapurna"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Geography",
+      "question": "How many provinces are in the Netherlands?",
+      "correct_answer": "12",
+      "incorrect_answers": [
+        "14",
+        "10",
+        "13"
+      ]
+    }
+  ]
+}

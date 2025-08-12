@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Television",
+      "question": "In the TV Show &quot;Donkey Kong Country&quot;, which episode did the song &quot;Eddie, Let Me Go Back To My Home&quot; play in?",
+      "correct_answer": "It&#039;s a Wonderful Life",
+      "incorrect_answers": [
+        "Message In A Bottle Show",
+        "To The Moon Baboon",
+        "Ape-Nesia"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Television",
+      "question": "In &quot;Star Trek&quot;, what sauce is commonly used by Klingons on bregit lung?",
+      "correct_answer": "Grapok sauce",
+      "incorrect_answers": [
+        "Gazorpazorp pudding",
+        "Sweet chili sauce",
+        "Grapork sauce"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Television",
+      "question": "Which of these voices wasn&#039;t a choice for the House AI in &quot;The Simpsons Treehouse of Horror&quot; short, House of Whacks?",
+      "correct_answer": "George Clooney",
+      "incorrect_answers": [
+        "Matthew Perry",
+        "Dennis Miller",
+        "Pierce Brosnan"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Television",
+      "question": "Who played the sun baby in the original run of Teletubbies?",
+      "correct_answer": "Jessica Smith",
+      "incorrect_answers": [
+        "Pui Fan Lee",
+        "Sue Monroe",
+        "Lisa Brockwell"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Television",
+      "question": "Which actor from The Young Ones also played Lord Flashheart in one episode of Blackadder II?",
+      "correct_answer": "Rik Mayall",
+      "incorrect_answers": [
+        "Adrian Edmondson",
+        "Nigel Planer",
+        "Christopher Ryan"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Television",
+      "question": "Which of these Nickelodeon game shows aired first?",
+      "correct_answer": "Double Dare",
+      "incorrect_answers": [
+        "Nick Arcade",
+        "Finders Keepers",
+        "Nickelodeon Guts"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Television",
+      "question": "What was the date of original airing of the pilot episode of My Little Pony: Friendship is Magic?",
+      "correct_answer": "October 10th, 2010",
+      "incorrect_answers": [
+        "November 6th, 2010",
+        "April 14th, 1984",
+        "May 18th, 2015"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Television",
+      "question": "Which of the following actors portrayed the Ninth Doctor in the British television show &quot;Doctor Who&quot;?",
+      "correct_answer": "Christopher Eccleston",
+      "incorrect_answers": [
+        "David Tennant",
+        "Matt Smith",
+        "Tom Baker"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Television",
+      "question": "In &quot;Star Trek&quot;, what is the Klingon delicacy of &quot;gagh&quot; made from?",
+      "correct_answer": "Serpent worms",
+      "incorrect_answers": [
+        "Earthworms",
+        "Spaghetti noodles",
+        "Klingworms"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Television",
+      "question": "What was the UK &quot;Who Wants to be a Millionaire?&quot; cheating scandal known as?",
+      "correct_answer": "Major Fraud",
+      "incorrect_answers": [
+        "Ingram Cheater",
+        "Coughing Major",
+        "Millionaire Crime"
+      ]
+    }
+  ]
+}

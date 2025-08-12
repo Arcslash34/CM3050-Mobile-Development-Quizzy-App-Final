@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Books",
+      "question": "What position does Harry Potter play in Quidditch?",
+      "correct_answer": "Seeker",
+      "incorrect_answers": [
+        "Beater",
+        "Chaser",
+        "Keeper"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Books",
+      "question": "In &quot;The Lord of the Rings,&quot; who is the owner of Asfaloth, the horse which brings Frodo to Rivendell?",
+      "correct_answer": "Glorfindel",
+      "incorrect_answers": [
+        "Arwen",
+        "Aragorn",
+        "Haldir"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Books",
+      "question": "In &quot;Little Women&quot;, which of the March sisters married Laurie?",
+      "correct_answer": "Amy",
+      "incorrect_answers": [
+        "Beth",
+        "Jo",
+        "Meg"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Books",
+      "question": "What was the pen name of novelist, Mary Ann Evans?",
+      "correct_answer": "George Eliot",
+      "incorrect_answers": [
+        "George Orwell",
+        "George Bernard Shaw",
+        "George Saunders"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Books",
+      "question": "In Terry Pratchett&#039;s Discworld novel &#039;Wyrd Sisters&#039;, which of these are not one of the three main witches?",
+      "correct_answer": "Winny Hathersham",
+      "incorrect_answers": [
+        "Granny Weatherwax",
+        "Nanny Ogg",
+        "Magrat Garlick"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Books",
+      "question": "How many books are in the Chronicles of Narnia series?",
+      "correct_answer": "7",
+      "incorrect_answers": [
+        "6",
+        "8",
+        "5"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Books",
+      "question": "Who wrote the children&#039;s story &quot;The Little Match Girl&quot;?",
+      "correct_answer": "Hans Christian Andersen",
+      "incorrect_answers": [
+        "Charles Dickens",
+        "Lewis Carroll",
+        "Oscar Wilde"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Books",
+      "question": "Which Russian author wrote the epic novel War and Peace?",
+      "correct_answer": "Leo Tolstoy",
+      "incorrect_answers": [
+        "Fyodor Dostoyevsky",
+        "Alexander Pushkin",
+        "Vladimir Nabokov"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Books",
+      "question": "What is the name of the gang that Ponyboy is a part of in the book, The Outsiders?",
+      "correct_answer": "The Greasers",
+      "incorrect_answers": [
+        "The Outsiders",
+        "The Mafia",
+        "The Socs"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Books",
+      "question": "Who is the protagonist of the book: &quot;The Catcher in the Rye&quot; by J.D. Salinger",
+      "correct_answer": "Holden Caulfield",
+      "incorrect_answers": [
+        "Holden David",
+        "Jerome Caulfield",
+        "Jerome David"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science: Computers",
+      "question": "On Twitter, what was the original character limit for a Tweet?",
+      "correct_answer": "140",
+      "incorrect_answers": [
+        "120",
+        "160",
+        "100"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science: Computers",
+      "question": "If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.",
+      "correct_answer": "Binary",
+      "incorrect_answers": [
+        "JavaScript",
+        "C++",
+        "Python"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science: Computers",
+      "question": "According to the International System of Units, how many bytes are in a kilobyte of RAM?",
+      "correct_answer": "1000",
+      "incorrect_answers": [
+        "512",
+        "1024",
+        "500"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science: Computers",
+      "question": "Which computer language would you associate Django framework with?",
+      "correct_answer": "Python",
+      "incorrect_answers": [
+        "C#",
+        "C++",
+        "Java"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science: Computers",
+      "question": "What amount of bits commonly equals one byte?",
+      "correct_answer": "8",
+      "incorrect_answers": [
+        "1",
+        "2",
+        "64"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science: Computers",
+      "question": "Which computer hardware device provides an interface for all other connected devices to communicate?",
+      "correct_answer": "Motherboard",
+      "incorrect_answers": [
+        "Central Processing Unit",
+        "Hard Disk Drive",
+        "Random Access Memory"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science: Computers",
+      "question": "What does the &quot;MP&quot; stand for in MP3?",
+      "correct_answer": "Moving Picture",
+      "incorrect_answers": [
+        "Music Player",
+        "Multi Pass",
+        "Micro Point"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science: Computers",
+      "question": "On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?",
+      "correct_answer": "Exclamation Mark",
+      "incorrect_answers": [
+        "Dollar Sign",
+        "Percent Sign",
+        "Asterisk"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science: Computers",
+      "question": "What does GHz stand for?",
+      "correct_answer": "Gigahertz",
+      "incorrect_answers": [
+        "Gigahotz",
+        "Gigahetz",
+        "Gigahatz"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science: Computers",
+      "question": "The programming language &#039;Swift&#039; was created to replace what other programming language?",
+      "correct_answer": "Objective-C",
+      "incorrect_answers": [
+        "C#",
+        "Ruby",
+        "C++"
+      ]
+    }
+  ]
+}

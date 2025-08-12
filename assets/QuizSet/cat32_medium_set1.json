@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Cartoon &amp; Animations",
+      "question": "What ability does Princess Sofia the First have from her amulet that allows her to breathe underwater?",
+      "correct_answer": "Mermaid Transformation",
+      "incorrect_answers": [
+        "Artificial Gills",
+        "Bubble Head",
+        "Bubble Shield"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Cartoon &amp; Animations",
+      "question": "Before becoming the Autobot leader, Optimus Prime was known by what name on Cybertron?",
+      "correct_answer": "Orion Pax",
+      "incorrect_answers": [
+        "Long Haul",
+        "P-138",
+        "Teletran-1"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Cartoon &amp; Animations",
+      "question": "What is the standard frame rate for animation?",
+      "correct_answer": "24 FPS",
+      "incorrect_answers": [
+        "12 FPS",
+        "30 FPS",
+        "60 FPS"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Cartoon &amp; Animations",
+      "question": "In the animated series RWBY, what is the name of the weapon used by Weiss Schnee?",
+      "correct_answer": "Myrtenaster",
+      "incorrect_answers": [
+        "Gambol Shroud",
+        "Crescent Rose",
+        "Ember Celica"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Cartoon &amp; Animations",
+      "question": "In the Dreamworks animated movie &quot;Madagascar,&quot; who voices Maurice the lemur?",
+      "correct_answer": "Cedric the Entertainer",
+      "incorrect_answers": [
+        "Jack Black",
+        "Sacha Baron Cohen",
+        "Chris Rock"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Cartoon &amp; Animations",
+      "question": "The stop motion comedy show &quot;Robot Chicken&quot; was created by which of the following?",
+      "correct_answer": "Seth Green",
+      "incorrect_answers": [
+        "Seth MacFarlane",
+        "Seth Rogen",
+        "Seth Rollins"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Cartoon &amp; Animations",
+      "question": "When did the last episode of &quot;Futurama&quot; air before returning in 2023?",
+      "correct_answer": "September 4, 2013",
+      "incorrect_answers": [
+        "December 25, 2010",
+        "March 28, 1999",
+        "November 4, 2021"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Cartoon &amp; Animations",
+      "question": "In &quot;The Simpsons&quot;, where did Homer and Marge first meet?",
+      "correct_answer": "At Summer Camp",
+      "incorrect_answers": [
+        "At High School",
+        "At Church",
+        "At 742 Evergreen Terrace"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Cartoon &amp; Animations",
+      "question": "Which singer provided the voice of Metroid&#039;s Mother Brain in the animated series &quot;Captain N: The Game Master&quot;?",
+      "correct_answer": "Levi Stubbs",
+      "incorrect_answers": [
+        "Freddie Mercury",
+        "Janet Jackson",
+        "Joan Jett"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Cartoon &amp; Animations",
+      "question": "What animated internet character is known to answer emails with his boxing gloves?",
+      "correct_answer": "Strong Bad",
+      "incorrect_answers": [
+        "Strong Sad",
+        "Strong Mad",
+        "Strong Glad"
+      ]
+    }
+  ]
+}

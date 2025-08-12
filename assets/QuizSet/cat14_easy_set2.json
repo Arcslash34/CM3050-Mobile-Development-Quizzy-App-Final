@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Television",
+      "question": "In Supernatural, what&#039;s is Sam&#039;s brothers name?",
+      "correct_answer": "Dean",
+      "incorrect_answers": [
+        "Dave",
+        "Steve",
+        "Mike"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Television",
+      "question": "In the show Stranger Things, what is Eleven&#039;s favorite breakfast food?",
+      "correct_answer": "Eggo Waffles",
+      "incorrect_answers": [
+        "Toast",
+        "Captain Crunch",
+        "Bacon and Eggs"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Television",
+      "question": "How many seasons did the Sci-Fi television show &quot;Stargate Atlantis&quot; have?",
+      "correct_answer": "5",
+      "incorrect_answers": [
+        "10",
+        "2",
+        "7"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Television",
+      "question": "British actor David Morrissey stars as which role in &quot;The Walking Dead&quot;?",
+      "correct_answer": "The Governor",
+      "incorrect_answers": [
+        "Negan",
+        "Rick Grimes",
+        "Daryl Dixon"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Television",
+      "question": "Which actor portrays &quot;Walter White&quot; in the series &quot;Breaking Bad&quot;?",
+      "correct_answer": " Bryan Cranston",
+      "incorrect_answers": [
+        "Andrew Lincoln",
+        "Aaron Paul",
+        "RJ Mitte"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Television",
+      "question": "In the TV show &quot;Cheers&quot;, Sam Malone was a former relief pitcher for which baseball team?",
+      "correct_answer": "Boston Red Sox",
+      "incorrect_answers": [
+        "New York Mets",
+        "Baltimore Orioles",
+        "Milwaukee Brewers"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Television",
+      "question": "In &quot;Rick And Morty&quot;, who shot &quot;Mr. Poopybutthole&quot; in the episode &quot;Total Rickall&quot;?",
+      "correct_answer": "Beth",
+      "incorrect_answers": [
+        "Rick",
+        "Jerry",
+        "Morty"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Television",
+      "question": "Who played Agent Fox Mulder in the TV sci-fi drama &quot;The X-Files&quot;?",
+      "correct_answer": "David Duchovny",
+      "incorrect_answers": [
+        "Gillian Anderson",
+        "Robert Patrick",
+        "Mitch Pileggi"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Television",
+      "question": "In DuckTales, what is the name of the city where all the main characters live?",
+      "correct_answer": "Duckburg",
+      "incorrect_answers": [
+        "Duckwing",
+        "Tailspin",
+        "Wingford"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Television",
+      "question": "What TV show is about a grandfather dragging his grandson around on adventures?",
+      "correct_answer": "Rick &amp; Morty",
+      "incorrect_answers": [
+        "Family Guy",
+        "South Park",
+        "American Dad"
+      ]
+    }
+  ]
+}

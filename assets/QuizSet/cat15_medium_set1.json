@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Video Games",
+      "question": "In which Mario game did the Mega Mushroom make its debut?",
+      "correct_answer": "Mario Party 4",
+      "incorrect_answers": [
+        "New Super Mario Bros.",
+        "Mario Kart Wii",
+        "Super Mario 3D World"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Video Games",
+      "question": "In Team Fortress 2, which class wields a shotgun?",
+      "correct_answer": "Everyone Listed",
+      "incorrect_answers": [
+        "Heavy",
+        "Soldier",
+        "Engineer"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Video Games",
+      "question": "What numbers did Sayaka Maizono write on the wall in Dangan Ronpa Trigger Happy Havoc?",
+      "correct_answer": "11037",
+      "incorrect_answers": [
+        "4, 8, 15, 16, 23, 42",
+        "55730",
+        "3, 9, 11, 12, 15, 17,"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Video Games",
+      "question": "In World of Warcraft lore, who was first to have the title &quot;The Ashbringer&quot;?",
+      "correct_answer": "Alexandros Mograine",
+      "incorrect_answers": [
+        "Tirion Fordring",
+        "Arthas Menethil",
+        "Uther the Lightbringer"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Video Games",
+      "question": "In the &quot;Call Of Duty: Zombies&quot; map &quot;Origins&quot;, how many numbered power generators are there?",
+      "correct_answer": "6",
+      "incorrect_answers": [
+        "8",
+        "5",
+        "3"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Video Games",
+      "question": "In Sid Meier&#039;s Civilization V, which World Wonder can only be built in cities on or next to a desert?",
+      "correct_answer": "Petra",
+      "incorrect_answers": [
+        "The Pyramids",
+        "Alhambra",
+        "Mausoleum of Maussollos"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Video Games",
+      "question": "What engine did the original &quot;Half-Life&quot; run on?",
+      "correct_answer": "GoldSrc",
+      "incorrect_answers": [
+        "Source",
+        "Quake",
+        "Unreal"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Video Games",
+      "question": "In the game &quot;Subnautica&quot;, which feature was removed due to performance issues in 2016?",
+      "correct_answer": "Terraforming",
+      "incorrect_answers": [
+        "Building",
+        "Crafting",
+        "Multiplayer"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Video Games",
+      "question": "In &quot;Call Of Duty: Zombies&quot;, completing which map&#039;s main easter egg will reward you with the achievement, &quot;Little Lost Girl&quot;?",
+      "correct_answer": "Origins",
+      "incorrect_answers": [
+        "Revelations",
+        "Moon",
+        "Tranzit"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Video Games",
+      "question": "How many permanent companions are there in the base game version of Fallout: New Vegas?",
+      "correct_answer": "8",
+      "incorrect_answers": [
+        "7",
+        "9",
+        "6"
+      ]
+    }
+  ]
+}

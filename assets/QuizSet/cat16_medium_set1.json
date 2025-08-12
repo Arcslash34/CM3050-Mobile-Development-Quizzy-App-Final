@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Board Games",
+      "question": "In &quot;Magic: The Gathering&quot;, what instant card has the highest converted mana cost?",
+      "correct_answer": "Blinkmoth Infusion",
+      "incorrect_answers": [
+        "Vitalizing Wind",
+        " Chant of Vitu-Ghazi",
+        "Assert Authority"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Board Games",
+      "question": "The board game, Nightmare was released in what year?",
+      "correct_answer": "1991",
+      "incorrect_answers": [
+        "1992",
+        "1989",
+        "1995"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Board Games",
+      "question": "What letter is used to refer to blue mana in the card game Magic The Gathering?",
+      "correct_answer": "U",
+      "incorrect_answers": [
+        "B",
+        "L",
+        "E"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Board Games",
+      "question": "What special item did the creators of Cards Against Humanity ship for their Black Friday pack?",
+      "correct_answer": "Bull Feces",
+      "incorrect_answers": [
+        "A Card Expansion",
+        "A Racist Toy",
+        "Cat Urine"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Board Games",
+      "question": "In the Board Game, Settlers of Catan, a die roll of what number causes the Robber to attack? ",
+      "correct_answer": "7",
+      "incorrect_answers": [
+        "3",
+        "10",
+        "1"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Board Games",
+      "question": "In what year was the card game Magic: the Gathering first introduced?",
+      "correct_answer": "1993",
+      "incorrect_answers": [
+        "1987",
+        "1998",
+        "2003"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Board Games",
+      "question": "Which of the following tabletop games is the oldest?",
+      "correct_answer": "Go",
+      "incorrect_answers": [
+        "Chess",
+        "Mahjong",
+        "Shogi"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Board Games",
+      "question": "In poker, &quot;EV&quot; means what?",
+      "correct_answer": "Expected Value",
+      "incorrect_answers": [
+        "Equity Value",
+        "Equivalent Variation",
+        "Equity Variation"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Board Games",
+      "question": "Europa Universalis is a strategy video game based on which French board game?",
+      "correct_answer": "Europa Universalis",
+      "incorrect_answers": [
+        "Europe and the Universe",
+        "Europa!",
+        "Power in Europe"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Board Games",
+      "question": "In Yu-Gi-Oh, how does a player perform an Xyz Summon?",
+      "correct_answer": "Overlay at least 2 Monsters of the Same Level",
+      "incorrect_answers": [
+        "Activate a Spell and Send Monsters to the Graveyard",
+        "Add the Monsters&#039; Levels Together to Match the Xyz Monster",
+        "Banish A Number of Monsters From Your Hand And Deck"
+      ]
+    }
+  ]
+}

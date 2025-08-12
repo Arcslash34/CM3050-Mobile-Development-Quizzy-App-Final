@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Cartoon &amp; Animations",
+      "question": "In the Pixar film, &quot;Toy Story&quot; what was the name of the child who owned the toys?",
+      "correct_answer": "Andy",
+      "incorrect_answers": [
+        "Edward",
+        "Danny",
+        "Matt"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Cartoon &amp; Animations",
+      "question": "What was the name of the sea witch in the 1989 Disney film &quot;The Little Mermaid&quot;?",
+      "correct_answer": "Ursula",
+      "incorrect_answers": [
+        "Madam Mim",
+        "Maleficent",
+        "Lady Tremaine"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Cartoon &amp; Animations",
+      "question": "Who voices for Ruby in the animated series RWBY?",
+      "correct_answer": "Lindsay Jones",
+      "incorrect_answers": [
+        "Tara Strong",
+        "Jessica Nigri",
+        "Hayden Panettiere"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Cartoon &amp; Animations",
+      "question": "Which of the following did not feature in the cartoon &#039;Wacky Races&#039;?",
+      "correct_answer": "The Dragon Wagon",
+      "incorrect_answers": [
+        "The Bouldermobile",
+        "The Crimson Haybailer",
+        "The Compact Pussycat"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Cartoon &amp; Animations",
+      "question": "Which cartoon family lives in 742 Evergreen Terrace, Springfield USA?",
+      "correct_answer": "The Simpsons",
+      "incorrect_answers": [
+        "The Hills",
+        "The Flintstones",
+        "The Griffins"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Cartoon &amp; Animations",
+      "question": "Which of these is NOT a catchphrase used by Rick Sanchez in the TV show &quot;Rick and Morty&quot;?",
+      "correct_answer": "Slam dunk, nothing but net!",
+      "incorrect_answers": [
+        "Hit the sack, Jack!",
+        "Rikki-Tikki-Tavi, biatch!",
+        "Wubba-lubba-dub-dub!"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Cartoon &amp; Animations",
+      "question": "Wendy O. Koopa appeared in the Super Mario DIC Cartoons, but what was she known as?",
+      "correct_answer": "Kootie Pie",
+      "incorrect_answers": [
+        "Sweetie Pie",
+        "Wendy Pie",
+        "Honey Pie"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Cartoon &amp; Animations",
+      "question": "In My Little Pony, what is the name of Applejack&#039;s younger sister?",
+      "correct_answer": "Apple Bloom",
+      "incorrect_answers": [
+        "Red Delicious",
+        "Apple Sweets",
+        "Apple Fritter"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Cartoon &amp; Animations",
+      "question": "In The Simpsons, which war did Seymour Skinner serve in the USA Army as a Green Beret?",
+      "correct_answer": "Vietnam War",
+      "incorrect_answers": [
+        "World War 2",
+        "World War 1",
+        "Cold War"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Cartoon &amp; Animations",
+      "question": "What is Everest&#039;s favorite food in the Nickelodeon/Nick Jr. series &quot;PAW Patrol&quot;?",
+      "correct_answer": "Liver",
+      "incorrect_answers": [
+        "Chicken",
+        "Steak",
+        "Caribou"
+      ]
+    }
+  ]
+}

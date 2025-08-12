@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "History",
+      "question": "In which country was the Statue of Liberty built and exported to the United States of America?",
+      "correct_answer": "France",
+      "incorrect_answers": [
+        "Germany",
+        "Spain",
+        "England"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "History",
+      "question": "Which of the following ancient peoples was NOT classified as Hellenic (Greek)?",
+      "correct_answer": "Illyrians",
+      "incorrect_answers": [
+        "Dorians",
+        "Achaeans",
+        "Ionians"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "History",
+      "question": "What is the historical name of Sri Lanka?",
+      "correct_answer": "Ceylon",
+      "incorrect_answers": [
+        "Myanmar",
+        "Colombo",
+        "Badulla"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "History",
+      "question": "In what year did the Great Northern War, between Russia and Sweden, end?",
+      "correct_answer": "1721",
+      "incorrect_answers": [
+        "1726",
+        "1727",
+        "1724"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "History",
+      "question": "How many manned moon landings have there been?",
+      "correct_answer": "6",
+      "incorrect_answers": [
+        "1",
+        "3",
+        "7"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "History",
+      "question": "The Ottoman Empire was dissolved after their loss in which war?",
+      "correct_answer": "World War I",
+      "incorrect_answers": [
+        "Crimean War",
+        "Serbian Revolution",
+        "Second Balkan War"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "History",
+      "question": "Which of the following African countries was most successful in resisting colonization?",
+      "correct_answer": "Ethiopia",
+      "incorrect_answers": [
+        "C&ocirc;te d&rsquo;Ivoire",
+        "Congo",
+        "Namibia"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "History",
+      "question": "What does the United States of America celebrate during the 4th of July?",
+      "correct_answer": "The signing of the Declaration of Independence",
+      "incorrect_answers": [
+        "The anniversary of the Battle of Gettysburg",
+        "The crossing of the Delaware River",
+        "The ratification of the Constitution"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "History",
+      "question": "The &quot;Trail of Tears&quot; was a result of which United States President&#039;s Indian Removal Policy?",
+      "correct_answer": "Andrew Jackson",
+      "incorrect_answers": [
+        "Harry S. Truman",
+        "Martin Van Buren",
+        "John Quincy Adams"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "History",
+      "question": "Who was the first ruler of Haiti after the country had gained its independence?",
+      "correct_answer": "Jean-Jacques Dessalines",
+      "incorrect_answers": [
+        "Toussaint Louverture",
+        "Henri Christophe",
+        "Alexandre Petion"
+      ]
+    }
+  ]
+}

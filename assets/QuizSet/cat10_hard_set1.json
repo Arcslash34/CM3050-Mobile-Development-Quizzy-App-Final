@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Books",
+      "question": "According to Bram Stoker&#039;s novel, in which British coastal town did Dracula come ashore?",
+      "correct_answer": "Whitby",
+      "incorrect_answers": [
+        "Scarborough",
+        "Brighton",
+        "Portsmouth"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Books",
+      "question": "In The Lies Of Locke Lamora, what does &quot;Lamora&quot; mean in Throne Therin?",
+      "correct_answer": "Shadow",
+      "incorrect_answers": [
+        "Thievery",
+        "Justice",
+        "Chaos"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Books",
+      "question": "Which fictional English county was the setting for Thomas Hardy&#039;s novels?",
+      "correct_answer": "Wessex",
+      "incorrect_answers": [
+        "Barsetshire",
+        "Fulchester",
+        "Ambridge"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Books",
+      "question": "In the Harry Potter universe, who does Draco Malfoy end up marrying?",
+      "correct_answer": "Astoria Greengrass",
+      "incorrect_answers": [
+        "Pansy Parkinson",
+        "Millicent Bulstrode",
+        "Hermione Granger"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Books",
+      "question": "The novel &quot;Jane Eyre&quot; was written by what author? ",
+      "correct_answer": "Charlotte Bront&euml;",
+      "incorrect_answers": [
+        "Emily Bront&euml;",
+        "Jane Austen",
+        "Louisa May Alcott"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Books",
+      "question": "In which classic novel by Mark Twain did a beggar and Prince of Wales switch clothes, and learn about social class inequality?",
+      "correct_answer": "The Prince and the Pauper",
+      "incorrect_answers": [
+        "Hamlet",
+        "Wealthy Boy and the Schmuck",
+        "A Modern Twain Story"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Books",
+      "question": "Which author co-wrote &quot;The Communist Manifesto&quot; alongside Karl Marx?",
+      "correct_answer": "Friedrich Engels",
+      "incorrect_answers": [
+        "Robert Owen",
+        "Alexander Kerensky",
+        "Paul Lafargue"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Books",
+      "question": "In the &quot;Harry Potter&quot; series, what is Headmaster Dumbledore&#039;s full name?",
+      "correct_answer": "Albus Percival Wulfric Brian Dumbledore",
+      "incorrect_answers": [
+        "Albus Valum Jetta Mobius Dumbledore",
+        "Albus James Lunae Otto Dumbledore",
+        "Albus Valencium Horatio Kul Dumbledore"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Books",
+      "question": "In Margaret Atwood&#039;s &quot;The Handmaid&#039;s Tale&quot;, what is Offred&#039;s real name is implied to be?",
+      "correct_answer": "June",
+      "incorrect_answers": [
+        "August",
+        "April",
+        "May"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Books",
+      "question": "In the book &quot;The Martian&quot;, how long was Mark Watney trapped on Mars (in Sols)?",
+      "correct_answer": "549 Days",
+      "incorrect_answers": [
+        "765 Days",
+        "401 Days",
+        "324 Days"
+      ]
+    }
+  ]
+}

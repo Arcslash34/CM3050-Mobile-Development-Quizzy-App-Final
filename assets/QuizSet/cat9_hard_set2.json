@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "General Knowledge",
+      "question": "The word &quot;abulia&quot; means which of the following?",
+      "correct_answer": "The inability to make decisions",
+      "incorrect_answers": [
+        "The inability to stand up",
+        "The inability to concentrate on anything",
+        "A feverish desire to rip one&#039;s clothes off"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "General Knowledge",
+      "question": "What year was Queen Elizabeth II born?",
+      "correct_answer": "1926",
+      "incorrect_answers": [
+        "1923",
+        "1929",
+        "1930"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "General Knowledge",
+      "question": "What type of dog is &#039;Handsome Dan&#039;, the mascot of Yale University?",
+      "correct_answer": "Bulldog",
+      "incorrect_answers": [
+        "Yorkshire Terrier",
+        "Boxer",
+        "Pug"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "General Knowledge",
+      "question": "Which product did Nokia, the telecommunications company, originally sell?",
+      "correct_answer": "Paper",
+      "incorrect_answers": [
+        "Phones",
+        "Computers",
+        "Processors"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "General Knowledge",
+      "question": "How many calories are in a 355 ml can of Pepsi Cola?",
+      "correct_answer": "150",
+      "incorrect_answers": [
+        "200",
+        "100",
+        "155"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "General Knowledge",
+      "question": "Which church&#039;s interior in Vatican City was designed in 1503 by renaissance architects including Bramante, Michelangelo and Bernini?",
+      "correct_answer": "St. Peter&#039;s Basilica",
+      "incorrect_answers": [
+        "Catania Cathedral",
+        "St. Mark&rsquo;s Basilica",
+        "The Duomo of Florence"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "General Knowledge",
+      "question": "Virtual reality company Oculus VR lost which of it&#039;s co-founders in a freak car accident in 2013?",
+      "correct_answer": "Andrew Scott Reisse",
+      "incorrect_answers": [
+        "Nate Mitchell",
+        "Jack McCauley",
+        "Palmer Luckey"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "General Knowledge",
+      "question": "The Swedish word &quot;Grunka&quot; means what in English?",
+      "correct_answer": "Thing",
+      "incorrect_answers": [
+        "People",
+        "Place",
+        "Pineapple"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "General Knowledge",
+      "question": "The Quadrangularis Reversum is best described as which of the following?",
+      "correct_answer": "A percussion instrument",
+      "incorrect_answers": [
+        "A building in Oxford University",
+        "A chess move",
+        "A geometric theorem"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "General Knowledge",
+      "question": "According to the 2014-2015 Australian Bureau of Statistics, what percentage of Australians were born overseas?",
+      "correct_answer": "28%",
+      "incorrect_answers": [
+        "13%",
+        "20%",
+        "7%"
+      ]
+    }
+  ]
+}

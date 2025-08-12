@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Japanese Anime &amp; Manga",
+      "question": "The heroine of &quot;Humanity Has Declined&quot; is a mediator between humans and what?",
+      "correct_answer": "Fairies",
+      "incorrect_answers": [
+        "Elves",
+        "The Earth",
+        "Animals"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Japanese Anime &amp; Manga",
+      "question": "In Dragon Ball Z, who was the first character to go Super Saiyan 2?",
+      "correct_answer": "Gohan",
+      "incorrect_answers": [
+        "Goku",
+        "Vegeta",
+        "Trunks"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Japanese Anime &amp; Manga",
+      "question": "What song plays in the ending credits of the anime &quot;Ergo Proxy&quot;?",
+      "correct_answer": "Paranoid Android",
+      "incorrect_answers": [
+        "Sadistic Summer",
+        "Bittersweet Symphony",
+        "Mad World"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Japanese Anime &amp; Manga",
+      "question": "Which band name isn&#039;t a Stand in &quot;JoJo&#039;s Bizarre Adventure&quot;?",
+      "correct_answer": "AC/DC",
+      "incorrect_answers": [
+        "Green Day",
+        "Survivor",
+        "Red Hot Chili Peppers"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Japanese Anime &amp; Manga",
+      "question": "In the anime, &quot;Fullmetal Alchemist&quot;, who is known as the &#039;Flame Alchemist&#039;?",
+      "correct_answer": "Roy Mustang",
+      "incorrect_answers": [
+        "Edward Elric",
+        "Maes Hughes",
+        "Lin Yao"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Japanese Anime &amp; Manga",
+      "question": "Who is the main character in One Piece?",
+      "correct_answer": "Luffy",
+      "incorrect_answers": [
+        "Shanks",
+        "Zoro",
+        "Smoker"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Japanese Anime &amp; Manga",
+      "question": "Which of the stands from &quot;JoJo&#039;s Bizarre Adventure&quot; mimics the likeness of a tomato?",
+      "correct_answer": "Pearl Jam",
+      "incorrect_answers": [
+        "Red Hot Chili Pepper",
+        "Cream Starter",
+        "Nut King Call"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Japanese Anime &amp; Manga",
+      "question": "What colour hair does the main character of the Yu-Gi-Oh! original anime series have?",
+      "correct_answer": "Red, black and yellow",
+      "incorrect_answers": [
+        "Red, yellow and green",
+        "Red, black and green",
+        "Red, purple and blue"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Japanese Anime &amp; Manga",
+      "question": "In &quot;To Love-Ru: Darkness&quot;, which of the girls attempt making a harem for Rito Yuuki?",
+      "correct_answer": "Momo Deviluke",
+      "incorrect_answers": [
+        "Yami (Golden Darkness)",
+        "Haruna Sairenji",
+        "Mea Kurosaki"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Japanese Anime &amp; Manga",
+      "question": "Which studio animated Soul Eater?",
+      "correct_answer": "Bones",
+      "incorrect_answers": [
+        "Kyoto Animation",
+        "xebec",
+        "Production I.G"
+      ]
+    }
+  ]
+}

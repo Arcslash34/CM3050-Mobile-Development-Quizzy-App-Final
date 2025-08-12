@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Geography",
+      "question": "The formerly East-Prussian city of K&ouml;nigsberg is known as which Russian City today?",
+      "correct_answer": "Kaliningrad",
+      "incorrect_answers": [
+        "Kazan",
+        "Kursk",
+        "Krasnodar"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Geography",
+      "question": "What is the capital of Lithuania?",
+      "correct_answer": "Vilnius",
+      "incorrect_answers": [
+        "Tallinn",
+        "Helsinki",
+        "Riga"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Geography",
+      "question": "Which of the following is not a megadiverse country - one that harbors a high number of the earth&#039;s endemic species?",
+      "correct_answer": "Thailand",
+      "incorrect_answers": [
+        "Peru",
+        "Mexico",
+        "South Africa"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Geography",
+      "question": "What is the right way to spell the capital of Hungary?",
+      "correct_answer": "Budapest",
+      "incorrect_answers": [
+        "Boodapest",
+        "Bhudapest",
+        "Budapast"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Geography",
+      "question": "What city  has the busiest airport in the world?",
+      "correct_answer": "Atlanta, Georgia USA",
+      "incorrect_answers": [
+        "London, England",
+        "Chicago,Illinois ISA",
+        "Tokyo,Japan"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Geography",
+      "question": "Which country inside the United Kingdom does NOT appear on its flag, the Union Jack?",
+      "correct_answer": "Wales",
+      "incorrect_answers": [
+        "Scotland",
+        "Ireland",
+        "Isle of Wight"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Geography",
+      "question": "What was the most populous city in the Americas in 2015?",
+      "correct_answer": "S&atilde;o Paulo",
+      "incorrect_answers": [
+        "New York",
+        "Mexico City",
+        "Los Angeles"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Geography",
+      "question": "Which is the largest city in Morocco?",
+      "correct_answer": "Casablanca",
+      "incorrect_answers": [
+        "Rabat",
+        "Fes",
+        "Sale"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Geography",
+      "question": "Which of the following is the longest river in Europe?",
+      "correct_answer": "Volga",
+      "incorrect_answers": [
+        "Danube",
+        "Ural",
+        "Dnieper"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Geography",
+      "question": "What event led to Liechenstein adding a crown to its flag?",
+      "correct_answer": "The 1936 Olympics",
+      "incorrect_answers": [
+        "Coronation of Prince Johann I Joseph in 1805",
+        "Charles VI&#039;s decree in 1719",
+        "Signing of the 1862 Constitution of Liechtenstein"
+      ]
+    }
+  ]
+}
