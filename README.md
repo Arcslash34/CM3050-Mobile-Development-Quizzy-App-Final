@@ -37,8 +37,6 @@ It features personalized quiz gameplay, XP and badge rewards, daily challenges, 
 
 ## 🚀 Run Locally
 
-## 🚀 Run Locally
-
 > **⚠️ SDK Version Notice:**  
 > This project was built and tested using **Expo SDK 52**.  
 > For best compatibility, please run the app using the Expo Go client for SDK 52:  
