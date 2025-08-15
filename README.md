@@ -15,7 +15,7 @@ It features personalized quiz gameplay, XP and badge rewards, daily challenges, 
 - 👥 Friend Requests, Messaging, Blocking
 - 🔕 Push Notifications (Daily quiz & message alerts)
 - 🗣️ Manual Language Switching with Dynamic Text Translation
-- 📶 Offline Support via AsyncStorage
+- 📶 Saving Support via AsyncStorage
 - 🌙 Modern Dark UI Design
 
 ---
@@ -36,6 +36,13 @@ It features personalized quiz gameplay, XP and badge rewards, daily challenges, 
 ---
 
 ## 🚀 Run Locally
+
+## 🚀 Run Locally
+
+> **⚠️ SDK Version Notice:**  
+> This project was built and tested using **Expo SDK 52**.  
+> For best compatibility, please run the app using the Expo Go client for SDK 52:  
+> [https://expo.dev/go?sdkVersion=52&platform=android&device=true](https://expo.dev/go?sdkVersion=52&platform=android&device=true)
 
 To run **Quizzy** on your local machine using VS Code or any terminal:
 
@@ -67,14 +74,6 @@ npm test
 
 ---
 
-## 📚 Credits / Acknowledgments
-- **Open Trivia DB** – For quiz content  
-- **Supabase** – For backend services (auth, storage, DB)  
-- **Vercel** – For hosting the password reset flow  
-- **Expo** – For push notification support and mobile development tools  
-
----
-
 ## 👥 Demo Accounts for Testing
 
 ### Gmail (For Testing Supabase Password Reset)
@@ -84,3 +83,11 @@ npm test
 ### App Login
 - **Username:** Quizzy  
 - **Password:** test123
+
+---
+
+## 📚 Credits / Acknowledgments
+- **Open Trivia DB** – For quiz content  
+- **Supabase** – For backend services (auth, storage, DB)  
+- **Vercel** – For hosting the password reset flow  
+- **Expo** – For push notification support and mobile development tools  
