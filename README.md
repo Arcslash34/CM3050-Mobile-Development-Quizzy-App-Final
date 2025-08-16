@@ -30,8 +30,9 @@ It features personalized quiz gameplay, XP and badge rewards, daily challenges, 
 
 ### Third-party Services
 - [📚 Open Trivia DB](https://opentdb.com/) – Source of quiz questions  
+- [🧰 Supabase](https://supabase.com/) – Auth, Postgres DB (RLS), Realtime, Storage, JS client  
 - [🪄 Vercel](https://vercel.com/) – Hosted Supabase password reset page  
-- [📲 Expo](https://expo.dev/) – App development, push notifications  
+- [📲 Expo](https://expo.dev/) – App development, push notifications
 
 ---
 
